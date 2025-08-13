@@ -4,9 +4,9 @@
 
 A basic Butter Box setup is a Raspberry Pi Zero 2 W with a microSD card running the Butter software, a USB stick, powered by a USB source like a power cord, power bank or solar panel.
 
-In most setups like this, a Butter Box can comfortably handle **10–15 connected devices at once** without slowing down. It’s possible to have more, but performance may drop if everyone is downloading large files or videos at the same time.
+In most setups like this, a Butter Box can comfortably handle &#x34;**–10 connected devices at once** without slowing down. It’s possible to have more, but performance may drop if everyone is downloading large files or videos at the same time.
 
-The reach for it is about **10–25 meters (30–80 feet)** indoors, depending on walls and interference. Outdoors, in open space, it can sometimes reach farther. Think of it like the range of a home Wi-Fi router — enough to cover a classroom, meeting space, or small outdoor gathering.
+The reach for it is about **5–10 meters** indoors, depending on the Raspberry Pi model and depending on walls and interference. Outdoors, in open space, it can sometimes reach farther. Think of it like the range of a home Wi-Fi router — enough to cover a classroom, a coffee shop, meeting space, or small outdoor gathering.
 
 <figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,9 +16,9 @@ The reach for it is about **10–25 meters (30–80 feet)** indoors, depending o
 
 An extended Butter Box pairs the Raspberry Pi with a standalone Wi-Fi router, giving stronger signal and more simultaneous connections.
 
-With the router, the network can reach **50–100 m (160–330 ft)** in open areas and comfortably support **25–50 connected devices** at the same time.
+With the router, the network can reach **10-30 m**, like a city block or a park, and can comfortably support **10–20 connected devices** at the same time per router (but you can add more routers to it).
 
-This setup is ideal for large classrooms, events, or community spaces where more people need access at once.
+This setup is ideal for medium group of people in a medium room, like classrooms, events, or community spaces like a church.
 
 
 
