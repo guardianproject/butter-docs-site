@@ -1,71 +1,20 @@
 ---
-description: Sharing offline has never been easier!
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# About
+# Get Started
 
-The internet is essential for modern life, yet access to it remains deeply unequal. Censorship, cost, geographic isolation, and safety concerns prevent many communities from getting online. In these situations, people often rely on lo-fi tools and face-to-face interactions to meet their daily needs.
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>I have a box</td><td><a href="quick-start/">quick-start</a></td><td><a href=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png">Screenshot 2025-08-01 at 6.16.08 AM.png</a></td></tr><tr><td>I need a box</td><td><a href="build-a-box/">build-a-box</a></td><td><a href=".gitbook/assets/Screenshot 2025-08-01 at 6.17.50 AM.png">Screenshot 2025-08-01 at 6.17.50 AM.png</a></td></tr></tbody></table>
 
-Butter Box is designed to complement these face-to-face practices. It’s a lightweight, portable device that functions like a hard drive with its own hotspot. Anyone nearby can connect to it and view or download its contents—no internet required.
+## I Have A Butter Box
 
-**Basic Butter Box Specs:**
-
-* **Range:** Approximately 12 feet (5 meters)
-* **Capacity:** Supports up to 4 simultaneous connections
-
-By supporting local information sharing, Butter Box helps communities stay informed, connected, and resilient—even without access to the global internet.
-
-<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.13.10 AM.png" alt=""><figcaption></figcaption></figure>
-
-{% content-ref url="case-studies.md" %}
-[case-studies.md](case-studies.md)
-{% endcontent-ref %}
+<a href="quick-start/" class="button primary">Quick Start</a>
 
 
 
-{% columns %}
-{% column %}
-✅  **It Does:**\
+## I Need A Butter Box
+
+<a href="build-a-box/" class="button primary">Build a Box</a>
 
 
-* Connect a limited amount of people for a short amount of time
-* Function completely off the grid
-{% endcolumn %}
-
-{% column %}
-❌  **It Does not:**\
-
-
-* Connect anyone to the internet. It only connects people to the information available on the box.
-* Allow anyone outside the range to connect.
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-## Why You Need it
-
-* **Offline empowerment:** Deploy digital tools in remote, power‑outage, or low‑connectivity environments.
-* **Community & education:** Facilitate app sharing, group chats, and local content distribution.
-* **Fully self‑contained:** Can be battery or solar powered—ideal for field operations, events, or informal learning zones.
-
-<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption><p>could be a video demo or image diagram</p></figcaption></figure>
 

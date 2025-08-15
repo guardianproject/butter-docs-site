@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Updates
+# Update Butter
 
 ### Check out new releases from Butter HQ
 
@@ -14,4 +14,4 @@ Always choose the Latest Version of the file
 
 ### Update your Butter Box
 
-Update your Butter Box using the same guide with the steps you take when you are setting a Butter Box up for the first time. You can find it here: [Raspberry Pi Imager Steps](get-started/raspberry-pi-imager-steps.md)
+Update your Butter Box using the same guide with the steps you take when you are setting a Butter Box up for the first time. You can find it here: [Raspberry Pi Imager Steps](get-started-1/raspberry-pi-imager-steps.md)
