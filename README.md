@@ -10,17 +10,23 @@ Butter Box is a lightweight, portable device that functions like a hard drive wi
 
 Whether you have a Butter Box in your hands or you need to build one, you're in the right spot. Choose an option below.
 
-
-
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.13.10 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption></figcaption></figure>
 
 <a href="quick-start/" class="button primary">I Have A Box</a> &#x20;
+
+
+
+
 {% endcolumn %}
 
 {% column %}
-<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.13.10 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption></figcaption></figure>
 
 <a href="quick-start/" class="button primary">I Need A Box</a> &#x20;
 
