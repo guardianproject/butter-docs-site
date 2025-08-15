@@ -1,6 +1,5 @@
 ---
 description: 'Sharing Offline Has Never Been Easier: Get Started with Butter Box!'
-coverY: 0
 ---
 
 # Get Started
