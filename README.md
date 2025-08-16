@@ -28,7 +28,7 @@ Whether you have a Butter Box in your hands or you need to build one, you're in 
 
 <figure><img src=".gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption></figcaption></figure>
 
-<a href="quick-start/" class="button primary">I Need A Box</a> &#x20;
+<a href="build-a-box/" class="button primary">I Need A Box</a> &#x20;
 
 
 {% endcolumn %}
