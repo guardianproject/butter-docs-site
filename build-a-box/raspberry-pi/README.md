@@ -1,8 +1,12 @@
-# Raspberry Pi Supplies
+---
+description: Build a Butter Box with Raspberry Pi
+---
+
+# Raspberry Pi
 
 {% stepper %}
 {% step %}
-### Get your supplies
+### Supply List (Basic)
 
 * [ ] Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291)
 * [ ] FIY: Pi 4 Works great
@@ -17,5 +21,13 @@
 
 Or you can buy a kit here: [\
 https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
+{% endstep %}
+
+{% step %}
+
+
+### Supply List (Extended)
+
+
 {% endstep %}
 {% endstepper %}
