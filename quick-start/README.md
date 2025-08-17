@@ -1,5 +1,7 @@
 # Quick Start
 
+[Back to Get Started](../)
+
 If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
 
 1.  Make sure you have the basic required supplies:&#x20;

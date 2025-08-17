@@ -1,15 +1,18 @@
 # Build A Box
 
+[Back to Get Started](../)
+
 Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. You can use either one. See comparison chart below for details.
 
-| Device    | Capacity                    | Speed |
-| --------- | --------------------------- | ----- |
-| Zero Pi 2 | ..                          | ...   |
-| Pi 4      | .. when setup with a router | ...   |
+| Device    | Capacity                    | Supplies                                       |
+| --------- | --------------------------- | ---------------------------------------------- |
+| Zero Pi 2 | ..                          | [Supply list](raspberry-pi/)                   |
+| Pi 4      | .. when setup with a router | [Supply list](raspberry-pi/#supply-list-basic) |
 
-Build your own Butter Box!
+**Build Your Box**
 
-1. [Get your supplies](raspberry-pi/)
-2. Download and install the [Butter Box software](../get-started-1/raspberry-pi-imager-steps.md) to the SD card
+Once you have your supplies, download and install the [Butter Box software](../get-started-1/raspberry-pi-imager-steps.md) onto the micro SD card.
 
-Once you're done, insert the SD card into the device. Then go to the Quick Start section for your next steps.
+Insert the SD card into the device.&#x20;
+
+Then go to the [Quick Start](../quick-start/) section for your next steps.
