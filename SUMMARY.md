@@ -11,7 +11,6 @@
   * [Load USB](quick-start/load-usb.md)
   * [Set Wifi Password](quick-start/set-wifi-password.md)
 * [Message Board](message-board.md)
-* [App Store](app-store.md)
 * [Update Butter](update-butter.md)
 * [Documentation](documentation.md)
 * [About](<README (1).md>)
