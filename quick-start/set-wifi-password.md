@@ -1,5 +1,7 @@
 # Set Wifi Password
 
+{% embed url="https://youtu.be/CmjGUbZyopY" %}
+
 Changing the Wi-Fi password for your Butter Box hotspot from the admin dashboard is straightforward. Here are the steps:
 
 {% stepper %}
