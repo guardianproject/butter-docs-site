@@ -4,6 +4,13 @@
 
 If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
 
+* Supply check (show images of pieces with labels)
+* Power on
+* Load USB
+* Set wifi password (opt)
+
+
+
 1.  Make sure you have the basic required supplies:&#x20;
 
     1. Butter Box  (with SD card inserted)
