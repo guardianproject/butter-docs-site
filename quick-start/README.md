@@ -9,6 +9,8 @@ If you have a Butter Box with the latest version of the Butter software loaded o
 * Load USB
 * Set wifi password (opt)
 
+(video of this flow)
+
 
 
 1.  Make sure you have the basic required supplies:&#x20;
