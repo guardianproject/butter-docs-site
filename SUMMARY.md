@@ -7,7 +7,6 @@
   * [Orange Pi](build-a-box/orange-pi.md)
   * [Linux](build-a-box/linux.md)
 * [Quick Start](quick-start/README.md)
-  * [Power On](quick-start/power-on.md)
   * [Load USB](quick-start/load-usb.md)
   * [Set Wifi Password](quick-start/set-wifi-password.md)
 * [Message Board](message-board.md)

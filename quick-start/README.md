@@ -1,47 +1,13 @@
+---
+cover: ../.gitbook/assets/20250815_143947.jpg
+coverY: 0
+---
+
 # Quick Start
 
 [Back to Get Started](../)
 
 If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
-
-* Supply check (show images of pieces with labels)
-* Power on
-* Load USB
-* Set wifi password (opt)
-
-(video of this flow)
-
-
-
-1.  Make sure you have the basic required supplies:&#x20;
-
-    1. Butter Box  (with SD card inserted)
-    2. Power cord&#x20;
-    3. USB drive and necessary micro USB adapter
-
-    <figure><img src="../.gitbook/assets/Screenshot 2025-08-01 at 6.16.08 AM.png" alt=""><figcaption></figcaption></figure>
-
-
-2.  Download the [USB drive sample](https://drive.google.com/file/d/1pQL0v-cHRjrytPi6BlK5bB4-r_eEarTV/view?usp=sharing) and move it to your USB drive. (Note: You will need a computer to do this)
-
-
-
-    <figure><img src="../.gitbook/assets/Screenshot 2025-08-05 at 2.09.49 PM (1).png" alt=""><figcaption><p>Preview of the folder setup on the USB Drive Sample</p></figcaption></figure>
-
-
-3. Plug the USB drive into the Butter Box
-4. Power on. Insert the power cord into the Butter Box. Then plug the other end into the wall. Wait a moment while your Butter Box powers on.
-5. Join your own Butter Box local hotspot. [https://app.gitbook.com/o/pz2iEcORvBFM3sIsAXBf/s/uTGFiT4NJYmIEtmMvMTL/\~/changes/42/get-started/how-to-setup](../get-started-1/how-to-setup-power-on.md)
-
-{% content-ref url="../get-started-1/how-to-setup-power-on.md" %}
-[how-to-setup-power-on.md](../get-started-1/how-to-setup-power-on.md)
-{% endcontent-ref %}
-
-For more in-depth details on how to power up your own Butter Box, go to the [Get Started](../get-started-1/) section.
-
-
-
-If you have a pre-built Butter Box, here's how to get it set up!
 
 {% stepper %}
 {% step %}
@@ -78,3 +44,13 @@ _If this page does not load, wait a few minutes to ensure connectivity. Refresh 
 ### Once connected, explore the portal!
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../.gitbook/assets/butter_box-setup_basic.png" alt=""><figcaption><p>video of the connect to portal flow</p></figcaption></figure>
+
+{% content-ref url="load-usb.md" %}
+[load-usb.md](load-usb.md)
+{% endcontent-ref %}
+
+{% content-ref url="set-wifi-password.md" %}
+[set-wifi-password.md](set-wifi-password.md)
+{% endcontent-ref %}
