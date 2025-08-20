@@ -1,10 +1,17 @@
 ---
-description: Supply your Butter Box with the treasures you want
+description: Supply your Butter Box with treasures
 ---
 
 # Load USB
 
+<figure><img src="https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Add image showing backend view of USB drive directory when seen from desktop and the view of USB contents in the Butter Box portal when inserted into the box.</p></figcaption></figure>
+
 There are step-by-step instructions to guide you, depending on what content you’d like to add to your box and how you’d like it to appear.
+
+* [Media, Files and Digital Books](load-usb.md#media-files-and-digital-books)
+* [Html Pages](load-usb.md#html-pages)
+* [Maps](load-usb.md#maps)
+* [Apps](load-usb.md#apps)
 
 ## Media, Files and Digital Books
 
@@ -19,9 +26,9 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 * Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/files (1).png" alt=""><figcaption><p>View of files in the Butter Box portal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/files (1).png" alt=""><figcaption><p>USB contents displayed in butter box portal. - consider using a video instead</p></figcaption></figure>
 
 ## Html Pages
 
@@ -32,13 +39,15 @@ With html pages, you can create your own experience around the content you're sh
 * If a folder contains an html file, the web page will be displayed in the portal when the folder is opened.
 * The html page needs to be available offline. That means that everything (media, pages, fonts, etc) need to be locally available and linked.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption></figcaption></figure>
-
 **Instructions**
 
 If you have one html file in the main directory, the html page will appear when users tap 'Explore USB' from the portal. If you have multiple folders in the directory, the folders will appear when users tap 'Explore USB'. Once they tap into the folder that contains an hmtl file, that webpage will be displayed \[show video demo].
 
 * Drop individual files in the main directory of your USB drive or use a folder system to organize them.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+
+<figure><img src="https://images.unsplash.com/photo-1532630571098-79a3d222b00d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Consider showing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
 
 ## Maps
 

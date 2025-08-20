@@ -9,6 +9,8 @@ coverY: 0
 
 If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
 
+<figure><img src="../.gitbook/assets/20250815_141706.jpg" alt=""><figcaption><p>Video of plugging in. Use overlay of labels to indicate which supplies (SD card with Butter Box software, power supply, USB drive, adapters as needed)</p></figcaption></figure>
+
 {% stepper %}
 {% step %}
 ### Plug it in to power on
@@ -18,6 +20,8 @@ Connect the power supply to the first micro USB port and correct wall outlet.
 <figure><img src="../.gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 You will know the box is working if ‘butterbox’ wifi appears in the wifi list. If it doesn’t, unplug the box and plug it back in.
+
+[Link to Power Supply Options](../build-a-box/power-supply.md)
 
 _If using a solar battery or other means of power, use one with the correct specs to ensure adequate power and avoid damage to the unit. For a Pi Zero 2 W use Micro USB power supply with at least 2.0A._
 {% endstep %}

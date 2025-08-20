@@ -1,7 +1,5 @@
 ---
-description: >-
-  Sharing offline has never been easier! Get started with your very own Butter
-  Box!
+description: Sharing offline has never been easier!
 ---
 
 # Get Started
