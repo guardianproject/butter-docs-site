@@ -11,6 +11,10 @@ If you have a Butter Box with the latest version of the Butter software loaded o
 
 <figure><img src="../.gitbook/assets/20250815_141706.jpg" alt=""><figcaption><p>Video of plugging in. Use overlay of labels to indicate which supplies (SD card with Butter Box software, power supply, USB drive, adapters as needed)</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+
 {% stepper %}
 {% step %}
 ### Plug it in to power on

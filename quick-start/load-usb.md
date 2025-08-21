@@ -13,6 +13,10 @@ There are step-by-step instructions to guide you, depending on what content youâ
 * [Maps](load-usb.md#maps)
 * [Apps](load-usb.md#apps)
 
+##
+
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+
 ## Media, Files and Digital Books
 
 If you want to share media, files or digital books, simply drop them onto the USB drive. You can use folders and subfolders to organize your content.
@@ -29,6 +33,12 @@ If you want to share media, files or digital books, simply drop them onto the US
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/files (1).png" alt=""><figcaption><p>USB contents displayed in butter box portal. - consider using a video instead</p></figcaption></figure>
+
+
+
+
+
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 
 ## Html Pages
 
@@ -49,6 +59,10 @@ If you have one html file in the main directory, the html page will appear when 
 
 <figure><img src="https://images.unsplash.com/photo-1532630571098-79a3d222b00d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Consider showing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
 
+
+
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+
 ## Maps
 
 **Things to Know**
@@ -67,6 +81,10 @@ Put these all in a folder named **osm-map-files**. Place that folder on your But
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 
+
+
+
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 
 ## Apps
 
