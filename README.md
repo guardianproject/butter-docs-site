@@ -1,5 +1,7 @@
 ---
 description: Sharing offline has never been easier!
+cover: .gitbook/assets/800x450.png
+coverY: 0
 ---
 
 # Get Started
