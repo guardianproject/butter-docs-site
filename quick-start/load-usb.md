@@ -15,7 +15,7 @@ There are step-by-step instructions to guide you, depending on what content youâ
 
 ##
 
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/media-type-placeholder2.png" alt=""><figcaption></figcaption></figure>
 
 ## Media, Files and Digital Books
 
