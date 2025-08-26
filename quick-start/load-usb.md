@@ -1,5 +1,7 @@
 ---
 description: Supply your Butter Box with treasures
+cover: ../.gitbook/assets/media-type-placeholder2.png
+coverY: 0
 ---
 
 # Load USB
@@ -13,9 +15,9 @@ There are step-by-step instructions to guide you, depending on what content you�
 * [Maps](load-usb.md#maps)
 * [Apps](load-usb.md#apps)
 
-##
 
-<figure><img src="../.gitbook/assets/media-type-placeholder2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 
 ## Media, Files and Digital Books
 
@@ -32,13 +34,9 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/files (1).png" alt=""><figcaption><p>USB contents displayed in butter box portal. - consider using a video instead</p></figcaption></figure>
 
 
-
-
-
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
 ## Html Pages
 
@@ -57,11 +55,11 @@ If you have one html file in the main directory, the html page will appear when 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
-<figure><img src="https://images.unsplash.com/photo-1532630571098-79a3d222b00d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Consider showing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1532630571098-79a3d222b00d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Consider howing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
 
 ## Maps
 
@@ -84,7 +82,7 @@ Put these all in a folder named **osm-map-files**. Place that folder on your But
 
 
 
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/media-type-apps.png" alt=""><figcaption></figcaption></figure>
 
 ## Apps
 
@@ -99,20 +97,25 @@ There are 3 different ways to share apps from a Butter Box. We'll provide you wi
 **Things to Know**
 
 * You will need to download the app files. Apps are updated frequently. Be sure to manually update all of the app files frequently to ensure you are providing the highest security for the people who connect to the box.
-* Be sure to download apps from trusted sources.
-* (tbd) The app store tile will show up in your portal if you use the F-Droid repo or a static offline website.
-* (tbd) If you're using a static offline website, you will need to develop your own local html page.&#x20;
+  * You’ll need a copy of the app’s `.apk` file — make sure it’s from a safe and trusted source.
+  * Butter won’t automatically verify the source, so it's up to you to confirm it's clean and legal to share.
 
 **Instructions**
 
-* Create a folder called **‘appstore**’. Put it in the main directory on your USB drive. Within that file place your html file with the apk files in the same folder or subfolder. When you insert your USB drive into the Butter Box, the App Store tile will show up in the portal.
 * To get an app store tile to show up, you need to put a folder in your USB directory called **appstore**. The folder must contain one of two things:&#x20;
-  1. An HTML file that links to APK and other app downloads&#x20;
-  2. Or the required F-Droid file. Learn more about creating a F-Droid repo at \_\_\_\_\_\_\_.
+  1. Required F-Droid files; or
+  2. HTML file that links to APK and other app downloads&#x20;
 * As an alternative, you can simply share apk files directly on the USB the same way you can share media, files and digital books.
 
+**Instructions for Viewing Via F-Droid**
 
+Learn more about creating a F-Droid repo at [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes).
+
+* [Docs for F-Droid webdash](https://gitlab.com/uniqx/fdroid-webdash)
+* [Docs for fdroidserver](https://gitlab.com/fdroid/fdroidserver)
+
+**Instructions for Viewing Via HTML (Offline Webpage)**
+
+If you're using a static offline website, you will need to develop your own local html page.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.48.26 PM.png" alt=""><figcaption></figcaption></figure>
-
-\[image of different app displays-tbd]
