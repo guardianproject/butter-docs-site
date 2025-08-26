@@ -51,6 +51,8 @@ Connect the USB adapter to the open port. Then plug in the USB drive. Learn more
 
 Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. This connects you to http://butterbox.lan in a browser.
 
+{% embed url="https://youtu.be/KB5O9MSoaAg" %}
+
 <div align="center"><figure><img src="../.gitbook/assets/qr code.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 _If this page does not load, wait a few minutes to ensure connectivity. Refresh the page. If you’re connecting from a smartphone, turn off your mobile data or turn on airplane mode. Then try again._
@@ -64,8 +66,6 @@ The Wi-Fi does not have a password by default. Though, you can easily add one. L
 Explore the portal for yourself! Once you share with others, they will connect to it in the same way you just did.
 {% endstep %}
 {% endstepper %}
-
-{% embed url="https://youtu.be/KB5O9MSoaAg" %}
 
 {% hint style="info" %}
 For a Pi Zero 2 W: Up to 5 people can connect to the box at any time. After people connect and get what they need, encourage them to leave the box to give others a turn.\
