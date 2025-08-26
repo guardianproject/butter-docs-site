@@ -1,18 +1,42 @@
 # Build A Box
 
-[Back to Get Started](../)
+{% stepper %}
+{% step %}
+### Get Your Supplies
 
 Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. You can use either one. See comparison chart below for details.
 
-| Device    | Capacity                    | Supplies                                       |
-| --------- | --------------------------- | ---------------------------------------------- |
-| Zero Pi 2 | ..                          | [Supply list](raspberry-pi/)                   |
-| Pi 4      | .. when setup with a router | [Supply list](raspberry-pi/#supply-list-basic) |
+| Device        | Capacity                                | Supplies                                       |
+| ------------- | --------------------------------------- | ---------------------------------------------- |
+| Zero Pi 2     | Up to 10 people, About 10 meters apart  | [Supply list](raspberry-pi/)                   |
+| Pi 4 + Router | Up to 20 people, About 30 meters apart  | [Supply list](raspberry-pi/#supply-list-basic) |
+{% endstep %}
 
-**Build Your Box**
+{% step %}
+### Download the pre-built Butter Box image for Raspberry Pi
 
-Once you have your supplies, download and install the [Butter Box software](../archive-get-started/raspberry-pi-imager-steps.md) onto the micro SD card.
+Once you have your supplies, download and install the [Butter Box software](broken-reference) onto the micro SD card.
 
-Insert the SD card into the device.&#x20;
+{% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
 
-Then go to the [Quick Start](../quick-start/) section for your next steps.
+{% hint style="info" %}
+Always choose the Latest Version of the file
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Flash the Butter Box Image on a MicroSD card using Raspberry Pi Imager.
+
+Wondering how to do this? Here are the steps: [Raspberry Pi Imager Steps](broken-reference)
+
+
+{% endstep %}
+
+{% step %}
+### Go to Quick Start
+
+Insert the SD card into the device. Then go to the [Quick Start](../quick-start/) section for your next steps.
+{% endstep %}
+{% endstepper %}
+
+###

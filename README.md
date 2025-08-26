@@ -14,3 +14,5 @@ Whether you have a Butter Box in your hands or you need to build one, you're in 
 
 
 
+**Request a Box Fully Assembled:** We make & ship Butter Boxes to partners around the world. Reach out to us if you serve a community that could benefit.
+

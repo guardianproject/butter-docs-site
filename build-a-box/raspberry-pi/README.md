@@ -11,7 +11,9 @@ The section covers the setup and supplies required to build your own box with th
 
 <figure><img src="../../.gitbook/assets/20250815_142828.jpg" alt=""><figcaption></figcaption></figure>
 
-## Basic Box Supply List
+## Basic Box&#x20;
+
+**Supply List**
 
 * Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291); Or you can buy a kit here: [\
   https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
@@ -34,10 +36,15 @@ The reach for it is about **5–10 meters** indoors, depending on the Raspberry 
 
 <figure><img src="../../.gitbook/assets/20250815_142438.jpg" alt=""><figcaption></figcaption></figure>
 
-## Extended Box Supply List
+## Extended Box
 
-* ..
-* ..
+**Supply Lisst**
+
+* Raspberry Pi 4&#x20;
+* Power Cord that accompanies the Raspberry Pi 4
+* Router
+* Micro SD Card
+* USB drive (min 32 GB)
 
 
 
@@ -51,9 +58,10 @@ This setup is ideal for medium group of people in a medium room, like classrooms
 
 **Instructions**
 
-* To use the router as a hub for the Butter Box, connect the Raspberry Pi to the router by plugging one end of the given ethernet cable into the LAN port and the other into the Raspberry Pi .
+* To use the router as a hub for the Butter Box, connect the Raspberry Pi to the router by plugging one end of the given ethernet cable into the LAN port and the other into the Raspberry Pi.
+*
 
 ## Power Supply Options
 
-If you want Butter to work completely off-grid and without electriciy,  it can! Learn more in the [Power Supply](../power-supply.md) section.
+If you want Butter to work completely off-grid and without electricity,  it can! Learn more in the [Power Supply](../power-supply.md) section.
 
