@@ -6,14 +6,14 @@ description: Supply your Butter Box with treasures
 
 Depending on what content you’d like to add to your box and how you’d like it to appear, there are step-by-step instructions to guide you.
 
-* [Media, Files and Digital Books](load-usb.md#media-files-and-digital-books)
-* [Html Pages](load-usb.md#html-pages)
-* [Maps](load-usb.md#maps)
-* [Apps](load-usb.md#apps)
+* [Media, Files and Digital Books](./#media-files-and-digital-books)
+* [Html Pages](./#html-pages)
+* [Maps](./#maps)
+* [Apps](./#apps)
 
 
 
-<figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 
 ## Media, Files and Digital Books
 
@@ -28,7 +28,7 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 * Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
 
 ***
 
@@ -36,7 +36,7 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 
 
-<figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
 ## Html Pages
 
@@ -53,7 +53,7 @@ If you have one html file in the main directory, the html page will appear when 
 
 * Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ If you have one html file in the main directory, the html page will appear when 
 
 
 
-<figure><img src="../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
 
 ## Maps
 
@@ -78,7 +78,7 @@ If you want to share offline map files, you need to provide the latest version o
 
 Put these all in a folder named **osm-map-files**. Place that folder on your Butter Box USB drive.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -86,17 +86,17 @@ Put these all in a folder named **osm-map-files**. Place that folder on your But
 
 
 
-<figure><img src="../.gitbook/assets/media-type-apps.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/media-type-apps.png" alt=""><figcaption></figcaption></figure>
 
 ## Apps
 
-There are 3 different ways to share apps from a Butter Box. Visit the [App Store](../features/app-store.md) section to learn which solution is best for you.
+There are 3 different ways to share apps from a Butter Box. Visit the [App Store](../../features/app-store.md) section to learn which solution is best for you.
 
 **Basic Instructions**
 
 * To get an app store tile to show up, you need to put a folder in your USB directory called **appstore**. The folder must contain one of two things:&#x20;
   1. Required F-Droid files; or
   2. HTML file that links to APK and other app downloads&#x20;
-* For more information on sharing apps, visit the [App Store](../features/app-store.md) section.
+* For more information on sharing apps, visit the [App Store](../../features/app-store.md) section.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.48.26 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.48.26 PM.png" alt=""><figcaption></figcaption></figure>
