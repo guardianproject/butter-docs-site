@@ -1,12 +1,10 @@
 ---
 description: Supply your Butter Box with treasures
-cover: ../.gitbook/assets/media-type-placeholder2.png
-coverY: 0
 ---
 
 # Load USB
 
-<figure><img src="https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Add image showing backend view of USB drive directory when seen from desktop and the view of USB contents in the Butter Box portal when inserted into the box.</p></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1559311648-d46f5d8593d6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Add image showing backend view of USB drive directory when seen from desktop and the view of USB contents in the Butter Box portal when inserted into the box. — Or Consider howing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
 
 There are step-by-step instructions to guide you, depending on what content you’d like to add to your box and how you’d like it to appear.
 
@@ -54,8 +52,6 @@ If you have one html file in the main directory, the html page will appear when 
 * Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
-
-<figure><img src="https://images.unsplash.com/photo-1532630571098-79a3d222b00d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4NjZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Consider howing a video or animated view of tapping into the USB tile to view a website</p></figcaption></figure>
 
 
 
