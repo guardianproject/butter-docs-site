@@ -1,9 +1,8 @@
 ---
-icon: stars
 coverY: 0
 ---
 
-# Get Started
+# \[Archive] Get Started
 
 ## How It Works
 
