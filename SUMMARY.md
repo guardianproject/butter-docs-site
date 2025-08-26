@@ -14,6 +14,7 @@
   * [Power Supply](build-a-box/power-supply.md)
 * [Features](features/README.md)
   * [Message Board](features/message-board.md)
+  * [App Store](features/app-store.md)
   * [Content Packs](features/content-packs.md)
 * [Update Butter](update-butter.md)
 * [Documentation](documentation.md)
