@@ -32,6 +32,10 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Organization of the USB drive - Better caption; update image to only show sample folders (remove appstore, etc)</p></figcaption></figure>
 
+***
+
+
+
 
 
 <figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
@@ -53,6 +57,10 @@ If you have one html file in the main directory, the html page will appear when 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
+***
+
+
+
 
 
 <figure><img src="../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
@@ -73,6 +81,8 @@ If you want to share offline map files, you need to provide the latest version o
 Put these all in a folder named **osm-map-files**. Place that folder on your Butter Box USB drive.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 
 
