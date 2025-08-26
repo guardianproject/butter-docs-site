@@ -11,7 +11,7 @@ Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. 
 
 **Build Your Box**
 
-Once you have your supplies, download and install the [Butter Box software](../get-started-1/raspberry-pi-imager-steps.md) onto the micro SD card.
+Once you have your supplies, download and install the [Butter Box software](../archive-get-started/raspberry-pi-imager-steps.md) onto the micro SD card.
 
 Insert the SD card into the device.&#x20;
 

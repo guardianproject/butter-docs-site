@@ -65,3 +65,8 @@ If you change the SSID (network name) or the password, the QR codes found in thi
 Butter Box kits we distribute will no longer work. You'll need to create a new QR code or have folks type the password to be able to join your network.
 {% endhint %}
 
+
+
+## Additional Security
+
+The Butter Box images that are distributed have a standard set of passwords. Because these are shared publicly, they are not secure. You should change the passwords to prevent unauthorized access to your Butter Box. For more information, visit our Gitlab documentation: [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md)

@@ -1,3 +1,7 @@
+---
+icon: circle-question
+---
+
 # FAQ
 
 ### Does the Butter Box give me the internet?
