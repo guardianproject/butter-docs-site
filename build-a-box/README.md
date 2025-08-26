@@ -1,5 +1,7 @@
 # Build A Box
 
+Take the steps below to build your own Butter Box.&#x20;
+
 {% stepper %}
 {% step %}
 ### Get Your Supplies
