@@ -5,20 +5,6 @@ coverY: 0
 
 # Power On
 
-If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
-
-1. Power On
-2. Load USB
-3. Set Wifi Password
-
-
-
-<figure><img src="../.gitbook/assets/20250815_141706.jpg" alt=""><figcaption><p>Video of plugging in. Use overlay of labels to indicate which supplies (SD card with Butter Box software, power supply, USB drive, adapters as needed)</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
-
-
-
 {% stepper %}
 {% step %}
 ### Check supplies
@@ -27,6 +13,7 @@ Make sure you have the following supplies:
 
 * Power source
 * USB drive
+* USB Adapters (as needed)
 * Device
 * Case
 
@@ -40,11 +27,13 @@ Connect the power supply to the first micro USB port and correct wall outlet.
 
 <figure><img src="../.gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You will know the box is working if ‘butterbox’ wifi appears in the wifi list. If it doesn’t, unplug the box and plug it back in.
+You will know the box is working if ‘butterbox’ wifi appears in the wifi list on your phone or computer. If it doesn’t, unplug the box and plug it back in.
 
-[Link to Power Supply Options](../build-a-box/power-supply.md)
+
 
 _If using a solar battery or other means of power, use one with the correct specs to ensure adequate power and avoid damage to the unit. For a Pi Zero 2 W use Micro USB power supply with at least 2.0A._
+
+[Link to Power Supply Options](../build-a-box/power-supply.md)
 
 
 {% endstep %}
@@ -73,14 +62,12 @@ The Wi-Fi does not have a password by default. Though, you can easily add one. L
 ### Once connected, explore the portal!
 
 Explore the portal for yourself! Once you share with others, they will connect to it in the same way you just did.
+{% endstep %}
+{% endstepper %}
+
+{% embed url="https://youtu.be/KB5O9MSoaAg" %}
 
 {% hint style="info" %}
 For a Pi Zero 2 W: Up to 5 people can connect to the box at any time. After people connect and get what they need, encourage them to leave the box to give others a turn.\
 The physical reach of the Box varies. But as a rule of thumb, people in the same room as the box (or in talking distance) will be able to access it.
 {% endhint %}
-
-
-{% endstep %}
-{% endstepper %}
-
-<figure><img src="../.gitbook/assets/butter_box-setup_basic.png" alt=""><figcaption><p>video of the connect to portal flow</p></figcaption></figure>
