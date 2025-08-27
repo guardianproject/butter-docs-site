@@ -1,4 +1,4 @@
-# Set Wifi Password
+# Add Wifi Password
 
 Changing the Wi-Fi password for your Butter Box hotspot from the admin dashboard is straightforward. Here are the steps:
 
@@ -55,11 +55,6 @@ You will then need to click on "Restart hotspot" for the changes to take effect.
 {% endstepper %}
 
 Once the hotspot restarts, you and your friends will need to connect to the Butter Box again using the new Wi-Fi password you just set.
-
-{% hint style="warning" %}
-If you change the SSID (network name) or the password, the QR codes found in this documentation and in \
-Butter Box kits we distribute will no longer work. You'll need to create a new QR code or have folks type the password to be able to join your network.
-{% endhint %}
 
 
 
