@@ -83,20 +83,6 @@ After that select _"write"_ and begin writing process to the Micro SD card.
 {% step %}
 ### Remove From Computer and Insert Micro SD Card into the Raspberry Pi (Butter Box)
 
-Once you're done, remove the Micro SD card. Insert the Micro SD card into the Raspberry Pi (Butter Box) not powered on. Plug the Raspberry Pi (Butter Box) into power. Wait a few moments.
-{% endstep %}
-
-{% step %}
-### Connect to the Butter Box Portal
-
-From your phone, go to your Wi-Fi settings and find the Butter Box Wi-Fi. If you see if, you will know the Butter Box is working. You have successfully turned a Raspberry Pi into a Butter Box!&#x20;
-
-Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code below. This connects you to **http://**&#x62;utterbox.lan in a browser. When you open this view in a browser, you should see the portal for the box. Note: If you are unable to scan the code, simply type **http://**&#x62;utterbox.lan into the browser of your choice.
-
-{% hint style="info" %}
-This is an HTTP page, not HTTPS, because it's served from a local device with no internet connection. Your data never leaves the network, so it's still private and secure.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/butterbox-qr-english.png" alt=""><figcaption><p>QR code for the Butter Box</p></figcaption></figure>
+Once you're done, remove the Micro SD card. Insert the Micro SD card into the Raspberry Pi (Butter Box) not powered on. Plug the Raspberry Pi (Butter Box) into power. Wait a few moments and connect to the Butter Box Portal.
 {% endstep %}
 {% endstepper %}
