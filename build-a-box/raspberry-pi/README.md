@@ -17,7 +17,7 @@ The section covers the setup and supplies required to build your own box with th
 
 * Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291); Or you can buy a kit here: [\
   https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
-* Power Cord that accompanies the Raspberry Pi Zero 2W
+* Power Cord that accompanies the Raspberry Pi Zero 2W or an [alternative power supply](../power-supply.md)
 * Micro SD Card: Images are usually under 16 GB (we suggest 256 GB). Media that people upload to the chat ends up on the card; it never gets cleared.&#x20;
 * USB drive (min 32 GB)
 * Adapters:
@@ -41,7 +41,7 @@ The reach for it is about **5–10 meters** indoors, depending on the Raspberry 
 **Supply Lisst**
 
 * Raspberry Pi 4&#x20;
-* Power Cord that accompanies the Raspberry Pi 4
+* Power Cord that accompanies the Raspberry Pi 4 or an [alternative power supply](../power-supply.md)
 * Router
 * Micro SD Card
 * USB drive (min 32 GB)
@@ -59,9 +59,5 @@ This setup is ideal for medium group of people in a medium room, like classrooms
 **Instructions**
 
 * To use the router as a hub for the Butter Box, connect the Raspberry Pi to the router by plugging one end of the given ethernet cable into the LAN port and the other into the Raspberry Pi.
-*
-
-## Power Supply Options
-
-If you want Butter to work completely off-grid and without electricity,  it can! Learn more in the [Power Supply](../power-supply.md) section.
+* For more information on configuring the Extended setup, WE NEED THE LINK TO THE GOOGLE SLIDE DECK
 

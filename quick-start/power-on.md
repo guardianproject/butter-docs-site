@@ -41,7 +41,7 @@ _If using a solar battery or other means of power, use one with the correct spec
 {% step %}
 ### Insert USB drive
 
-Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [Load USB](load-usb/) section.
+Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [Load USB](load-usb.md) section.
 
 <figure><img src="../.gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}

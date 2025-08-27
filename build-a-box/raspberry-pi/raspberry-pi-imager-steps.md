@@ -1,6 +1,8 @@
-# Get Software on Raspberry Pi
+---
+description: Eg. Get Butter Box software installed on the SD card for the Raspberry Pi
+---
 
-These are the same steps you take when you are setting a Butter Box up for the first time.
+# Raspberry Pi Imager Steps
 
 You will need:
 

@@ -1,6 +1,10 @@
+---
+description: DIY instructions
+---
+
 # Build A Box
 
-Take the steps below to build your own Butter Box.&#x20;
+Don’t have a Butter Box yet? You can easily build your own—just follow the steps below. We also make and ship Butter Boxes to partners worldwide. If you serve a community that could benefit, we’d love to hear from you.&#x20;
 
 {% stepper %}
 {% step %}
@@ -12,6 +16,8 @@ Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. 
 | ------------- | --------------------------------------- | ---------------------------------------------- |
 | Zero Pi 2     | Up to 10 people, About 10 meters apart  | [Supply list](raspberry-pi/)                   |
 | Pi 4 + Router | Up to 20 people, About 30 meters apart  | [Supply list](raspberry-pi/#supply-list-basic) |
+| Orange Pi     | _Coming soon_                           | _Coming soon_                                  |
+| Linux         | _Coming soon_                           | _Coming soon_                                  |
 {% endstep %}
 
 {% step %}
@@ -27,7 +33,7 @@ Always choose the Latest Version of the file
 {% endstep %}
 
 {% step %}
-### Flash the Butter Box Image on a MicroSD card using Raspberry Pi Imager.
+### Flash the Butter Box image on a MicroSD card using Raspberry Pi Imager
 
 Wondering how to do this? Here are the steps: [Raspberry Pi Imager Steps](broken-reference)
 
@@ -41,4 +47,3 @@ Insert the SD card into the device. Then go to the [Quick Start](../quick-start/
 {% endstep %}
 {% endstepper %}
 
-###

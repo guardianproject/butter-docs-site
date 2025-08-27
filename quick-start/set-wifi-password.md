@@ -1,9 +1,5 @@
 # Set Wifi Password
 
-{% embed url="https://youtu.be/CmjGUbZyopY" %}
-Consider using a video to visually walk through the steps instead of screenshots
-{% endembed %}
-
 Changing the Wi-Fi password for your Butter Box hotspot from the admin dashboard is straightforward. Here are the steps:
 
 {% stepper %}
@@ -69,4 +65,5 @@ Butter Box kits we distribute will no longer work. You'll need to create a new Q
 
 ## Additional Security
 
-The Butter Box images that are distributed have a standard set of passwords. Because these are shared publicly, they are not secure. You should change the passwords to prevent unauthorized access to your Butter Box. For more information, visit our Gitlab documentation: [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md)
+For more information on securing your Butter Box, visit [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box)
+
