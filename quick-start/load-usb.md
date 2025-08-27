@@ -59,8 +59,6 @@ With html pages, you can create your own experience around the content you're sh
 
 
 
-
-
 <figure><img src="../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
 
 ## Maps
@@ -92,13 +90,4 @@ Put these all in a folder named `osm-map-files` . Place that folder in the main 
 
 ## Apps
 
-There are 3 different ways to share apps from a Butter Box. Visit the [App Store](../features/app-store.md) section to learn which solution is best for you.
-
-**Basic Instructions**
-
-* To get an app store tile to show up, you need to put a folder in your USB directory called `appstore` . The folder must contain one of two things:&#x20;
-  1. Required F-Droid files; or
-  2. HTML file that links to APK and other app downloads&#x20;
-* For more information on sharing apps, visit the [App Store](../features/app-store.md) section.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.48.26 PM.png" alt=""><figcaption></figcaption></figure>
+There are 3 different ways to share apps from a Butter Box. Visit the [App Store](../customization/app-store.md) section to learn which solution is best for you.
