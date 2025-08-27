@@ -4,7 +4,7 @@ description: Setups and Supplies
 
 # Raspberry Pi
 
-The section covers the setup and supplies required to build your own box with the Raspberry Pi hardware. You have 2 options:
+This section covers the setup and supplies required to build your own box with the Raspberry Pi hardware. You have 2 options:
 
 1. [Basic Box](./#basic-box-supply-list) (Up to 10 people, About 10 meters apart)
 2. [Extended Box](./#extended-box-supply-list) (Up to 20 people, About 30 meters apart)
@@ -45,8 +45,7 @@ The reach for it is about **5–10 meters** indoors, depending on the Raspberry 
 * Router
 * Micro SD Card
 * USB drive (min 32 GB)
-
-
+* Adapters (as needed)
 
 **About**
 

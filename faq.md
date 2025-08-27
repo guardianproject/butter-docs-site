@@ -12,7 +12,7 @@ Not quite. The Butter Box doesn’t provide internet access. Instead, it creates
 
 ### How do you power a Butter Box?
 
-The Butter Box is super flexible! You can power it using a USB power bank, a wall adapter, or even a small solar panel. As long as it provides power to the Raspberry Pi, you’re good to go.
+The Butter Box is super flexible! You can power it using a USB power bank, a wall adapter, or even a small solar panel. As long as it provides power to the Raspberry Pi, you’re good to go. Go to the [Power Supply](build-a-box/power-supply.md) section to learn more.
 
 ***
 

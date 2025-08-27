@@ -9,5 +9,5 @@ If you have a Butter Box with the latest version of the Butter software loaded o
 
 1. [Power On](power-on.md)
 2. [Load USB](load-usb.md)
-3. [Set Wifi Password](set-wifi-password.md)
+3. [Set Wifi Password](add-wifi-password.md)
 

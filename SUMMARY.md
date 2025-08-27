@@ -4,7 +4,7 @@
 * [Quick Start](quick-start/README.md)
   * [Power On](quick-start/power-on.md)
   * [Load USB](quick-start/load-usb.md)
-  * [Set Wifi Password](quick-start/set-wifi-password.md)
+  * [Add Wifi Password](quick-start/add-wifi-password.md)
 * [Build A Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Raspberry Pi Imager Steps](build-a-box/raspberry-pi/raspberry-pi-imager-steps.md)

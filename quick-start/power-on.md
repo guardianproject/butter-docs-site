@@ -57,7 +57,7 @@ Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. T
 
 _If this page does not load, wait a few minutes to ensure connectivity. Refresh the page. If you’re connecting from a smartphone, turn off your mobile data or turn on airplane mode. Then try again._
 
-The Wi-Fi does not have a password by default. Though, you can easily add one. Learn more in the [Set Wi-Fi Password ](set-wifi-password.md)section.
+The Wi-Fi does not have a password by default. Though, you can easily add one. Learn more in the [Set Wi-Fi Password ](add-wifi-password.md)section.
 {% endstep %}
 
 {% step %}
