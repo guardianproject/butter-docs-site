@@ -19,4 +19,4 @@
 * [Update Butter](update-butter.md)
 * [Documentation](documentation.md)
 * [FAQ](faq.md)
-* [Use Cases](use-cases.md)
+* [Use Cases](case-studies.md)

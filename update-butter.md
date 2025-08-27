@@ -4,7 +4,7 @@ coverY: 0
 
 # Update Butter
 
-### Check out new releases from Butter HQ
+### Check out new releases from the Butter Box team
 
 {% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
 

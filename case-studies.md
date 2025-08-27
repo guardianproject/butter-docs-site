@@ -2,7 +2,7 @@
 icon: stars
 ---
 
-# Case Studies
+# Use Cases
 
 ### 1. Digital Security training to distribute apps and materials
 
