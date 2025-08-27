@@ -41,7 +41,7 @@ The public room was created by an administrative user called butterbox-admin. Th
 
 1. Login as admin. When you open the message board, you are assigned a Guest identity. You will need to log out from that identity, and log in to the butterbox-admin account.
 
-<figure><img src="https://images.unsplash.com/photo-1694878981819-1084b2d7dd0b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4Njd8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Video walkthrough showing how to do it</p></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1694878981819-1084b2d7dd0b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4Njd8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Placeholder for a video walkthrough of claiming moderator status</p></figcaption></figure>
 
 Once you've done this you can take the following actions:
 
