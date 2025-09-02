@@ -21,6 +21,12 @@ Make sure you have the following supplies:
 {% endstep %}
 
 {% step %}
+### Make sure the micro SD card is inserted into the device
+
+
+{% endstep %}
+
+{% step %}
 ### Plug it in to power on
 
 Connect the power supply to the first micro USB port and correct wall outlet.
