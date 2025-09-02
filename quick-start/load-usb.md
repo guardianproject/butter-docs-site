@@ -44,31 +44,6 @@ Use file folders to quickly share media, files and digital books. If you want to
 
 
 
-
-
-<figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
-
-## Html Pages (This would move to content packs section)
-
-With html pages, you can create your own experience around the content you're sharing. To display content through a html page, simply add the html file and it's complementary folders to the jump drive.
-
-**Things to Know**
-
-* When you have the USB drive plugged in, the  _Explore USB_ tile will show up in the portal.
-* If a folder on the USB drive contains an html file, the web page will be displayed when the folder is opened.
-* If the html file is placed in the root directory, it will be displayed when users tap _Explore USB_ from the portal.
-* The html page needs to be available offline. That means that everything (media, pages, fonts, etc) need to be locally available on the box and linked.
-
-**Instructions**
-
-* Drop individual files in the main directory of your USB drive or use a `folder system with the naming of your choice` to organize them.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
-
-***
-
-
-
 <figure><img src="../.gitbook/assets/media-type-maps.png" alt=""><figcaption></figcaption></figure>
 
 ## Maps
@@ -93,8 +68,6 @@ Put these all in a folder named `osm-map-files` . Place that folder in the main 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
 ***
-
-
 
 
 

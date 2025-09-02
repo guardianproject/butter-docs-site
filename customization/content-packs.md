@@ -6,7 +6,7 @@ Content packs are probably the coolest thing spoon sliced bread as it relates to
 
 <figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
-## Static Websites
+## Using Static Websites
 
 With html pages, you can create your own experience around the content you're sharing. To display content through a html page, simply add the html file and it's complementary folders to the jump drive.
 
