@@ -14,7 +14,7 @@ Make sure you have the following supplies:
 * Power source
 * USB drive
 * USB Adapters (as needed)
-* Device
+* Device (with micro SD card inserted)
 * Case
 
 <figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
@@ -23,7 +23,7 @@ Make sure you have the following supplies:
 {% step %}
 ### Make sure the micro SD card is inserted into the device
 
-
+The micro SD card should have the latest version of Butter OS running on it.
 {% endstep %}
 
 {% step %}
