@@ -25,16 +25,18 @@ Depending on what content you’d like to add to your box and how you’d like i
 
 ## Media, Files and Digital Books
 
-If you want to share media, files or digital books, simply drop them onto the USB drive.&#x20;
+Use file folders to quickly share media, files and digital books. If you want to do more or have more control over how they are displayed, you can use static html sites to feature your content. Learn more about using static html sites in the [Content Packs](../customization/content-packs.md) section.&#x20;
+
+**Instructions**
+
+* Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
 **Things to Know**
 
 * When you have the USB drive plugged in, the _Explore USB_ tile will show up in the portal.
 * The `folder names` you use on your USB drive will be displayed in the Butter Box portal.
 
-**Instructions**
 
-* Drop individual files in the main directory of your USB drive or use a folder system to organize them.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
@@ -46,7 +48,7 @@ If you want to share media, files or digital books, simply drop them onto the US
 
 <figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
-## Html Pages
+## Html Pages (This would move to content packs section)
 
 With html pages, you can create your own experience around the content you're sharing. To display content through a html page, simply add the html file and it's complementary folders to the jump drive.
 
