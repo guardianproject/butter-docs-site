@@ -15,9 +15,9 @@ When you connect to your Butter Box portal for the first time, the Message Board
 Depending on what content you’d like to add to your box and how you’d like it to appear, there are step-by-step instructions to guide you.
 
 * [Media, Files and Digital Books](load-usb.md#media-files-and-digital-books): Use file folders to quickly share media, files and digital books.
-  * [Html Pages](load-usb.md#html-pages): Learn more in customization
 * [Maps](load-usb.md#maps): With a few downloads and light file folder organization, you can make relevant offline maps available for download from your Butter Box.
-  * [Apps](load-usb.md#apps): Learn more in customization
+
+Learn more about how to share maps and use static websites (and content packs) to feature content in the [Customization](../customization/) section.
 
 
 

@@ -1,4 +1,11 @@
+---
+cover: ../.gitbook/assets/media-type-apps.png
+coverY: 0
+---
+
 # App Store
+
+There are 3 different ways to share apps from a Butter Box. Visit the [App Store](app-store.md) section to learn which solution is best for you.
 
 There are 3 different ways to share apps from a Butter Box.&#x20;
 
