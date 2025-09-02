@@ -14,7 +14,7 @@ Make sure you have the following supplies:
 * Power source
 * USB drive
 * USB Adapters (as needed)
-* Device (with micro SD card inserted)
+* Butter Box Device (with micro SD card inserted)
 * Case
 
 <figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
