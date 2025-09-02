@@ -55,8 +55,7 @@ With the router, the network can reach **10-30 m**, like a city block or a park,
 
 This setup is ideal for medium group of people in a medium room, like classrooms, events, or community spaces like a church.
 
-**Instructions**
+For instructions, go to the [Extend Your Box](extend-your-box.md) section.
 
-* To use the router as a hub for the Butter Box, connect the Raspberry Pi to the router by plugging one end of the given ethernet cable into the LAN port and the other into the Raspberry Pi.
-* More information on configuring the Extended setup, is available in the slide deck: [https://docs.google.com/presentation/d/18L9G6yzt1IvhTLsLIZPRz3CwBIn6d5O6R-DilpsC\_5Q/edit?usp=drivesdk](https://docs.google.com/presentation/d/18L9G6yzt1IvhTLsLIZPRz3CwBIn6d5O6R-DilpsC_5Q/edit?usp=drivesdk)
+
 

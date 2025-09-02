@@ -9,6 +9,7 @@
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Setup and Supplies](build-a-box/raspberry-pi/setup-and-supplies.md)
     * [Install Butter](build-a-box/raspberry-pi/install-butter.md)
+    * [Extend Your Box](build-a-box/raspberry-pi/extend-your-box.md)
   * [PC/Laptop](build-a-box/pc-laptop.md)
   * [Power Supply](build-a-box/power-supply.md)
 * [Customization](customization/README.md)
