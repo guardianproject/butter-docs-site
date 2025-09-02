@@ -12,11 +12,11 @@ Don’t have a Butter Box yet? You can easily build your own—just follow the s
 
 Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. You can use either one. See comparison chart below for details.
 
-| Device            | Capacity                                | Supplies                                       |
-| ----------------- | --------------------------------------- | ---------------------------------------------- |
-| Zero Pi 2         | Up to 10 people, About 10 meters apart  | [Supply list](raspberry-pi/)                   |
-| Pi 4 + Router     | Up to 20 people, About 30 meters apart  | [Supply list](raspberry-pi/#supply-list-basic) |
-| PC/Laptop (amd64) | _Coming soon_                           | _Coming soon_                                  |
+| Device            | Capacity                                | Supplies                                          |
+| ----------------- | --------------------------------------- | ------------------------------------------------- |
+| Zero Pi 2         | Up to 10 people, About 10 meters apart  | [Supply list](raspberry-pi/setup-and-supplies.md) |
+| Pi 4 + Router     | Up to 20 people, About 30 meters apart  | [Supply list](raspberry-pi/setup-and-supplies.md) |
+| PC/Laptop (amd64) | _Coming soon_                           | _Coming soon_                                     |
 {% endstep %}
 
 {% step %}
