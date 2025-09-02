@@ -38,7 +38,7 @@ The reach for it is about **5–10 meters** indoors, depending on the Raspberry 
 
 ## Extended Box
 
-**Supply Lisst**
+**Supply List**
 
 * Raspberry Pi 4&#x20;
 * Power Cord that accompanies the Raspberry Pi 4 or an [alternative power supply](../power-supply.md)
