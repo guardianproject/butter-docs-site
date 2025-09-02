@@ -67,12 +67,3 @@ Put these all in a folder named `osm-map-files` . Place that folder in the main 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 
-***
-
-
-
-<figure><img src="../.gitbook/assets/media-type-apps.png" alt=""><figcaption></figcaption></figure>
-
-## Apps
-
-There are 3 different ways to share apps from a Butter Box. Visit the [App Store](../customization/app-store.md) section to learn which solution is best for you.
