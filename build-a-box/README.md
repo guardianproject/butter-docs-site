@@ -20,9 +20,9 @@ Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. 
 {% endstep %}
 
 {% step %}
-### Download the pre-built Butter Box image for Raspberry Pi
+### Download the Butter Box OS for Raspberry Pi
 
-Once you have your supplies, download and install the [Butter Box software](broken-reference) onto the micro SD card.
+Once you have your supplies, download the [Butter Operating System (OS)](https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?rlkey=cswt4w4zksiuj3eb1oca48yw0\&e=1\&dl=0.).
 
 {% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
 
@@ -32,7 +32,7 @@ Always choose the Latest Version of the file
 {% endstep %}
 
 {% step %}
-### Flash the Butter Box image on a MicroSD card using Raspberry Pi Imager
+### Install the Butter OS on a MicroSD card using Raspberry Pi Imager
 
 Wondering how to do this? Here are the steps: [Raspberry Pi Imager Steps](broken-reference)
 
