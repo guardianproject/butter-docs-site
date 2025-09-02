@@ -4,6 +4,10 @@ description: Supply your Butter Box with treasures
 
 # Load USB
 
+<figure><img src="../.gitbook/assets/default portal.png" alt=""><figcaption></figcaption></figure>
+
+When you connect to your Butter Box portal for the first time, the Message Board is shown by default. To display additional content in your portal, connect a USB drive containing the files or content packs you want.
+
 Depending on what content you’d like to add to your box and how you’d like it to appear, there are step-by-step instructions to guide you.
 
 * [Media, Files and Digital Books](load-usb.md#media-files-and-digital-books)
