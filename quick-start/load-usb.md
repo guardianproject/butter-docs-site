@@ -73,6 +73,8 @@ With html pages, you can create your own experience around the content you're sh
 
 ## Maps
 
+With a few downloads and light file folder organization, you can make relevant offline maps available for download from your Butter Box.
+
 Offline maps are made possible by Open Street Maps (OSM). You can make the latest version of the OSM map app available for download from a Butter Box, along with offline map files for the regions you care about.&#x20;
 
 **Things to Know**
