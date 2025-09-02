@@ -9,7 +9,7 @@ coverY: 0
 {% step %}
 ### Check supplies
 
-Make sure you have the following supplies:
+Make sure you have the supplies for a basic box:
 
 * Power source
 * USB drive
