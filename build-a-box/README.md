@@ -8,35 +8,27 @@ Don’t have a Butter Box yet? You can easily build your own—just follow the s
 
 {% stepper %}
 {% step %}
-### Get Your Supplies
+### Decide on your setup
 
 Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. You can use either one. See comparison chart below for details.
 
-| Device            | Capacity                                | Supplies                                          |
-| ----------------- | --------------------------------------- | ------------------------------------------------- |
-| Zero Pi 2         | Up to 10 people, About 10 meters apart  | [Supply list](raspberry-pi/setup-and-supplies.md) |
-| Pi 4 + Router     | Up to 20 people, About 30 meters apart  | [Supply list](raspberry-pi/setup-and-supplies.md) |
-| PC/Laptop (amd64) | _Coming soon_                           | _Coming soon_                                     |
+| Device                                                | Capacity                                                          | Supplies                                           |
+| ----------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
+| <p><strong>Basic</strong> </p><p>Zero Pi 2</p>        | Up to 10 people, About 10 meters apart                            | [Supply list](raspberry-pi/setups-and-supplies.md) |
+| <p><strong>Extended</strong> </p><p>Pi 4 + Router</p> | Up to 20 people, About 30 meters apart when paired with a router  | [Supply list](raspberry-pi/setups-and-supplies.md) |
+| PC/Laptop (amd64)                                     | _Coming soon_                                                     | _Coming soon_                                      |
 {% endstep %}
 
 {% step %}
-### Download Butter OS&#x20;
+### Get your supplies
 
-Once you have your supplies, download the [Butter Operating System (OS)](https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?rlkey=cswt4w4zksiuj3eb1oca48yw0\&e=1\&dl=0.).
-
-{% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
-
-{% hint style="info" %}
-Always choose the Latest Version of the file
-{% endhint %}
+[Raspberry Pi: Setups and Supplies](raspberry-pi/setups-and-supplies.md)
 {% endstep %}
 
 {% step %}
-### Install Butter OS on the Micro SD card
+### Follow the instructions for installing Butter on the device you choose
 
-[Install Butter](raspberry-pi/install-butter.md)
-
-
+[Raspberry Pi Instructions: Install Butter](raspberry-pi/install-butter.md)
 {% endstep %}
 
 {% step %}

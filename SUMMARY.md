@@ -7,7 +7,7 @@
   * [Add Wifi Password](quick-start/add-wifi-password.md)
 * [Build A Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
-    * [Setup and Supplies](build-a-box/raspberry-pi/setup-and-supplies.md)
+    * [Setups and Supplies](build-a-box/raspberry-pi/setups-and-supplies.md)
     * [Install Butter](build-a-box/raspberry-pi/install-butter.md)
     * [Extend Your Box](build-a-box/raspberry-pi/extend-your-box.md)
   * [PC/Laptop](build-a-box/pc-laptop.md)

@@ -2,12 +2,12 @@
 description: Setups and Supplies
 ---
 
-# Setup and Supplies
+# Setups and Supplies
 
 This section covers the setup and supplies required to build your own box with the Raspberry Pi hardware. You have 2 options:
 
-1. [Basic Box](setup-and-supplies.md#basic-box-supply-list) (Up to 10 people, About 10 meters apart)
-2. [Extended Box](setup-and-supplies.md#extended-box-supply-list) (Up to 20 people, About 30 meters apart)
+1. [Basic Box](setups-and-supplies.md#basic-box-supply-list) (Up to 10 people, About 10 meters apart)
+2. [Extended Box](setups-and-supplies.md#extended-box-supply-list) (Up to 20 people, About 30 meters apart)
 
 <figure><img src="../../.gitbook/assets/20250815_142828.jpg" alt=""><figcaption></figcaption></figure>
 
