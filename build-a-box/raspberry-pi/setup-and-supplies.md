@@ -28,7 +28,7 @@ This section covers the setup and supplies required to build your own box with t
 
 A basic Butter Box setup is a Raspberry Pi Zero 2 W with a microSD card running the Butter software, a USB stick, powered by a USB source like a power cord, power bank or solar panel.
 
-In most setups like this, a Butter Box can comfortably handle &#x34;**–10 connected devices at once** without slowing down. It’s possible to have more, but performance may drop if everyone is downloading large files or videos at the same time.
+In most setups like this, a Butter Box can comfortably handle **4–10 connected devices at once** without slowing down. It’s possible to have more, but performance may drop if everyone is downloading large files or videos at the same time.
 
 The reach for it is about **5–10 meters** indoors, depending on the Raspberry Pi model and depending on walls and interference. Outdoors, in open space, it can sometimes reach farther. Think of it like the range of a home Wi-Fi router — enough to cover a classroom, a coffee shop, meeting space, or small outdoor gathering.
 
@@ -58,5 +58,5 @@ This setup is ideal for medium group of people in a medium room, like classrooms
 **Instructions**
 
 * To use the router as a hub for the Butter Box, connect the Raspberry Pi to the router by plugging one end of the given ethernet cable into the LAN port and the other into the Raspberry Pi.
-* For more information on configuring the Extended setup, WE NEED THE LINK TO THE GOOGLE SLIDE DECK
+* More information on configuring the Extended setup, is available in the slide deck: [https://docs.google.com/presentation/d/18L9G6yzt1IvhTLsLIZPRz3CwBIn6d5O6R-DilpsC\_5Q/edit?usp=drivesdk](https://docs.google.com/presentation/d/18L9G6yzt1IvhTLsLIZPRz3CwBIn6d5O6R-DilpsC_5Q/edit?usp=drivesdk)
 
