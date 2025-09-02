@@ -12,7 +12,7 @@ You will need:
 
 {% stepper %}
 {% step %}
-### Download our pre‑built image for Raspberry Pi&#x20;
+### Download the Butter OS for Raspberry Pi&#x20;
 
 {% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
 
@@ -34,9 +34,11 @@ You don't need to connect the box to the computer.
 {% endstep %}
 
 {% step %}
-### Run the Raspberry Pi Imager desktop app
+### Run Raspberry Pi Imager&#x20;
 
-Once you have your micro SD card plugged into your computer that has an internet connection, run the Raspberry Pi Imager desktop app. If you don't have it, you can download it here: [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
+Once you have your micro SD card plugged into your computer that has an internet connection, run Raspberry Pi Imager from a desktop computer. It will walk you through the steps to install the Butter operating system on the micro SD card.&#x20;
+
+If you don't have Raspberry Pi Imager, you can download it here: [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
 {% endstep %}
 
 {% step %}
