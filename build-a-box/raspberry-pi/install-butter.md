@@ -85,6 +85,14 @@ After that select _"write"_ and begin writing process to the Micro SD card.
 {% step %}
 ### Remove From Computer and Insert Micro SD Card into the Raspberry Pi (Butter Box)
 
-Once you're done, remove the Micro SD card. Insert the Micro SD card into the Raspberry Pi (Butter Box) not powered on. Plug the Raspberry Pi (Butter Box) into power. Wait a few moments and connect to the Butter Box Portal.
+Once you're done, remove the Micro SD card. Insert the Micro SD card into the Raspberry Pi (Butter Box) not powered on.&#x20;
+{% endstep %}
+
+{% step %}
+### Go to Quick Start
+
+Plug the Raspberry Pi (Butter Box) into power. Wait a few moments and connect to the Butter Box Portal. Go to the [Quick Start](../../quick-start/) section for more details.
+
+
 {% endstep %}
 {% endstepper %}
