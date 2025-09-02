@@ -25,20 +25,30 @@ Learn more about how to share maps and use static websites (and content packs) t
 
 ## Media, Files and Digital Books
 
-Use file folders to quickly share media, files and digital books. If you want to do more or have more control over how they are displayed, you can use static html sites to feature your content. Learn more about using static html sites in the [Content Packs](../customization/content-packs.md) section.&#x20;
+You can use your Butter Box to share media, files, and digital books. The simplest way is by placing files or folders directly on your USB drive.
 
-**Instructions**
+If you’d like more control over how your content is displayed, you can build a **static HTML site** and share it through the Butter Box. Learn more in the [Content Packs](../customization/content-packs.md) section.
 
-* Drop individual files in the main directory of your USB drive or use a folder system to organize them.
+### ✅ How to Share Files
 
-**Things to Know**
+**1. Add files to your USB drive**
 
-* When you have the USB drive plugged in, the _Explore USB_ tile will show up in the portal.
-* The `folder names` you use on your USB drive will be displayed in the Butter Box portal.
-
-
+* Place individual files directly in the **main directory** (root) of your USB drive.
+* Or, create folders to organize your files (e.g., “Books,” “Music,” “Reports”).
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+
+**2. Connect to your Butter Box**
+
+* Insert the USB drive into your Butter Box.
+* An **Explore USB** tile will appear in the Butter Box portal.
+
+### ℹ️ Things to Know
+
+* The **folder names you use** on your USB drive will be shown in the Butter Box portal.
+* Organizing content into folders makes it easier for others to browse and download.
+
+
 
 ***
 
@@ -48,22 +58,37 @@ Use file folders to quickly share media, files and digital books. If you want to
 
 ## Maps
 
-With a few downloads and light file folder organization, you can make relevant offline maps available for download from your Butter Box.
+You can make offline maps available from your Butter Box. These maps are powered by **OpenStreetMap (OSM)** and the **OsmAnd app** for Android.
 
-Offline maps are made possible by Open Street Maps (OSM). You can make the latest version of the OSM map app available for download from a Butter Box, along with offline map files for the regions you care about.&#x20;
+{% hint style="warning" %}
+**Important:** Offline map downloads work **only on Android devices**. iOS is not supported.
+{% endhint %}
 
-**Things to Know**
+### ✅ Steps to Enable Offline Maps
 
-* Offline map support is for Android only.
+**1. Get the OsmAnd app (APK for Android)**
 
-**Instructions**
+* Go to: [OsmAnd Free Releases — Android](https://osmand.net/?utm_source=chatgpt.com)
+* Download the latest APK file.
 
-If you want to share offline map files, you need to first provide the latest version of Open Street Map for Android, along with the map files for locations of interest.
+**2. Download the map files you need**
 
-* Download OSM map apk for Android: [Free Releases — Android | OsmAndosmand.net](https://osmand.net/docs/versions/free-versions/?current-os=ios&)
-* Download OSM map files: [Osmand Local Indexes Listdownload.osmand.net](https://download.osmand.net/list.php)
+* Visit: [OsmAnd Local Indexes List](https://download.osmand.net/?utm_source=chatgpt.com)
+* Choose and download the regions you want available offline.
 
-Put these all in a folder named `osm-map-files` . Place that folder in the main directory of the USB drive. The _Offline Maps_ tile will appear in your Butter Box portal.
+**3. Organize your files**
+
+* On your USB drive, create a folder named  `osm-map-files` .&#x20;
+* Put the **OsmAnd APK** and all your **map files** into this folder.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+
+**4. Add to your Butter Box**
+
+* Insert the USB drive into your Butter Box.
+* The **Offline Maps** tile will automatically appear in your Butter Box portal.
+
+👉 That’s it — anyone using an **Android device** can now download OsmAnd and the offline maps you’ve provided directly from your Butter Box.
+
+
 
