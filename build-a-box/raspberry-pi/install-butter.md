@@ -1,8 +1,8 @@
 ---
-description: Eg. Get Butter Box software installed on the SD card for the Raspberry Pi
+description: Install Butter Operating System (OS) on an SD card for Raspberry Pi
 ---
 
-# Raspberry Pi Imager Steps
+# Install Butter
 
 You will need:
 
