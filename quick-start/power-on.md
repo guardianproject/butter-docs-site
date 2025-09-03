@@ -11,11 +11,11 @@ coverY: 0
 
 Make sure you have the supplies for a basic box:
 
-* Power source
-* USB drive
-* USB Adapters (as needed)
-* Butter Box Device (with micro SD card inserted)
-* Case
+* [ ] Power source
+* [ ] USB drive
+* [ ] USB Adapters (as needed)
+* [ ] Butter Box Device (with micro SD card inserted)
+* [ ] Case
 
 <figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
