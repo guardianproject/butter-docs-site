@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Update Butter
 
 ### Check out new releases from the Butter Box team
