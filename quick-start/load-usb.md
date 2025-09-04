@@ -68,7 +68,7 @@ You can make offline maps available from your Butter Box. These maps are powered
 
 **1. Get the OsmAnd app (APK for Android)**
 
-* Go to: [OsmAnd Free Releases — Android](https://osmand.net/)
+* Go to: [OsmAnd Free Releases — Android](https://osmand.net/docs/versions/free-versions)
 * Download the latest APK file.
 
 **2. Download the map files you need**
