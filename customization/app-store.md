@@ -7,11 +7,11 @@ coverY: 0
 
 There are 3 different ways to share apps from a Butter Box.&#x20;
 
-| Method                     | Supported Apps        | Security                                                   | Guidance     |
-| -------------------------- | --------------------- | ---------------------------------------------------------- | ------------ |
-| F-Droid Repo               | Android               | Best                                                       | Most Secure  |
-| Static Website             | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | More Curated |
-| Files organized in folders | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | Easiest      |
+| Method                                                             | Supported Apps        | Security                                                   | Guidance     |
+| ------------------------------------------------------------------ | --------------------- | ---------------------------------------------------------- | ------------ |
+| <p><strong>Option 1:</strong></p><p>F-Droid Repo</p>               | Android               | Best                                                       | Most Secure  |
+| <p><strong>Option 2:</strong></p><p>Static Website</p>             | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | More Curated |
+| <p><strong>Option 3:</strong></p><p>Files organized in folders</p> | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | Easiest      |
 
 To get an app store tile to display in your Butter portal, you need to put a folder in your USB directory called `appstore` . The folder must contain the **required F-Droid files for an F-Droid Repo** or **a Static Website** that links to application files (eg. apk, exe, etc.)
 
@@ -25,6 +25,10 @@ Learn more about creating a F-Droid repo at [https://gitlab.com/likebutter/butte
 ### Option 2: Static Website
 
 Visit the [Content Packs](content-packs.md) section for information on **Using Static Websites**.
+
+### Option 3: Files Organized in Folders
+
+If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](../quick-start/load-usb.md) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
 
 
 
