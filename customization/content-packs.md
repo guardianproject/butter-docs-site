@@ -26,7 +26,15 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
 ### Things to Know
 
-* The html page needs to be available offline. That means that everything (media, pages, fonts, etc) need to be locally available on the box and linked.
+*   The html page needs to work completely office. Everything it needs has to live right on the device where you open it. Think of it like packing a suitcase — if you don’t bring it with you, you won’t have it when you’re away from home. That means:
+
+    * **The pages themselves** need to be saved on the computer. (eg. html files)
+    * **The look and feel** (colors, fonts, menus, buttons) need to be stored too, not borrowed from the internet. (eg. styling and interactivity with CSS and javascript)
+    * **Pictures, videos, and sounds** have to be copied over, not linked from somewhere else online.
+    * **Special fonts or icons** (like those from Google Fonts) also need to be packed into the folder, not fetched from the web.
+    * **Links between pages** should point to other saved pages in the same folder, not to the internet. You must use relative paths (e.g. `about/index.html`) instead of absolute web URLs.
+
+    Once everything is saved locally, you can open the site’s main page and it will show up exactly the same — even if there’s no Wi-Fi or internet at all.
 
 ### Try It
 
