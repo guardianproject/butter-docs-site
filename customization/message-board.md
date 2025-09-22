@@ -4,9 +4,9 @@ description: A place for anyone connected to the box to exchange info or talk
 
 # Message Board
 
-**Things To Know:**
+There is one public message board on your Butter Box that is open to anyone who is able to join the box. If they can open the portal, they can open the chat and say or post anything they want. Depending on your use case, moderation capabilities may be important.
 
-* There is one on the box that is open to anyone who is able to join the box. So if they can open the portal they can open the chat and say anything that they want or post anything they want.&#x20;
+But first, let's look at what you can and can't do with this message board.
 
 {% columns %}
 {% column %}
@@ -41,9 +41,9 @@ The public room was created by an administrative user called butterbox-admin. Th
 
 1. Login as admin. When you open the message board, you are assigned a Guest identity. You will need to log out from that identity, and log in to the butterbox-admin account.
 
-<figure><img src="https://images.unsplash.com/photo-1694878981819-1084b2d7dd0b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxwbGFjZWhvbGRlcnxlbnwwfHx8fDE3NTU3MTQ4Njd8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption><p>Placeholder for a video walkthrough of claiming moderator status</p></figcaption></figure>
 
-Once you've done this you can take the following actions:
+
+**Once you have claimed your moderator status, this you can take the following actions:**
 
 * **Kick people out.** Though, keep in mind that everyone's identity is a guest name and you may not know who's who. Also, keep in mind that someone can simply rejoin the chat if they reconnect to the box. They can read you in the chat as someone else if they've already been kicked out. If this is the case, you may want to set up a different room and you can do that. It will just be harder for people to find.&#x20;
 * **Grant moderator status** to others.&#x20;
@@ -53,7 +53,7 @@ Once you've done this you can take the following actions:
 
 
 
-## More To Chat About
+## Wait, There's More To Chat About!
 
 The Butter Box doesn't just have public rooms. You can create any number of private rooms!
 
@@ -68,11 +68,6 @@ The Butter Box doesn't just have public rooms. You can create any number of priv
 
 * Tap on a room member.
 * Or tap on your identity avatar. Then, select **new room**.
-
-
-
-\
-
 
 
 
