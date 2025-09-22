@@ -13,7 +13,7 @@ There are 3 different ways to share apps from a Butter Box.&#x20;
 | Static Website             | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | More Curated |
 | Files organized in folders | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | Easiest      |
 
-To get an app store tile to show up, you need to put a folder in your USB directory called `appstore` . The folder must contain the **required F-Droid files for an F-Droid Repo** or **a Static Website** that links to application files (eg. apk, exe, etc.)
+To get an app store tile to display in your Butter portal, you need to put a folder in your USB directory called `appstore` . The folder must contain the **required F-Droid files for an F-Droid Repo** or **a Static Website** that links to application files (eg. apk, exe, etc.)
 
 ### Option 1: F-Droid Repo
 

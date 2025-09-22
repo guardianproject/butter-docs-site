@@ -17,7 +17,7 @@
   * [Content Packs](customization/content-packs.md)
   * [Message Board](customization/message-board.md)
   * [Maps](customization/maps.md)
-  * [Apps](customization/apps.md)
+  * [Apps](customization/app-store.md)
 * [Update Butter](update-butter.md)
 * [Documentation](documentation.md)
 * [FAQ](faq.md)
