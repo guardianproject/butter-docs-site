@@ -1,7 +1,5 @@
 ---
 description: Supply your Butter Box with treasures
-cover: ../.gitbook/assets/media-type-placeholder2.png
-coverY: 0
 ---
 
 # Load USB
@@ -16,7 +14,7 @@ You can use your Butter Box to share media, files, and digital books. When you c
 
 If you’d like more control over how your content is displayed, you can build a **static HTML site** and share it through the Butter Box. Learn more in the [Content Packs](../customization/content-packs.md) section.
 
-### How to Share Files
+
 
 {% stepper %}
 {% step %}
@@ -31,6 +29,8 @@ Place individual files directly in the **main directory** (root) of your USB dri
 ### Connect to your Butter Box to view
 
 Insert the USB drive into your Butter Box. When you open the Butter Box portal, an **Explore USB** tile will be displayed.
+
+<figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
