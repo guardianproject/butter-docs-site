@@ -92,7 +92,11 @@ Once you're done, remove the Micro SD card. Insert the Micro SD card into the Ra
 ### Go to Quick Start
 
 Plug the Raspberry Pi (Butter Box) into power. Wait a few moments and connect to the Butter Box Portal. Go to the [Quick Start](../../quick-start/) section for more details.
-
-
 {% endstep %}
 {% endstepper %}
+
+**If you are building an extended box, continue in the next section: Extend Your Box.**
+
+{% content-ref url="extend-your-box.md" %}
+[extend-your-box.md](extend-your-box.md)
+{% endcontent-ref %}
