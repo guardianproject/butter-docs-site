@@ -34,7 +34,7 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 {% endstep %}
 {% endstepper %}
 
-### ℹ️ Things to Know
+### Things to Know
 
 * The **folder names you use** on your USB drive will be shown in the Butter Box portal.
 * Organizing content into folders makes it easier for others to browse and download.

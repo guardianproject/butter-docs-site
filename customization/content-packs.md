@@ -1,29 +1,36 @@
 # Content Packs
 
-Content packs are probably the coolest thing spoon sliced bread as it relates to butter. They literally give you endless possibilities.
-
-
-
 <figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
 ## Using Static Websites
 
 With html pages, you can create your own experience around the content you're sharing. To display content through a html page, simply add the html file and it's complementary folders to the jump drive.
 
-**Things to Know**
+### Instructions
 
-* When you have the USB drive plugged in, the  _Explore USB_ tile will show up in the portal.
-* If a folder on the USB drive contains an html file, the web page will be displayed when the folder is opened.
-* If the html file is placed in the root directory, it will be displayed when users tap _Explore USB_ from the portal.
-* The html page needs to be available offline. That means that everything (media, pages, fonts, etc) need to be locally available on the box and linked.
+{% stepper %}
+{% step %}
+### Add html files to your USB drive
 
-**Instructions**
-
-* Drop individual files in the main directory of your USB drive or use a `folder system with the naming of your choice` to organize them.
+Place the html file and associated sub-folders directly in the **main directory** (root) of your USB drive. Or, create a subfolder to place them in. If you're using a subfolder, use the title of the website to name it. This title will be displayed in the Butter Box portal.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+{% endstep %}
 
-**Try It!**
+{% step %}
+### Connect to your Butter Box to view
 
-Here's an example of a static website: [https://drive.google.com/drive/folders/18wtISjFZdY1NmsDWs7mlmA7UUntJoxAH](https://drive.google.com/drive/folders/18wtISjFZdY1NmsDWs7mlmA7UUntJoxAH). Add this set of files to your USB drive and give it a spin! If you are sharing files in addition to the static website, place it within a subfolder of the main directory.
+Insert the USB drive into your Butter Box. When you open the Butter Box portal, tap **Explore USB**. If your files are in the root directory, this tap will open the static website. If your files are in a subfolder, navigate to the subfolder to open the website.
+{% endstep %}
+{% endstepper %}
+
+### Things to Know
+
+* The html page needs to be available offline. That means that everything (media, pages, fonts, etc) need to be locally available on the box and linked.
+
+### Try It
+
+* The zip file below contains a sample static website. To get a feel for how static websites work with butter—Download it. Unzip it. Then, add this set of files to your USB drive.
+
+{% file src="../.gitbook/assets/Sample Static Website.zip" %}
 
