@@ -13,10 +13,12 @@ The reach for it is about **5–10 meters** indoors, depending on the Raspberry 
 * [ ] Power Cord that accompanies the Raspberry Pi Zero 2W or an [alternative power supply](../power-supply.md)
 * [ ] Micro SD Card: Images with the Butter software are usually under 16 GB (we suggest 256 GB). Media that people upload to the chat ends up on the card; it never gets cleared.&#x20;
 * [ ] USB drive (min 32 GB)
-* [ ] Adapters (as needed)
-  * [ ] Micro USB/Male to USB A/Female
-  * [ ] A dongle to connect the micro SD card to your laptop (if needed)
-  *
+*   [ ] Adapters (as needed)
+
+    * [ ] Micro USB/Male to USB A/Female
+    * [ ] A dongle to connect the micro SD card to your laptop (if needed)
+
+
 
 **Once you have your supplies, continue in the Install Butter section.**
 
