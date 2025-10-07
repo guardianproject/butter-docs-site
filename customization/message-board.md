@@ -48,7 +48,7 @@ The public room was created by an administrative user called butterbox-admin. Th
 * **Kick people out.** Though, keep in mind that everyone's identity is a guest name and you may not know who's who. Also, keep in mind that someone can simply rejoin the chat if they reconnect to the box. They can read you in the chat as someone else if they've already been kicked out. If this is the case, you may want to set up a different room and you can do that. It will just be harder for people to find.&#x20;
 * **Grant moderator status** to others.&#x20;
 * **Set disappearing messages** (eg. Limit history). You can limit the amount of time messages are available in the chat or on the message board&#x20;
-* **Remove posts** (?)
+* **Remove posts.**
 * **Delete the room.** Warning: If you delete the room, you will no longer have a public message board on your Butter Box. To get one back, you will have to flash a new image of the Butter Box software to your SD card.
 
 
