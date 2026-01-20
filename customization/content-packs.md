@@ -4,7 +4,7 @@
 
 ## Using Static Websites
 
-With html pages, you can create your own website experience around the content you're sharing. To display content through a html page, simply add the html file and it's complementary folders to the jump drive.
+With static websites, you can create your own experience around the content you're sharing. To display content through a static website, simply add the html file and it's complementary folders to the USB drive.
 
 ### Instructions
 
@@ -26,7 +26,7 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
 ### Things to Know
 
-*   The website needs to work completely offline. Everything it needs has to live right on the device where you open it. Think of it like packing a suitcase — if you don’t bring it with you, you won’t have it when you’re away from home. That means:
+*   The static website needs to work completely offline. Everything it needs has to live right on the device where you open it. Think of it like packing a suitcase — if you don’t bring it with you, you won’t have it when you’re away from home. That means:
 
     * **The pages themselves** need to be saved on the computer. (eg. html files)
     * **The look and feel** (colors, fonts, menus, buttons) need to be stored too, not borrowed from the internet. (eg. styling and interactivity with CSS and javascript)
