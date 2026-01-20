@@ -41,7 +41,7 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
 
 
-## Share Even More—with Maps, Apps and Moderated Chat!
+## Share Even More—with the Message Board, Maps, and Apps!
 
 Learn more about how to share maps, apps and use static websites to feature content in the [Customization](../customization/) section.
 

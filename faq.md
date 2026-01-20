@@ -28,7 +28,7 @@ Currently, the Butter Box broadcasts an open Wi-Fi network — that means no pas
 
 However, users must either enter the Butter Box’s local IP address manually, or scan a QR code that takes them directly to the content. Since it’s all offline, there’s no exposure to the internet or external threats.
 
-You can configure the Raspberry Pi to require a Wi-Fi password if you want more control. It’s not enabled by default, but it’s totally doable for more secure environments. Check out the [Security](broken-reference) section for more information.
+You can configure the Raspberry Pi to require a Wi-Fi password if you want more control. It’s not enabled by default, but it’s totally doable for more secure environments. Check out the [Security](/broken/pages/euE9z9Dog2t9F4QA9ESs) section for more information.
 
 ***
 
