@@ -29,6 +29,8 @@ First, let's look at what you can and can't do with this message board.
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 ## Moderation
 
 A Butter Box offers moderation features for the public message board. In order to access these features, you need to login as the admin of the room.
@@ -69,7 +71,7 @@ Once you are an admin, you have access to the following features:
 
 
 
-## Say Even More—with Direct Chats and Private Rooms
+## Say Even More—Direct Messages and Private Rooms
 
 In addition to the public message board, you can create any number of private rooms from the same interface.
 
