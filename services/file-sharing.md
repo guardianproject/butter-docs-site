@@ -1,5 +1,7 @@
 # File Sharing
 
+<figure><img src="../.gitbook/assets/default portal.png" alt=""><figcaption></figcaption></figure>
+
 ## Share Media, Files and Digital Books
 
 You can use your Butter Box to share media, files, and digital books. To display additional content in your portal, connect a USB drive containing the information you want to share.
@@ -30,3 +32,9 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
 * The **folder names you use** on your USB drive will be shown in the Butter Box portal.
 * Organizing content into folders makes it easier for others to browse and download.
+
+
+
+## Share Even More—with the Message Board, Maps, and Apps!
+
+Learn more about how to share maps, apps and use static websites to feature content in the [Content Packs](../content-packs/) section.
