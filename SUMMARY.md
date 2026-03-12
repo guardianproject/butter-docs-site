@@ -21,6 +21,8 @@
 * [Security](security.md)
 * [Documentation](documentation.md)
 * [FAQ](faq.md)
+* [Troubleshooting](troubleshooting/README.md)
+  * [Issues with File Sharing](troubleshooting/issues-with-file-sharing.md)
 * [Use Cases](case-studies.md)
 * [Archive](archive/README.md)
   * [Apps (archive)](archive/apps-archive.md)

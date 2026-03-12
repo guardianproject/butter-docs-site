@@ -28,7 +28,7 @@ Currently, the Butter Box broadcasts an open Wi-Fi network — that means no pas
 
 However, users must either enter the Butter Box’s local IP address manually, or scan a QR code that takes them directly to the content. Since it’s all offline, there’s no exposure to the internet or external threats.
 
-You can configure the Raspberry Pi to require a Wi-Fi password if you want more control. It’s not enabled by default, but it’s totally doable for more secure environments. Check out the [Security](/broken/pages/euE9z9Dog2t9F4QA9ESs) section for more information.
+You can configure the Raspberry Pi to require a Wi-Fi password in the admin settings. Refer to the [Security](security.md) section for more security features.
 
 ***
 
@@ -47,3 +47,9 @@ The Butter Box storage capacity is defined by the microSD card you install — i
 ### Can I customize it?
 
 Absolutely! You can add, for example, your own content - dropping in PDFs, videos, images, and HTML pages to build a local library, or add your own apps - including Android APKs (even if they’re not on F-Droid).
+
+***
+
+### My USB drive is plugged into the Butter Box, but the content is not displayed on the portal. Why?
+
+Yout USB drive is probably in the wrong format. Your USB needs to be formatted to ExFat, Fat32, MS-DOS (FAT). Refer to [Reformatting Your USB](troubleshooting/issues-with-file-sharing.md) for help.
