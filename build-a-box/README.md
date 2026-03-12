@@ -12,11 +12,11 @@ Don’t have a Butter Box yet? You can easily build your own. Choose your setup 
 
 Butter Box software currently runs on Raspberry Pi devices: Pi Zero 2 and Pi 4. You can use either one. See comparison chart below for details.
 
-| Device                                                                                                                              | Capacity                                                          | Supplies                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------- |
-| <p><strong>Basic</strong> </p><p>Raspberry Pi Zero Pi 2<br><br><a href="raspberry-pi/basic-box-supplies.md">Get Started</a></p>     | Up to 10 people, About 10 meters apart                            | [Supply List](raspberry-pi/basic-box-supplies.md) |
-| <p><strong>Extended</strong> </p><p>Raspberry Pi 4 + Router<br><br><a href="/broken/pages/0KO31EyIzDzdRblm534m">Get Started</a></p> | Up to 20 people, About 30 meters apart when paired with a router  | [Supply List](/broken/pages/0KO31EyIzDzdRblm534m) |
-| PC/Laptop (amd64)                                                                                                                   | _Coming soon_                                                     | _Coming soon_                                     |
+| Device                                                                                                                           | Capacity                                                          | Supplies                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------- |
+| <p><strong>Basic</strong> </p><p>Raspberry Pi Zero Pi 2<br><br><a href="raspberry-pi/basic-box-supplies.md">Get Started</a></p>  | Up to 10 people, About 10 meters apart                            | [Supply List](raspberry-pi/basic-box-supplies.md) |
+| <p><strong>Extended</strong> </p><p>Raspberry Pi 4 + Router<br><br><a href="raspberry-pi/extend-your-box.md">Get Started</a></p> | Up to 20 people, About 30 meters apart when paired with a router  | [Supply List](raspberry-pi/extend-your-box.md)    |
+| PC/Laptop (amd64)                                                                                                                | _Coming soon_                                                     | _Coming soon_                                     |
 
 We also make and ship Butter Boxes to partners worldwide. If you serve a community that could benefit, we’d love to hear from you.&#x20;
 
