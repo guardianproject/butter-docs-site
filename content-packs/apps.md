@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/media-type-apps.png
+cover: ../.gitbook/assets/media-type-apps.png
 coverY: 0
 ---
 
@@ -24,11 +24,11 @@ Learn more about creating a F-Droid repo at [https://gitlab.com/likebutter/butte
 
 ### Option 2: Static Website
 
-Visit the [Content Packs](content-packs.md) section for information on **Using Static Websites**.
+Visit the [Content Packs](/broken/pages/LtQjNMJIpxHOdbFgl65c) section for information on **Using Static Websites**.
 
 ### Option 3: Files Organized in Folders
 
-If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](../../quick-start/load-usb.md) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
+If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](../quick-start/load-usb.md) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
 
 
 

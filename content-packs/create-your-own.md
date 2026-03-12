@@ -1,6 +1,6 @@
-# Content Packs
+# Create Your Own
 
-<figure><img src="../../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/media-type-html.png" alt=""><figcaption></figcaption></figure>
 
 ## Using Static Websites
 
@@ -14,7 +14,7 @@ With static websites, you can create your own experience around the content you'
 
 Place the html file and associated sub-folders directly in the **main directory** (root) of your USB drive. Or, create a subfolder to place them in.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -36,9 +36,5 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
     Once everything is saved locally, you can open the site’s main page and it will show up exactly the same — even if there’s no wifi or internet at all.
 
-### Try It
 
-* The zip file below contains a sample static website. To get a feel for how static websites work with butter—Download it. Unzip it. Then, add this set of files to your USB drive.
-
-{% file src="../../.gitbook/assets/Sample Static Website.zip" %}
 
