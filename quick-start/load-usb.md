@@ -12,7 +12,7 @@ description: Supply your Butter Box with treasures
 
 You can use your Butter Box to share media, files, and digital books. When you connect to your Butter Box portal for the first time, the Message Board is shown by default. To display additional content in your portal, connect a USB drive containing the information you want to share.
 
-If you’d like more control over how your content is displayed, you can build a **static HTML site** and share it through the Butter Box. Learn more in the [Content Packs](../customization/content-packs.md) section.
+If you’d like more control over how your content is displayed, you can build a **static HTML site** and share it through the Butter Box. Learn more in the [Content Packs](../services/file-sharing/content-packs.md) section.
 
 
 
@@ -43,7 +43,7 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 
 ## Share Even More—with the Message Board, Maps, and Apps!
 
-Learn more about how to share maps, apps and use static websites to feature content in the [Customization](../customization/) section.
+Learn more about how to share maps, apps and use static websites to feature content in the [Customization](../services/) section.
 
 
 

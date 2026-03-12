@@ -2,23 +2,6 @@
 description: Sharing offline has never been easier!
 cover: .gitbook/assets/1120x630.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Get Started

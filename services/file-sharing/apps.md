@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/media-type-apps.png
+cover: ../../.gitbook/assets/media-type-apps.png
 coverY: 0
 ---
 
@@ -28,7 +28,7 @@ Visit the [Content Packs](content-packs.md) section for information on **Using S
 
 ### Option 3: Files Organized in Folders
 
-If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](../quick-start/load-usb.md) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
+If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](../../quick-start/load-usb.md) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
 
 
 
