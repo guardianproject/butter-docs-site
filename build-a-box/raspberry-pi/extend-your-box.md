@@ -19,7 +19,9 @@ With the router, the network can reach 10-30 m (32-98 feet),and can comfortably 
 
 _No internet connection is required._
 
-![](<../../.gitbook/assets/unknown (8).jpeg>)
+<figure><img src="../../.gitbook/assets/20250815_142438.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Steps
 

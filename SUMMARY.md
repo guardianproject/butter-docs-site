@@ -5,7 +5,6 @@
 * [Build A Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Basic Box Supplies](build-a-box/raspberry-pi/basic-box-supplies.md)
-    * [Extended Box Supplies](build-a-box/raspberry-pi/extended-box-supplies.md)
     * [Install Butter](build-a-box/raspberry-pi/install-butter.md)
     * [Extend Your Box](build-a-box/raspberry-pi/extend-your-box.md)
   * [PC/Laptop](build-a-box/pc-laptop.md)
