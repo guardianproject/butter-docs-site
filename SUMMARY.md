@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Get Started](README.md)
-* [Quick Start](quick-start/README.md)
-  * [Power On](quick-start/power-on.md)
-  * [Setup Box](quick-start/setup-box.md)
+* [Quick Start](quick-start.md)
 * [Build A Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Basic Box Supplies](build-a-box/raspberry-pi/basic-box-supplies.md)

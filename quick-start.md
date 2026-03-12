@@ -1,4 +1,6 @@
-# Power On
+# Quick Start
+
+If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
 
 {% stepper %}
 {% step %}
@@ -12,7 +14,7 @@ Make sure you have the supplies for a basic box:
 * [ ] Butter Box Device (with micro SD card inserted)
 * [ ] Case
 
-<figure><img src="../.gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -26,7 +28,7 @@ The micro SD card should have the latest version of Butter OS running on it.
 
 Connect the power supply to the first micro USB port and correct wall outlet.
 
-<figure><img src="../.gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 You will know the box is working if ‘butterbox’ wifi appears in the wifi list on your phone or computer. If it doesn’t, unplug the box and plug it back in.
 
@@ -34,7 +36,7 @@ You will know the box is working if ‘butterbox’ wifi appears in the wifi lis
 
 _If using a solar battery or other means of power, use one with the correct specs to ensure adequate power and avoid damage to the unit. For a Pi Zero 2 W use Micro USB power supply with at least 2.0A._
 
-[Link to Power Supply Options](../build-a-box/power-supply.md)
+[Link to Power Supply Options](build-a-box/power-supply.md)
 
 
 {% endstep %}
@@ -44,7 +46,7 @@ _If using a solar battery or other means of power, use one with the correct spec
 
 Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [Load USB](/broken/pages/9sWNUcpQ3FEpAjRJ3T2t) section.
 
-<figure><img src="../.gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -54,7 +56,7 @@ Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. T
 
 {% embed url="https://youtu.be/KB5O9MSoaAg" %}
 
-<div align="center"><figure><img src="../.gitbook/assets/qr code.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/qr code.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 _If this page does not load, wait a few minutes to ensure connectivity. Refresh the page. If you’re connecting from a smartphone, turn off your mobile data or turn on airplane mode. Then try again._
 
@@ -62,13 +64,19 @@ _If this page does not load, wait a few minutes to ensure connectivity. Refresh 
 This is an HTTP page, not HTTPS, because it's served from a local device with no internet connection. Your data never leaves the network, so it's still private and secure.
 {% endhint %}
 
-The Wi-Fi does not have a password by default. Though, you can easily add one. Learn more in the [Set Wi-Fi Password ](../archive/add-wifi-password.md)section.
+The Wi-Fi does not have a password by default. Though, you can easily add one. Learn more in the [Set Wi-Fi Password ](archive/add-wifi-password.md)section.
 {% endstep %}
 
 {% step %}
-### Once connected, explore the portal!
+### Once connected, set up your Box through the admin portal.
 
-Explore the portal for yourself! Once you share with others, they will connect to it in the same way you just did.
+The Admin setup wizard is designed to give you choice over which services are offered on the box and to increase its security.
+{% endstep %}
+
+{% step %}
+### Share access to the portal
+
+Once you share with others, they will connect to it in the same way you just did.
 {% endstep %}
 {% endstepper %}
 
