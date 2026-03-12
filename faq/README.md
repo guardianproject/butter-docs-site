@@ -12,7 +12,7 @@ Not quite. The Butter Box doesn’t provide internet access. Instead, it creates
 
 ### How do you power a Butter Box?
 
-The Butter Box is super flexible! You can power it using a USB power bank, a wall adapter, or even a small solar panel. As long as it provides power to the Raspberry Pi, you’re good to go. Go to the [Power Supply](build-a-box/power-supply.md) section to learn more.
+The Butter Box is super flexible! You can power it using a USB power bank, a wall adapter, or even a small solar panel. As long as it provides power to the Raspberry Pi, you’re good to go. Go to the [Power Supply](../build-a-box/power-supply.md) section to learn more.
 
 ***
 
@@ -28,7 +28,7 @@ Currently, the Butter Box broadcasts an open Wi-Fi network — that means no pas
 
 However, users must either enter the Butter Box’s local IP address manually, or scan a QR code that takes them directly to the content. Since it’s all offline, there’s no exposure to the internet or external threats.
 
-You can configure the Raspberry Pi to require a Wi-Fi password in the admin settings. Refer to the [Security](security.md) section for more security features.
+You can configure the Raspberry Pi to require a Wi-Fi password in the admin settings. Refer to the [Security](../security.md) section for more security features.
 
 ***
 
@@ -52,4 +52,4 @@ Absolutely! You can add, for example, your own content - dropping in PDFs, video
 
 ### My USB drive is plugged into the Butter Box, but the content is not displayed on the portal. Why?
 
-Yout USB drive is probably in the wrong format. Your USB needs to be formatted to ExFat, Fat32, MS-DOS (FAT). Refer to [Reformatting Your USB](troubleshooting/issues-with-file-sharing.md) for help.
+Yout USB drive is probably in the wrong format. Your USB needs to be formatted to ExFat, Fat32, MS-DOS (FAT). Refer to [Reformatting Your USB](how-to-reformat-your-usb-drive.md) for help.
