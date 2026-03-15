@@ -10,6 +10,8 @@ The best way or easiest way to get started with creating your own content pack i
 
 It can be very simple like an audio player for music. Or, a simple list of the five top VPN apps that you recommend. Or it can be more complex like a library or knowledge base of cultural artifacts.&#x20;
 
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+
 No matter what you're building, you can craft your own experience with a local static website. A local static website runs off of your box without an internet connection. When users join the portal and open the pack your static website will be rendered within the browser they are using.&#x20;
 
 {% content-ref url="create-your-own.md" %}
