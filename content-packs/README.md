@@ -31,7 +31,23 @@ It can be very simple like an audio player for music. Or, a simple list of the f
 
 <figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 
+{% stepper %}
+{% step %}
+### Add website files to a USB drive
 
+Place a folder with your website files in the **root directory** of a USB drive. Be sure that your website folder contains your **index.html.** The name of this folder will be displayed on the Butter Box portal.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Connect to your Butter Box to view
+
+Insert the USB drive into your Butter Box. When you open the Butter Box portal, tap **Files**. Navigate to the website folder. Tap to view.
+
+<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 
 
