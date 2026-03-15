@@ -2,11 +2,11 @@
 description: How to Make a Butter Box Tamper Resistant
 ---
 
-# Physical Security
+# Security
 
-This guide was designed for deployments in hostile, semi-hostile, or low-trust environments, where devices may be inspected, confiscated, modified, or misused. It aims to provide practical recommendations to make the RCBox more physically and digitally tamper-resistant.&#x20;
+This guide was designed for deployments in hostile, semi-hostile, or low-trust environments, where devices may be inspected, confiscated, modified, or misused. It aims to provide practical recommendations to make the Butter Box more physically and digitally tamper-resistant.&#x20;
 
-Following the recommendations in this guide will help reduce risk, not guarantee absolute security. RCBox is assumed to be a field-deployable, low-cost, offline system, so these recommendations prioritize realistic, maintainable protections.
+Following the recommendations in this guide will help reduce risk, not guarantee absolute security. Butter Box is assumed to be a field-deployable, low-cost, offline system, so these recommendations prioritize realistic, maintainable protections.
 
 ### 1. Threat Model Assumptions
 
@@ -100,7 +100,7 @@ Treat RCBoxes as semi-disposable infrastructure, not personal devices.
 
 <br>
 
-### Digital Tamper Resistance
+### 3. Digital Tamper Resistance
 
 #### Credential Hygiene (Critical)
 
@@ -155,7 +155,7 @@ Operational control:
 
 
 
-### Misuse & Abuse Mitigation
+### 4. Misuse & Abuse Mitigation
 
 #### Offline Chat & Messaging Risks
 
@@ -182,7 +182,7 @@ Mitigations:
 
 
 
-### Incident Response & Recovery
+### 5. Incident Response & Recovery
 
 Prepare for compromise:
 
