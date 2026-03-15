@@ -2,9 +2,9 @@
 description: A place for anyone connected to the box to exchange info or talk
 ---
 
-# Message Board
+# Local Chat (formerly Message Board)
 
-There is one public message board on your Butter Box that is open to anyone who is able to join the box. If they can open the portal, they can open the chat and say or post anything they want. Depending on your use case, moderation capabilities may be important.&#x20;
+There is one local chat on your Butter Box that is open to anyone who is able to join the box. If they can open the portal, they can open the chat and say or post anything they want. Depending on your use case, moderation capabilities may be important.&#x20;
 
 First, let's look at what you can and can't do with this message board.
 

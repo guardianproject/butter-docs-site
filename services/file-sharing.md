@@ -6,7 +6,7 @@
 
 You can use your Butter Box to share media, files, and digital books. To display additional content in your portal, connect a USB drive containing the information you want to share.
 
-If you’d like more control over how your content is displayed, you can build a **static HTML site** and share it through the Butter Box. Learn more in the [Content Packs](/broken/pages/LtQjNMJIpxHOdbFgl65c) section.
+If you’d like more control over how your content is displayed, you can build a **static website** and share it through the Butter Box. Learn more in the [Content Packs](../content-packs/) section.
 
 
 
@@ -33,8 +33,3 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 * The **folder names you use** on your USB drive will be shown in the Butter Box portal.
 * Organizing content into folders makes it easier for others to browse and download.
 
-
-
-## Share Even More—with the Message Board, Maps, and Apps!
-
-Learn more about how to share maps, apps and use static websites to feature content in the [Content Packs](../content-packs/) section.

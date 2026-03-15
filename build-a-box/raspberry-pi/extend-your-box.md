@@ -12,7 +12,7 @@ With the router, the network can reach 10-30 m (32-98 feet),and can comfortably 
 
 * [ ] Raspberry Pi 4, 5 or Raspberry Pi Zero 2W
 * [ ] Router ([Opal (GL-SFT1200) Wireless Travel Router](https://store-us.gl-inet.com/products/united-states-opal-gl-sft1200-gigabit-wireless-router-dual-band-openwrt-ipv6-tor) or equivilent)
-* [ ] Power outlet and power cords that accompany the Raspberry Pi and the Routeror an [alternative power supply](../power-supply.md)
+* [ ] Power outlet and power cords that accompany the Raspberry Pi and the Router or an [alternative power supply](../power-supply.md)
 * [ ] Micro SD Card: Images with the Butter software are usually under 16 GB (we suggest 256 GB). Media that people upload to the chat ends up on the card; it never gets cleared.
 * [ ] USB Drive (min 32 GB)
 * [ ] Adapters (as needed)

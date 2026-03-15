@@ -49,20 +49,3 @@ Insert the USB drive into your Butter Box. When you open the Butter Box portal, 
 {% endstep %}
 {% endstepper %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-In this section, we will give instructions for curating an apps content pack. If you configure the folders for these in a special way, a tile will appear on the portal.&#x20;
-
-[maps.md](maps.md "mention")
-
-[apps.md](apps.md "mention")<br>
