@@ -44,7 +44,7 @@ _If using a solar battery or other means of power, use one with the correct spec
 {% step %}
 ### Insert USB drive
 
-Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [Load USB](/broken/pages/9sWNUcpQ3FEpAjRJ3T2t) section.
+Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [File Sharing](services/file-sharing.md) section.
 
 <figure><img src=".gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
@@ -52,7 +52,7 @@ Connect the USB adapter to the open port. Then plug in the USB drive. Learn more
 {% step %}
 ### Access the Butter Box Portal
 
-Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. This connects you to http://butterbox.lan in a browser.
+Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. This connects you to **http://butterbox.local** in a browser.
 
 {% embed url="https://youtu.be/KB5O9MSoaAg" %}
 
@@ -64,13 +64,13 @@ _If this page does not load, wait a few minutes to ensure connectivity. Refresh 
 This is an HTTP page, not HTTPS, because it's served from a local device with no internet connection. Your data never leaves the network, so it's still private and secure.
 {% endhint %}
 
-The Wi-Fi does not have a password by default. Though, you can easily add one. Learn more in the [Set Wi-Fi Password ](archive/add-wifi-password.md)section.
+The Wi-Fi does not have a password by default. Though, you can easily add one in the Admin Settings.
 {% endstep %}
 
 {% step %}
-### Once connected, set up your Box through the admin portal.
+### Once connected, use Admin Settings to set up your box.
 
-The Admin setup wizard is designed to give you choice over which services are offered on the box and to increase its security.
+The admin setup wizard is designed to give you choice over which services are offered on the box and to increase its security. You will be prompted to go to Admin Settings if this is the first time you've used the box.
 {% endstep %}
 
 {% step %}

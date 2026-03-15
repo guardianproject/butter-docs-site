@@ -14,7 +14,6 @@
   * [Local Chat (formerly Message Board)](services/local-chat-formerly-message-board.md)
   * [Private Messenger](services/private-messenger.md)
 * [Content Packs](content-packs/README.md)
-  * [Create Your Own](content-packs/create-your-own.md)
   * [Maps](content-packs/maps.md)
   * [Apps](content-packs/apps.md)
 * [Update Butter](update-butter.md)
