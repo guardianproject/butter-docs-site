@@ -6,7 +6,7 @@ description: Curated pluggable content
 
 You can create your own content pack! It simply needs to be set up as a **static website with local links**. This website will run from the box itself, so all of the images and files required for the website need to be contained within one main folder.&#x20;
 
-Once you have your static website ready, you will put all of the required files for it in one folder, and place this folder in the **main (root) directory** of your USB drive. This website will be rendered in the browser people use to access the Butter Box portal.&#x20;
+Once you have your static website ready, you will put all of the required files for it in one folder, and place this folder in the **root directory** of your USB drive. This website will be rendered in the browser people use to access the Butter Box portal.&#x20;
 
 Tips for creating a content pack with a static website:
 
