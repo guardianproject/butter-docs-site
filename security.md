@@ -21,6 +21,8 @@ Before applying controls, clearly define your deployment context. This guide ass
 
 Remember that controls should adapt to the local risk level, over-hardening can reduce usability and trust.
 
+
+
 ### Section 1: Physical Tamper Resistance
 
 #### Enclosure and  Hardware Protection
@@ -33,7 +35,9 @@ Recommendations:
 2. Prefer tamper-evident screws (Torx, security hex)
 3. Apply tamper-evident stickers over enclosure seams and SD card slots
 
-<figure><img src=".gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+<table data-header-hidden><thead><tr><th>1) Sealed enclosures</th><th>2) Screws</th><th data-type="image">3) Stickers</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown.jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (1).jpeg" alt=""></td><td><a href=".gitbook/assets/unknown (2).jpeg">unknown (2).jpeg</a></td></tr></tbody></table>
+
+####
 
 #### SD Card & Storage Protection
 
@@ -52,6 +56,8 @@ Optional (higher risk contexts):
 
 
 <table data-header-hidden><thead><tr><th>Epoxy Resin</th><th>Epoxy Resin</th><th data-type="image">Lock Box</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown (3).jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (4).jpeg" alt=""></td><td><a href=".gitbook/assets/unknown (5).jpeg">unknown (5).jpeg</a></td></tr></tbody></table>
+
+####
 
 #### Power & Port Management
 
