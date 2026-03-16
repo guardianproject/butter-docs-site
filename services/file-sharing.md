@@ -22,7 +22,7 @@ Place individual files directly in the **main directory** (root) of your USB dri
 {% step %}
 ### Connect to your Butter Box to view
 
-Insert the USB drive into your Butter Box. When you open the Butter Box portal, an **Explore USB** tile will be displayed.
+Insert the USB drive into your Butter Box. After connecting your USB drive to the Raspberry Pi you will see the **Files** tile displayed when you open the Butter Box portal.
 
 <figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
