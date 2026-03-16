@@ -1,5 +1,5 @@
 ---
-description: A place for anyone connected to the box to exchange info or talk
+description: A place for anyone connected to the box to share
 ---
 
 # Local Chat
