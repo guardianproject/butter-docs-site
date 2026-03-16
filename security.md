@@ -4,11 +4,11 @@ description: How to Make a Butter Box Tamper Resistant
 
 # Security
 
-This guide was designed for deployments in hostile, semi-hostile, or low-trust environments, where devices may be inspected, confiscated, modified, or misused. It aims to provide practical recommendations to make the Butter Box more physically and digitally tamper-resistant.&#x20;
+This guide was designed for deployments in hostile, semi-hostile, or low-trust environments, where devices may be inspected, confiscated, modified, or misused. It aims to provide practical recommendations to make the RCBox more physically and digitally tamper-resistant.&#x20;
 
-Following the recommendations in this guide will help reduce risk, not guarantee absolute security. Butter Box is assumed to be a field-deployable, low-cost, offline system, so these recommendations prioritize realistic, maintainable protections.
+Following the recommendations in this guide will help reduce risk, not guarantee absolute security. RCBox is assumed to be a field-deployable, low-cost, offline system, so these recommendations prioritize realistic, maintainable protections.
 
-### 1. Threat Model Assumptions
+**Threat Model Assumptions**
 
 Before applying controls, clearly define your deployment context. This guide assumes one or more of the following risks:
 
@@ -21,9 +21,7 @@ Before applying controls, clearly define your deployment context. This guide ass
 
 Remember that controls should adapt to the local risk level, over-hardening can reduce usability and trust.
 
-
-
-### 2. Physical Tamper Resistance
+### Section 1: Physical Tamper Resistance
 
 #### Enclosure and  Hardware Protection
 
@@ -41,23 +39,19 @@ Recommendations:
 
 Recommendations:
 
-* Use high-quality SD cards to reduce corruption
-* Encrypt sensitive partitions (where feasible)
-* Keep content and OS separated (firmware vs content packs)
-* Avoid labeling SD cards with sensitive identifiers
+1. Use high-quality SD cards to reduce corruption
+2. Encrypt sensitive partitions (where feasible)
+3. Keep content and OS separated (firmware vs content packs)
+4. Avoid labeling SD cards with sensitive identifiers
 
 Optional (higher risk contexts):
 
-* Epoxy Resin. Electronico potting solutions ​​protect Printed Circuit Boards from extreme temperatures, moisture, vibration, and other environmental threats.
-* Physically block SD card removal
+1. Epoxy Resin. Electronico potting solutions ​​protect Printed Circuit Boards from extreme temperatures, moisture, vibration, and other environmental threats.
+2. Physically block SD card removal
 
 
 
 <table data-header-hidden><thead><tr><th>Epoxy Resin</th><th>Epoxy Resin</th><th data-type="image">Lock Box</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown (3).jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (4).jpeg" alt=""></td><td><a href=".gitbook/assets/unknown (5).jpeg">unknown (5).jpeg</a></td></tr></tbody></table>
-
-
-
-![](<.gitbook/assets/unknown (5).jpeg>)
 
 #### Power & Port Management
 
@@ -77,12 +71,9 @@ Recommendations:
 * Store boxes in controlled locations when not in use
 * Rotate devices periodically in long deployments
 * Assume devices may be copied or lost
+* Treat Butter Boxes as semi-disposable infrastructure, not personal devices.<br>
 
-Treat Butter Boxes as semi-disposable infrastructure, not personal devices.
-
-<br>
-
-### 3. Digital Tamper Resistance
+### Section 2: Digital Tamper Resistance
 
 #### Credential Hygiene (Critical)
 
@@ -102,14 +93,14 @@ RaspAP
 
 Chat
 
-* The public room was created by an administrative user called butterbox-admin. The password for this user is also butterbox-admin.
+* The local chat was created by an administrative user called butterbox-admin. The password for this user is also butterbox-admin.
 * Change this password by logging into the Butter Box, going to the public chatroom, then visiting your user profile and updating the password. At your discretion, you may also wish to change the name from butterbox-admin so that other users will recognize you.
 
 Best practices:
 
 * Use unique passwords per deployment
 * Store credentials offline in secure documentation
-* Never reuse credentials across regions<br>
+* Never reuse credentials across regions
 
 #### Service Hardening
 
@@ -119,8 +110,6 @@ Recommendations:
 * SSH (or restrict to key-based auth)
 * Bluetooth
 * USB ports
-
-
 
 #### Content Integrity & Authenticity
 
@@ -137,9 +126,9 @@ Operational control:
 
 
 
-### 4. Misuse & Abuse Mitigation
+### Section 3: Misuse & Abuse Mitigation
 
-#### Offline Chat & Messaging Risks
+#### Local Chat & Content Abuse
 
 Risks:
 
@@ -152,19 +141,12 @@ Mitigations:
 * Clear usage guidelines displayed locally
 * Community moderation roles (if appropriate)
 * Ability to reset or wipe chat data quickly
-
-
-
-#### Content Abuse
-
-Mitigations:
-
 * Limit who can upload or replace content
 * Keep a read-only mode for most users
 
 
 
-### 5. Incident Response & Recovery
+### Section 4: Incident Response & Recovery
 
 Prepare for compromise:
 
