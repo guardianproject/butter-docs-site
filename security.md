@@ -27,25 +27,15 @@ Remember that controls should adapt to the local risk level, over-hardening can 
 
 #### Enclosure and  Hardware Protection
 
-Physical access to the RCBox allows SD card cloning, firmware replacement, malware injection and broadcasting of malicious information. PCB are also delicate and should have additional protection to keep them safe from everyday handling and weather exposure.
-
-
+Physical access to the Butter Box allows SD card cloning, firmware replacement, malware injection and broadcasting of malicious information. PCB are also delicate and should have additional protection to keep them safe from everyday handling and weather exposure.
 
 Recommendations:
 
-* Use a sealed or semi-sealed enclosure (screws instead of snap-fit)
+1. Use a sealed or semi-sealed enclosure (screws instead of snap-fit)
+2. Prefer tamper-evident screws (Torx, security hex)
+3. Apply tamper-evident stickers over enclosure seams and SD card slots
 
-![](.gitbook/assets/unknown.jpeg)
-
-* Prefer tamper-evident screws (Torx, security hex)
-
-![](<.gitbook/assets/unknown (1).jpeg>)
-
-* Apply tamper-evident stickers over enclosure seams and SD card slots
-
-![](<.gitbook/assets/unknown (2).jpeg>)
-
-<br>
+<figure><img src=".gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 
 #### SD Card & Storage Protection
 
@@ -59,15 +49,13 @@ Recommendations:
 Optional (higher risk contexts):
 
 * Epoxy Resin. Electronico potting solutions ​​protect Printed Circuit Boards from extreme temperatures, moisture, vibration, and other environmental threats.
-
-
-
-| ![](<.gitbook/assets/unknown (3).jpeg>) | ![](<.gitbook/assets/unknown (4).jpeg>) |
-| --------------------------------------- | --------------------------------------- |
-
-<br>
-
 * Physically block SD card removal
+
+
+
+<table data-header-hidden><thead><tr><th>Epoxy Resin</th><th>Epoxy Resin</th><th data-type="image">Lock Box</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown (3).jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (4).jpeg" alt=""></td><td><a href=".gitbook/assets/unknown (5).jpeg">unknown (5).jpeg</a></td></tr></tbody></table>
+
+
 
 ![](<.gitbook/assets/unknown (5).jpeg>)
 
@@ -75,18 +63,12 @@ Optional (higher risk contexts):
 
 Recommendations:
 
-* Disable or physically block unused ports (USB, HDMI). Inexpensive physical port blockers can be used to reduce the risk of tampering with the RCBox by preventing unauthorized access to exposed interfaces. These blockers limit the ability of bad actors to inject malicious code, connect unauthorized peripherals, or broadcast unwanted content. Ports are sealed with plastic blockers that can only be removed using a dedicated key included in the deployment kit.
+1. Disable or physically block unused ports (USB, HDMI). Inexpensive physical port blockers can be used to reduce the risk of tampering with the Butter Box by preventing unauthorized access to exposed interfaces. These blockers limit the ability of bad actors to inject malicious code, connect unauthorized peripherals, or broadcast unwanted content. Ports are sealed with plastic blockers that can only be removed using a dedicated key included in the deployment kit.
+2. Avoid exposing Ethernet ports unless required. Ethernet ports should remain disabled or physically blocked unless they are explicitly required for the deployment. When Ethernet access is necessary, its use should be clearly documented and limited to trusted operators.
+3. Use short internal cables to reduce easy probing
+4. Label power banks generically (avoid project names)
 
-![](<.gitbook/assets/unknown (6).jpeg>)
-
-* Avoid exposing Ethernet ports unless required. Ethernet ports should remain disabled or physically blocked unless they are explicitly required for the deployment. When Ethernet access is necessary, its use should be clearly documented and limited to trusted operators.
-
-![](<.gitbook/assets/unknown (7).jpeg>)
-
-* Use short internal cables to reduce easy probing
-* Label power banks generically (avoid project names)
-
-<br>
+<table data-header-hidden><thead><tr><th>USB &#x26; HDMI</th><th>Ethernet Ports</th><th data-type="image"></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown (6).jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (7).jpeg" alt=""></td><td></td></tr></tbody></table>
 
 #### Environmental & Operational Practices
 
@@ -96,7 +78,7 @@ Recommendations:
 * Rotate devices periodically in long deployments
 * Assume devices may be copied or lost
 
-Treat RCBoxes as semi-disposable infrastructure, not personal devices.
+Treat Butter Boxes as semi-disposable infrastructure, not personal devices.
 
 <br>
 
