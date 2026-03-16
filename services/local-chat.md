@@ -2,11 +2,11 @@
 description: A place for anyone connected to the box to exchange info or talk
 ---
 
-# Local Chat (formerly Message Board)
+# Local Chat
 
 There is one local chat on your Butter Box that is open to anyone who is able to join the box. If they can open the portal, they can open the chat and say or post anything they want. Depending on your use case, moderation capabilities may be important.&#x20;
 
-First, let's look at what you can and can't do with this message board.
+First, let's look at what you can and can't do with this local chat.
 
 {% columns %}
 {% column %}
@@ -33,7 +33,7 @@ First, let's look at what you can and can't do with this message board.
 
 ## Moderation
 
-A Butter Box offers moderation features for the public message board. In order to access these features, you need to login as the admin of the room.
+A Butter Box offers moderation features for the local chat. In order to access these features, you need to login as the admin of the room.
 
 ### Become the Admin
 
@@ -41,7 +41,7 @@ A Butter Box offers moderation features for the public message board. In order t
 {% step %}
 ### Logout as Guest
 
-When you open the message board, you are assigned a guest identity. First logout of the account that was created for you.
+When you open the local chat, you are assigned a guest identity. First logout of the account that was created for you.
 {% endstep %}
 
 {% step %}
@@ -67,13 +67,13 @@ Once you are an admin, you have access to the following features:
 * **Kick members out.**&#x20;
   * Keep in mind that someone can simply rejoin as a new guest if they reconnect to the box
 * **Delete the room.**&#x20;
-  * Warning: If you delete the room, you will no longer have a public message board on your Butter Box. To get one back, you will have to flash a new image of the Butter Box software to your SD card.
+  * Warning: If you delete the room, you will no longer have a local chat on your Butter Box. To get one back, you will have to flash a new image of the Butter Box software to your SD card.
 
 
 
 ## Say Even More—Direct Messages and Private Rooms
 
-In addition to the public message board, you can create any number of private rooms from the same interface.
+In addition to the local chat, you can create any number of private rooms from the same interface.
 
 ### Things To Know
 

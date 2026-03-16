@@ -43,7 +43,7 @@ Connect the router to power. Then use the ethernet cable to connect to the Butte
 {% step %}
 ### Test Your Connection
 
-oin the router Wi-Fi. If you have not setup or used this router before, enter the default password found in the user guide included in the package. After 30 seconds, open http://butterbox.local in a browser.
+Join the router Wi-Fi. If you have not setup or used this router before, enter the default password found in the user guide included in the package. After 30 seconds, open http://butterbox.local in a browser.
 {% endstep %}
 
 {% step %}
