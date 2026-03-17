@@ -39,7 +39,7 @@ Recommendations:
 | --------------------------------- | --------------------------------------- |
 | ![](.gitbook/assets/unknown.jpeg) | ![](<.gitbook/assets/unknown (1).jpeg>) |
 
-#### ![](<.gitbook/assets/unknown (5).jpeg>)
+#### ![](<.gitbook/assets/void-tamper-evident seal.png>)
 
 #### SD Card & Storage Protection
 
@@ -61,7 +61,7 @@ Optional (higher risk contexts):
 | --------------------------------------- | --------------------------------------- |
 | ![](<.gitbook/assets/unknown (3).jpeg>) | ![](<.gitbook/assets/unknown (4).jpeg>) |
 
-#### ![](<.gitbook/assets/void-tamper-evident seal.png>)
+#### ![](<.gitbook/assets/unknown (5).jpeg>)
 
 #### Power & Port Management
 
