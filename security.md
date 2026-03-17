@@ -72,7 +72,9 @@ Recommendations:
 3. Use short internal cables to reduce easy probing
 4. Label power banks generically (avoid project names)
 
-<table data-header-hidden><thead><tr><th>USB &#x26; HDMI</th><th>Ethernet Ports</th><th data-type="image"></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/unknown (6).jpeg" alt=""></td><td><img src=".gitbook/assets/unknown (7).jpeg" alt=""></td><td></td></tr></tbody></table>
+| USB & HDMI                              | Ethernet Ports                          |
+| --------------------------------------- | --------------------------------------- |
+| ![](<.gitbook/assets/unknown (6).jpeg>) | ![](<.gitbook/assets/unknown (7).jpeg>) |
 
 #### Environmental & Operational Practices
 
