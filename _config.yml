@@ -1,6 +1,6 @@
 title: Butter Box
 description: Делиться офлайн ещё никогда не было так просто!
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: ""
 baseurl: ""
@@ -24,6 +24,7 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
 
 relative_links:

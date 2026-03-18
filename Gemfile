@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "just-the-docs"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
 gem "jekyll-relative-links"
