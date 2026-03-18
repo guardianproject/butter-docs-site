@@ -2,8 +2,8 @@ title: Butter Box
 description: Делиться офлайн ещё никогда не было так просто!
 remote_theme: just-the-docs/just-the-docs
 
-url: ""
-baseurl: ""
+url: "https://guardianproject.github.io"
+baseurl: "/butter-docs-site"
 
 # Default layout for all pages
 defaults:
