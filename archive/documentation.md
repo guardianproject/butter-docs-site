@@ -1,5 +1,7 @@
 ---
-icon: gitlab
+title: "Документация"
+nav_order: 3
+parent: "Архив"
 ---
 
 # Документация

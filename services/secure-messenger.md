@@ -1,5 +1,7 @@
 ---
-description: Использование Delta Chat с Butter Box
+title: "Защищённый мессенджер"
+nav_order: 3
+parent: "Сервисы"
 ---
 
 # Приватный мессенджер

@@ -1,12 +1,16 @@
+---
+title: "Обновление Butter"
+nav_order: 6
+---
+
 # Обновление Butter
 
 ### Ознакомьтесь с новыми релизами от команды Butter Box
 
-{% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
+[https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0](https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0)
 
-{% hint style="info" %}
-Всегда выбирайте последнюю версию файла
-{% endhint %}
+> **Информация:**
+> Всегда выбирайте последнюю версию файла
 
 ### Обновите ваш Butter Box
 

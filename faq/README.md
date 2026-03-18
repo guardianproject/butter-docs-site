@@ -1,5 +1,8 @@
 ---
-icon: circle-question
+title: "Часто задаваемые вопросы"
+nav_order: 8
+has_children: true
+permalink: /faq/
 ---
 
 # Часто задаваемые вопросы

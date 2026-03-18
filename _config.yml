@@ -1,0 +1,37 @@
+title: Butter Box
+description: Делиться офлайн ещё никогда не было так просто!
+theme: just-the-docs
+
+url: ""
+baseurl: ""
+
+# Default layout for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - SUMMARY.md
+  - README.md
+  - _convert.py
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+# Enable search
+search_enabled: true
+
+# Heading anchor links
+heading_anchors: true

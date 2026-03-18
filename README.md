@@ -1,6 +1,6 @@
 ---
 description: Делиться офлайн ещё никогда не было так просто!
-cover: .gitbook/assets/1120x630.png
+cover: assets/images/1120x630.png
 coverY: 0
 ---
 
