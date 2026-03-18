@@ -1,51 +1,50 @@
 ---
-description: Curated pluggable content
+description: Курируемый подключаемый контент
 ---
 
-# Content Packs
+# Наборы контента
 
-You can create your own content pack! It simply needs to be set up as a **static website with local links**. This website will run from the box itself, so all of the images and files required for the website need to be contained within one main folder.&#x20;
+Вы можете создать свой собственный набор контента! Его просто нужно оформить как **статический сайт с локальными ссылками**. Этот сайт будет работать непосредственно с устройства, поэтому все изображения и файлы, необходимые для сайта, должны находиться в одной главной папке.&#x20;
 
-Once you have your static website ready, you will put all of the required files for it in one folder, and place this folder in the **root directory** of your USB drive. This website will be rendered in the browser people use to access the Butter Box portal.&#x20;
+Когда ваш статический сайт будет готов, поместите все необходимые файлы в одну папку и разместите эту папку в **корневой директории** вашего USB-накопителя. Этот сайт будет отображаться в браузере, через который пользователи получают доступ к порталу Butter Box.&#x20;
 
-Tips for creating a content pack with a static website:
+Советы по созданию набора контента со статическим сайтом:
 
-* **Contents.** Everything for the static website must be stored on a USB drive that plugs into the Butter Box. It should not link to resources on the global internet.&#x20;
-* **Size.** The size of your content pack is limited by the amount of space available on your USB drive. Though, keep in mind that if multiple people are downloading or watching really large files from the box, there may be some latency.
-* **Pages.** Links between pages should point to other saved pages in the same folder, not to the internet. You must use relative paths (e.g. about/index.html) instead of absolute web URLs.
-* **Media.** Pictures, videos, and sounds cannot be linked to from somewhere online. The files need to be in your website folder and stored on the USB drive.
-* **Libraries.** The website cannot use javascript libraries that rely on an internet connection.&#x20;
-* **Styles.** Special fonts and icons (like those from Google Fonts) also need to be packed into the folder, not fetched from the web.
+* **Содержимое.** Всё для статического сайта должно храниться на USB-накопителе, подключённом к Butter Box. Сайт не должен ссылаться на ресурсы в глобальном интернете.&#x20;
+* **Размер.** Размер вашего набора контента ограничен доступным пространством на USB-накопителе. При этом учитывайте, что если несколько человек одновременно скачивают или просматривают очень большие файлы с устройства, возможны задержки.
+* **Страницы.** Ссылки между страницами должны вести на другие сохранённые страницы в той же папке, а не в интернет. Необходимо использовать относительные пути (например, about/index.html) вместо абсолютных веб-URL.
+* **Медиа.** Изображения, видео и звуки не могут ссылаться на онлайн-ресурсы. Файлы должны находиться в папке вашего сайта и храниться на USB-накопителе.
+* **Библиотеки.** Сайт не может использовать JavaScript-библиотеки, которые зависят от интернет-соединения.&#x20;
+* **Стили.** Специальные шрифты и иконки (например, из Google Fonts) также должны быть включены в папку, а не загружаться из сети.
 
-### Try It
+### Попробуйте
 
-* The zip file below contains a sample static website. To get a feel for how static websites work with butter—Download it. Unzip it. Then, add this set of files to your USB drive.
+* Приведённый ниже zip-файл содержит пример статического сайта. Чтобы понять, как статические сайты работают с Butter — скачайте его. Распакуйте. Затем добавьте этот набор файлов на ваш USB-накопитель.
 
 {% file src="../.gitbook/assets/Sample Static Website.zip" %}
 
-### Get Started
+### Начните работу
 
-The best way to get started with creating your own content pack is to have an idea about the experience and type of information you want to provide, and then to design and build a local static website for it.
+Лучший способ начать создание собственного набора контента — это определиться с идеей о том, какой опыт и какую информацию вы хотите предоставить, а затем спроектировать и создать для этого локальный статический сайт.
 
-It can be very simple like an audio player for music. Or, a simple list of the five top VPN apps that you recommend. Or it can be more complex like a library or knowledge base of cultural artifacts.&#x20;
+Это может быть очень просто, например, аудиоплеер для музыки. Или простой список из пяти лучших VPN-приложений, которые вы рекомендуете. Или это может быть более сложным, например, библиотека или база знаний культурных артефактов.&#x20;
 
 <figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
-### Add website files to a USB drive
+### Добавьте файлы сайта на USB-накопитель
 
-Place a folder with your website files in the **root directory** of a USB drive. Be sure that your website folder contains your **index.html.** The name of this folder will be displayed on the Butter Box portal.&#x20;
+Поместите папку с файлами сайта в **корневую директорию** USB-накопителя. Убедитесь, что папка вашего сайта содержит файл **index.html.** Название этой папки будет отображаться на портале Butter Box.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.46.16 PM.png" alt=""><figcaption><p>Директория USB при просмотре в Finder на компьютере</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Connect to your Butter Box to view
+### Подключитесь к Butter Box для просмотра
 
-Insert the USB drive into your Butter Box. When you open the Butter Box portal, tap **Files**. Navigate to the website folder. Tap to view.
+Вставьте USB-накопитель в Butter Box. Когда вы откроете портал Butter Box, нажмите **Файлы**. Перейдите в папку сайта. Нажмите для просмотра.
 
 <figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

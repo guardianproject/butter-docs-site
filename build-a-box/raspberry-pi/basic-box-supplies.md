@@ -1,26 +1,26 @@
-# Basic Box Supplies
+# Комплектующие для базовой коробки
 
-A basic Butter Box setup is a Raspberry Pi Zero 2 W with a microSD card running the Butter software, a USB stick, powered by a USB source like a power cord, power bank or solar panel.
+Базовая конфигурация Butter Box — это Raspberry Pi Zero 2 W с картой microSD, на которой установлено программное обеспечение Butter, USB-накопитель и питание от USB-источника, такого как кабель питания, power bank или солнечная панель.
 
-In most setups like this, a Butter Box can comfortably handle **4–10 connected devices at once** without slowing down. It’s possible to have more, but performance may drop if everyone is downloading large files or videos at the same time.
+В большинстве таких конфигураций Butter Box может комфортно обслуживать **от 4 до 10 подключённых устройств одновременно** без замедления. Возможно подключить и больше, но производительность может снизиться, если все одновременно загружают большие файлы или видео.
 
-The reach for it is about **5–10 meters** indoors, depending on the Raspberry Pi model and depending on walls and interference. Outdoors, in open space, it can sometimes reach farther. Think of it like the range of a home Wi-Fi router — enough to cover a classroom, a coffee shop, meeting space, or small outdoor gathering.
+Радиус действия составляет около **5–10 метров** в помещении, в зависимости от модели Raspberry Pi, а также от стен и помех. На открытом воздухе, на открытом пространстве, он иногда может быть больше. Представьте себе радиус действия домашнего Wi-Fi роутера — достаточно, чтобы покрыть класс, кафе, переговорную комнату или небольшое мероприятие на открытом воздухе.
 
-## Supplies
+## Комплектующие
 
-* [ ] Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291); Or you can buy a kit here: [\
+* [ ] Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291); Или вы можете купить комплект здесь: [\
   https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
-* [ ] Power outlet and power cord that accompanies the Raspberry Pi Zero 2W or an [alternative power supply](../power-supply.md)
-* [ ] Micro SD Card: Images with the Butter software are usually under 16 GB (we suggest 256 GB). Media that people upload to the chat ends up on the card; it never gets cleared.&#x20;
-* [ ] USB drive (min 32 GB)
-*   [ ] Adapters (as needed)
+* [ ] Розетка и кабель питания, входящие в комплект Raspberry Pi Zero 2W, или [альтернативный источник питания](../power-supply.md)
+* [ ] Карта Micro SD: Образы с программным обеспечением Butter обычно занимают менее 16 ГБ (мы рекомендуем 256 ГБ). Медиафайлы, которые люди загружают в чат, сохраняются на карте; они никогда не удаляются.&#x20;
+* [ ] USB-накопитель (минимум 32 ГБ)
+*   [ ] Адаптеры (по необходимости)
 
-    * [ ] Micro USB/Male to USB A/Female
-    * [ ] A dongle to connect the micro SD card to your laptop (if needed)
+    * [ ] Micro USB/штекер на USB A/гнездо
+    * [ ] Переходник для подключения карты micro SD к вашему ноутбуку (если необходимо)
 
 
 
-**Once you have your supplies, continue in the Install Butter section.**
+**Когда у вас будут все комплектующие, переходите к разделу «Установка Butter».**
 
 {% content-ref url="install-butter.md" %}
 [install-butter.md](install-butter.md)

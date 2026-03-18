@@ -1,4 +1,3 @@
-# Apps
+# Приложения
 
-If you give a folder the name  `appstore`  and place it in the root directory of the USB drive, the **Apps** tile will appear in the Butter Box portal.&#x20;
-
+Если вы назовёте папку  `appstore`  и поместите её в корневую директорию USB-накопителя, на портале Butter Box появится плитка **Приложения**.&#x20;

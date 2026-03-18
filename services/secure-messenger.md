@@ -1,10 +1,9 @@
 ---
-description: Using Delta Chat with a Butter Box
+description: Использование Delta Chat с Butter Box
 ---
 
-# Private Messenger
+# Приватный мессенджер
 
-With the Private Messenger service, you can exchange secure messages with people you know. [Delta Chat](https://delta.chat/) is a messaging app that uses email protocols to exchange messages. When used through a Butter Box, people who create accounts on the same Butter Box can send messages to each other without the internet.
+С помощью сервиса «Приватный мессенджер» вы можете обмениваться защищёнными сообщениями с людьми, которых вы знаете. [Delta Chat](https://delta.chat/) — это приложение для обмена сообщениями, использующее протоколы электронной почты. При использовании через Butter Box люди, создавшие аккаунты на одном и том же Butter Box, могут отправлять сообщения друг другу без интернета.
 
-Think of the Butter Box like a local post office. Whenever you connect to the Box’s network, your Delta Chat app can send outgoing messages and sync to receive any new ones waiting for you.
-
+Представьте Butter Box как местное почтовое отделение. Каждый раз, когда вы подключаетесь к сети устройства, ваше приложение Delta Chat может отправлять исходящие сообщения и синхронизироваться для получения новых, ожидающих вас.

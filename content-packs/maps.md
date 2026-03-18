@@ -3,36 +3,36 @@ cover: ../../.gitbook/assets/media-type-maps.png
 coverY: 0
 ---
 
-# Maps
+# Карты
 
-You can make offline maps available from your Butter Box. These maps are powered by **OpenStreetMap (OSM)** and the **OsmAnd app** for Android.
+Вы можете сделать офлайн-карты доступными через ваш Butter Box. Эти карты работают на основе **OpenStreetMap (OSM)** и приложения **OsmAnd** для Android.
 
 {% hint style="warning" %}
-**Important:** Offline map downloads work **only on Android devices**. iOS is not supported.
+**Важно:** Загрузка офлайн-карт работает **только на устройствах Android**. iOS не поддерживается.
 {% endhint %}
 
-### ✅ Steps to Enable Offline Maps
+### ✅ Шаги для включения офлайн-карт
 
-**1. Get the OsmAnd app (APK for Android)**
+**1. Получите приложение OsmAnd (APK для Android)**
 
-* Go to: [OsmAnd Free Releases — Android](https://osmand.net/docs/versions/free-versions)
-* Download the latest APK file.
+* Перейдите по ссылке: [Бесплатные версии OsmAnd — Android](https://osmand.net/docs/versions/free-versions)
+* Скачайте последний APK-файл.
 
-**2. Download the map files you need**
+**2. Скачайте нужные файлы карт**
 
-* Visit: [OsmAnd Local Indexes List](https://osmand.net/list?sortby=size\&asc=false)
-* Choose and download the regions you want available offline.
+* Перейдите по ссылке: [Список локальных индексов OsmAnd](https://osmand.net/list?sortby=size\&asc=false)
+* Выберите и скачайте регионы, которые хотите использовать офлайн.
 
-**3. Organize your files**
+**3. Организуйте файлы**
 
-* On your USB drive, create a folder named  `osm-map-files` .&#x20;
-* Put the **OsmAnd APK** and all your **map files** into this folder.
+* На USB-накопителе создайте папку с именем  `osm-map-files` .&#x20;
+* Поместите **APK-файл OsmAnd** и все ваши **файлы карт** в эту папку.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-16 at 9.44.40 PM.png" alt=""><figcaption><p>Директория USB при просмотре в Finder на компьютере</p></figcaption></figure>
 
-**4. Add to your Butter Box**
+**4. Добавьте на Butter Box**
 
-* Insert the USB drive into your Butter Box.
-* The **Offline Maps** tile will automatically appear in your Butter Box portal.
+* Вставьте USB-накопитель в Butter Box.
+* Плитка **Офлайн-карты** автоматически появится на портале Butter Box.
 
-👉 That’s it — anyone using an **Android device** can now download OsmAnd and the offline maps you’ve provided directly from your Butter Box.
+👉 Вот и всё — теперь любой пользователь с **устройством Android** может скачать OsmAnd и офлайн-карты, которые вы предоставили, прямо с вашего Butter Box.

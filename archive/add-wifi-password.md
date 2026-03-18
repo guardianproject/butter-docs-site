@@ -1,64 +1,64 @@
-# Add Wifi Password
+# Добавить пароль Wi-Fi
 
-Changing the Wi-Fi password for your Butter Box hotspot from the admin dashboard is straightforward. Here are the steps:
+Изменение пароля Wi-Fi для точки доступа вашего Butter Box через панель администратора — это просто. Вот шаги:
 
 {% stepper %}
 {% step %}
-#### Access the RaspAP Web Interface
+#### Доступ к веб-интерфейсу RaspAP
 
-Open a web browser on a device connected to your Butter Box and type [http://butterbox.lan/admin](http://butterbox.lan/admin)
+Откройте веб-браузер на устройстве, подключённом к вашему Butter Box, и введите [http://butterbox.lan/admin](http://butterbox.lan/admin)
 
-<figure><img src="../.gitbook/assets/signal-2025-08-06-144418_002.jpeg" alt="" width="375"><figcaption><p>RaspAP admin dashboard for your Butter Box hotspot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/signal-2025-08-06-144418_002.jpeg" alt="" width="375"><figcaption><p>Панель администратора RaspAP для вашей точки доступа Butter Box</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Log In
+#### Вход в систему
 
-The default credentials are: Username: `admin` | Password: `secret` (It's strongly recommended to change these default admin credentials after initial setup for security).
+Учётные данные по умолчанию: Имя пользователя: `admin` | Пароль: `secret` (Настоятельно рекомендуется изменить эти учётные данные администратора по умолчанию после первоначальной настройки для обеспечения безопасности).
 {% endstep %}
 
 {% step %}
-#### Navigate to Hotspot Settings
+#### Перейдите к настройкам точки доступа
 
-On the side panel menu click on the "Hotspot".
+В боковом меню нажмите на «Hotspot».
 {% endstep %}
 
 {% step %}
-#### Go to the Security Tab
+#### Перейдите на вкладку «Безопасность»
 
-Within the Hotspot section, look for the "Security" tab.
+В разделе Hotspot найдите вкладку «Security».
 {% endstep %}
 
 {% step %}
-#### Change current settings
+#### Измените текущие настройки
 
-On the Security tab,&#x20;
+На вкладке Security,&#x20;
 
-* Change "Security Type" for "WAP+WAP2"
-* Change "Encryption Type" for "TKIP+CCMP"
-* On "PSK" (Pre-Shared Key), enter your desired new Wi-Fi password
+* Измените «Security Type» на «WAP+WAP2»
+* Измените «Encryption Type» на «TKIP+CCMP»
+* В поле «PSK» (Pre-Shared Key) введите желаемый новый пароль Wi-Fi
 
-Or if you'd like, the "magic icon" next to it can generate a strong password for you. Note: this password is a combination of random number and letters, if you choose this option, make sure to safely save it somewhere.
+Или, если хотите, «значок волшебной палочки» рядом с ним может сгенерировать надёжный пароль для вас. Примечание: этот пароль представляет собой комбинацию случайных цифр и букв; если вы выберете этот вариант, обязательно сохраните его в безопасном месте.
 
-<figure><img src="../.gitbook/assets/signal-2025-08-06-150156_002.jpeg" alt="" width="375"><figcaption><p>Change Security Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/signal-2025-08-06-150156_002.jpeg" alt="" width="375"><figcaption><p>Изменение настроек безопасности</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Save and Restart Hotspot
+#### Сохраните и перезапустите точку доступа
 
-After entering the new password, scroll down and click the "Save settings" button.&#x20;
+После ввода нового пароля прокрутите вниз и нажмите кнопку «Save settings».&#x20;
 
-You will then need to click on "Restart hotspot" for the changes to take effect. This will temporarily disconnect all devices from the Butter Box as it reconfigures.
+Затем вам нужно будет нажать «Restart hotspot», чтобы изменения вступили в силу. Это временно отключит все устройства от Butter Box во время перенастройки.
 
-<figure><img src="../.gitbook/assets/signal-2025-08-06-150156_003.jpeg" alt="" width="375"><figcaption><p>Save settings and then restart your hotspot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/signal-2025-08-06-150156_003.jpeg" alt="" width="375"><figcaption><p>Сохраните настройки и перезапустите точку доступа</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-Once the hotspot restarts, you and your friends will need to connect to the Butter Box again using the new Wi-Fi password you just set.
+После перезапуска точки доступа вам и вашим друзьям нужно будет снова подключиться к Butter Box, используя новый пароль Wi-Fi, который вы только что установили.
 
 
 
-## Additional Security
+## Дополнительная безопасность
 
-For more information on securing your Butter Box, visit [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box)
+Для получения дополнительной информации о защите вашего Butter Box посетите [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#securing-your-butter-box)
 

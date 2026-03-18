@@ -1,6 +1,6 @@
 ---
-description: Coming soon
+description: Скоро будет
 ---
 
-# PC/Laptop
+# ПК/Ноутбук
 

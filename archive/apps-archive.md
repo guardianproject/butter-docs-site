@@ -3,38 +3,38 @@ cover: ../.gitbook/assets/media-type-apps.png
 coverY: 0
 ---
 
-# Apps (archive)
+# Приложения (архив)
 
-There are 3 different ways to share apps from a Butter Box.&#x20;
+Существует 3 различных способа распространения приложений через Butter Box.&#x20;
 
-| Method                                                             | Supported Apps        | Security                                                   | Guidance     |
-| ------------------------------------------------------------------ | --------------------- | ---------------------------------------------------------- | ------------ |
-| <p><strong>Option 1:</strong></p><p>F-Droid Repo</p>               | Android               | Best                                                       | Most Secure  |
-| <p><strong>Option 2:</strong></p><p>Static Website</p>             | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | More Curated |
-| <p><strong>Option 3:</strong></p><p>Files organized in folders</p> | Android, iOS, Desktop | Limited (does not offer ease for distributing app updates) | Easiest      |
+| Метод                                                              | Поддерживаемые приложения | Безопасность                                                     | Руководство        |
+| ------------------------------------------------------------------ | ------------------------- | ---------------------------------------------------------------- | ------------------ |
+| <p><strong>Вариант 1:</strong></p><p>F-Droid Repo</p>              | Android                   | Лучшая                                                           | Наиболее безопасно |
+| <p><strong>Вариант 2:</strong></p><p>Статический веб-сайт</p>      | Android, iOS, ПК          | Ограниченная (не обеспечивает простоту распространения обновлений приложений) | Более курируемый   |
+| <p><strong>Вариант 3:</strong></p><p>Файлы, организованные в папках</p> | Android, iOS, ПК     | Ограниченная (не обеспечивает простоту распространения обновлений приложений) | Самый простой      |
 
-To get an app store tile to display in your Butter portal, you need to put a folder in your USB directory called `appstore` . The folder must contain the **required F-Droid files for an F-Droid Repo** or **a Static Website** that links to application files (eg. apk, exe, etc.)
+Чтобы плитка магазина приложений отображалась на вашем портале Butter, вам нужно поместить папку в каталог USB с названием `appstore`. Папка должна содержать **необходимые файлы F-Droid для F-Droid Repo** или **статический веб-сайт**, который ссылается на файлы приложений (например, apk, exe и т.д.)
 
-### Option 1: F-Droid Repo
+### Вариант 1: F-Droid Repo
 
-Learn more about creating a F-Droid repo at [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes).
+Узнайте больше о создании F-Droid репозитория на [https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes](https://gitlab.com/likebutter/butterbox-rpi/-/blob/main/docs/en/README.md#premade-content-packs-and-content-pack-recipes).
 
-* [Docs for F-Droid webdash](https://gitlab.com/uniqx/fdroid-webdash)
-* [Docs for fdroidserver](https://gitlab.com/fdroid/fdroidserver)
+* [Документация по F-Droid webdash](https://gitlab.com/uniqx/fdroid-webdash)
+* [Документация по fdroidserver](https://gitlab.com/fdroid/fdroidserver)
 
-### Option 2: Static Website
+### Вариант 2: Статический веб-сайт
 
-Visit the [Content Packs](/broken/pages/LtQjNMJIpxHOdbFgl65c) section for information on **Using Static Websites**.
+Посетите раздел [Контент-пакеты](/broken/pages/LtQjNMJIpxHOdbFgl65c) для получения информации об **использовании статических веб-сайтов**.
 
-### Option 3: Files Organized in Folders
+### Вариант 3: Файлы, организованные в папках
 
-If option 1 or 2 will not work for you, you can simply share application files on the USB drive. Refer to the [Load USB](/broken/pages/9sWNUcpQ3FEpAjRJ3T2t) section for details. If you do this, users will navigate to the apps from the **Explore USB** tile in the Butter Box portal rather than from the App Store tile.
+Если вариант 1 или 2 вам не подходит, вы можете просто разместить файлы приложений на USB-накопителе. Обратитесь к разделу [Загрузка USB](/broken/pages/9sWNUcpQ3FEpAjRJ3T2t) для получения подробностей. Если вы сделаете это, пользователи будут переходить к приложениям через плитку **Обзор USB** на портале Butter Box, а не через плитку магазина приложений.
 
 
 
-### Things To Know
+### Полезная информация
 
-* If you are sharing apps from Butter Box, you will need to download the app files you want to share. Apps are updated frequently. Be sure to manually update all of the app files frequently to ensure you are providing the highest security for the people who connect to the box.
-  * You’ll need a copy of the app’s `.apk` file — make sure it’s from a safe and trusted source.
-  * Butter won’t automatically verify the source, so it's up to you to confirm it's clean and legal to share.
-* How to get apk files: There are mobile apps you can use to get access to apk files on an Android phone. Alternatively, you can download app files directly from the developer's website.
+* Если вы распространяете приложения через Butter Box, вам нужно будет загрузить файлы приложений, которыми вы хотите поделиться. Приложения обновляются часто. Обязательно регулярно обновляйте все файлы приложений, чтобы обеспечить максимальную безопасность для людей, подключающихся к Box.
+  * Вам понадобится копия файла `.apk` приложения — убедитесь, что он получен из безопасного и надёжного источника.
+  * Butter не будет автоматически проверять источник, поэтому вам решать, является ли файл чистым и законным для распространения.
+* Как получить файлы apk: существуют мобильные приложения, которые позволяют получить доступ к файлам apk на телефоне Android. Кроме того, вы можете загрузить файлы приложений непосредственно с веб-сайта разработчика.

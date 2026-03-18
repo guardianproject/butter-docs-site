@@ -1,16 +1,16 @@
 ---
-description: Sharing offline has never been easier!
+description: Делиться офлайн ещё никогда не было так просто!
 cover: .gitbook/assets/1120x630.png
 coverY: 0
 ---
 
-# Get Started
+# Начало работы
 
-Butter Box is a lightweight, portable device that functions like a hard drive with its own hotspot. Anyone nearby can connect to it and view or download its contents—no internet required.&#x20;
+Butter Box — это лёгкое портативное устройство, которое работает как жёсткий диск с собственной точкой доступа. Любой, кто находится рядом, может подключиться к нему и просматривать или скачивать его содержимое — без интернета.&#x20;
 
-Whether you have a Butter Box in your hands or you need to build one, you're in the right spot. Choose an option below.
+Неважно, есть ли у вас Butter Box на руках или вам нужно его собрать, вы в нужном месте. Выберите вариант ниже.
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>I Have A Box</td><td><a href="quick-start.md">quick-start.md</a></td></tr><tr><td>I Need A Box</td><td><a href="build-a-box/">build-a-box</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>У меня есть Box</td><td><a href="quick-start.md">quick-start.md</a></td></tr><tr><td>Мне нужен Box</td><td><a href="build-a-box/">build-a-box</a></td></tr></tbody></table>
 
 
 

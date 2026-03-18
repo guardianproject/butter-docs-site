@@ -1,169 +1,169 @@
 ---
-description: How to Make a Butter Box Tamper Resistant
+description: Как сделать Butter Box устойчивым к взлому
 ---
 
-# Security
+# Безопасность
 
-This guide was designed for deployments in hostile, semi-hostile, or low-trust environments, where devices may be inspected, confiscated, modified, or misused. It aims to provide practical recommendations to make the Butter Box more physically and digitally tamper-resistant.&#x20;
+Это руководство было разработано для развёртывания в враждебных, полувраждебных или низкодоверительных средах, где устройства могут быть досмотрены, конфискованы, модифицированы или использованы не по назначению. Оно направлено на предоставление практических рекомендаций по повышению физической и цифровой устойчивости Butter Box к взлому.&#x20;
 
-Following the recommendations in this guide will help reduce risk, not guarantee absolute security. Butter Box is assumed to be a field-deployable, low-cost, offline system, so these recommendations prioritize realistic, maintainable protections.
+Следование рекомендациям в этом руководстве поможет снизить риски, но не гарантирует абсолютную безопасность. Предполагается, что Butter Box — это развёртываемая в полевых условиях, недорогая, офлайн-система, поэтому эти рекомендации отдают приоритет реалистичным и поддерживаемым мерам защиты.
 
-**Threat Model Assumptions**
+**Допущения модели угроз**
 
-Before applying controls, clearly define your deployment context. This guide assumes one or more of the following risks:
+Прежде чем применять меры контроля, чётко определите контекст вашего развёртывания. Это руководство предполагает один или несколько из следующих рисков:
 
-* Physical access by unauthorized users
-* Device confiscation or inspection by authorities
-* Curious or malicious local users
-* Content manipulation or replacement
-* Network misuse or impersonation
-* Credential reuse or default configuration abuse
+* Физический доступ неавторизованных пользователей
+* Конфискация или досмотр устройства властями
+* Любопытные или злонамеренные локальные пользователи
+* Манипулирование или подмена контента
+* Злоупотребление сетью или выдача себя за другого
+* Повторное использование учётных данных или злоупотребление конфигурацией по умолчанию
 
-Remember that controls should adapt to the local risk level, over-hardening can reduce usability and trust.
+Помните, что меры контроля должны адаптироваться к локальному уровню риска — чрезмерное укрепление может снизить удобство использования и доверие.
 
 
 
-### Section 1: Physical Tamper Resistance
+### Раздел 1: Физическая устойчивость к взлому
 
-#### Enclosure and  Hardware Protection
+#### Защита корпуса и оборудования
 
-Physical access to the Butter Box allows SD card cloning, firmware replacement, malware injection and broadcasting of malicious information. PCB are also delicate and should have additional protection to keep them safe from everyday handling and weather exposure.
+Физический доступ к Butter Box позволяет клонировать SD-карту, заменить прошивку, внедрить вредоносное ПО и транслировать вредоносную информацию. Печатные платы также хрупкие и должны иметь дополнительную защиту для обеспечения их сохранности при повседневном использовании и воздействии погодных условий.
 
-Recommendations:
+Рекомендации:
 
-1. Use a sealed or semi-sealed enclosure (screws instead of snap-fit)
-2. Prefer tamper-evident screws (Torx, security hex)
-3. Apply tamper-evident stickers over enclosure seams and SD card slots
+1. Используйте герметичный или полугерметичный корпус (винты вместо защёлок)
+2. Предпочтительны винты с защитой от вскрытия (Torx, защитный шестигранник)
+3. Наносите индикаторные наклейки на швы корпуса и слоты SD-карт
 
-| 1) Sealed enclosures              | 2) Screws                               |
+| 1) Герметичные корпуса             | 2) Винты                                |
 | --------------------------------- | --------------------------------------- |
 | ![](.gitbook/assets/unknown.jpeg) | ![](<.gitbook/assets/unknown (1).jpeg>) |
 
 #### ![](<.gitbook/assets/void-tamper-evident seal.png>)
 
-#### SD Card & Storage Protection
+#### Защита SD-карты и хранилища
 
-Recommendations:
+Рекомендации:
 
-1. Use high-quality SD cards to reduce corruption
-2. Encrypt sensitive partitions (where feasible)
-3. Keep content and OS separated (firmware vs content packs)
-4. Avoid labeling SD cards with sensitive identifiers
+1. Используйте высококачественные SD-карты для уменьшения повреждений
+2. Шифруйте чувствительные разделы (где это возможно)
+3. Держите контент и ОС раздельно (прошивка и контент-пакеты)
+4. Избегайте маркировки SD-карт конфиденциальными идентификаторами
 
-Optional (higher risk contexts):
+Дополнительно (контексты повышенного риска):
 
-1. Epoxy Resin. Electronico potting solutions ​​protect Printed Circuit Boards from extreme temperatures, moisture, vibration, and other environmental threats.
-2. Physically block SD card removal
+1. Эпоксидная смола. Решения для заливки электроники защищают печатные платы от экстремальных температур, влажности, вибрации и других экологических угроз.
+2. Физическая блокировка извлечения SD-карты
 
 
 
-| Epoxy Resin                             | Epoxy Resin                             |
+| Эпоксидная смола                        | Эпоксидная смола                        |
 | --------------------------------------- | --------------------------------------- |
 | ![](<.gitbook/assets/unknown (3).jpeg>) | ![](<.gitbook/assets/unknown (4).jpeg>) |
 
 #### ![](<.gitbook/assets/unknown (5).jpeg>)
 
-#### Power & Port Management
+#### Управление питанием и портами
 
-Recommendations:
+Рекомендации:
 
-1. Disable or physically block unused ports (USB, HDMI). Inexpensive physical port blockers can be used to reduce the risk of tampering with the Butter Box by preventing unauthorized access to exposed interfaces. These blockers limit the ability of bad actors to inject malicious code, connect unauthorized peripherals, or broadcast unwanted content. Ports are sealed with plastic blockers that can only be removed using a dedicated key included in the deployment kit.
-2. Avoid exposing Ethernet ports unless required. Ethernet ports should remain disabled or physically blocked unless they are explicitly required for the deployment. When Ethernet access is necessary, its use should be clearly documented and limited to trusted operators.
-3. Use short internal cables to reduce easy probing
-4. Label power banks generically (avoid project names)
+1. Отключите или физически заблокируйте неиспользуемые порты (USB, HDMI). Недорогие физические блокираторы портов могут использоваться для снижения риска взлома Butter Box путём предотвращения несанкционированного доступа к открытым интерфейсам. Эти блокираторы ограничивают возможность злоумышленников внедрять вредоносный код, подключать несанкционированные периферийные устройства или транслировать нежелательный контент. Порты запечатываются пластиковыми блокираторами, которые можно снять только с помощью специального ключа, входящего в комплект развёртывания.
+2. Избегайте открытия Ethernet-портов, если это не требуется. Ethernet-порты должны оставаться отключёнными или физически заблокированными, если они явно не требуются для развёртывания. Когда доступ через Ethernet необходим, его использование должно быть чётко задокументировано и ограничено доверенными операторами.
+3. Используйте короткие внутренние кабели для снижения лёгкости зондирования
+4. Маркируйте повербанки обобщённо (избегайте названий проектов)
 
-| USB & HDMI                              | Ethernet Ports                          |
+| USB и HDMI                              | Ethernet-порты                          |
 | --------------------------------------- | --------------------------------------- |
 | ![](<.gitbook/assets/unknown (6).jpeg>) | ![](<.gitbook/assets/unknown (7).jpeg>) |
 
-#### Environmental & Operational Practices
+#### Экологические и эксплуатационные практики
 
-Recommendations:
+Рекомендации:
 
-* Store boxes in controlled locations when not in use
-* Rotate devices periodically in long deployments
-* Assume devices may be copied or lost
-* Treat Butter Boxes as semi-disposable infrastructure, not personal devices.<br>
+* Храните устройства в контролируемых местах, когда они не используются
+* Периодически заменяйте устройства при длительном развёртывании
+* Предполагайте, что устройства могут быть скопированы или утеряны
+* Относитесь к Butter Box как к полуодноразовой инфраструктуре, а не как к персональным устройствам.<br>
 
-### Section 2: Digital Tamper Resistance
+### Раздел 2: Цифровая устойчивость к взлому
 
-#### Credential Hygiene (Critical)
+#### Гигиена учётных данных (Критически важно)
 
-Mandatory actions:
+Обязательные действия:
 
 SSH
 
-* By default, the pi user has the password butterbox-admin.
-* Change this password by sshing into the pi and running passwd.
-* If you'd prefer to use an SSH key, be sure to disable password access once you enable key-based access.
+* По умолчанию пользователь pi имеет пароль butterbox-admin.
+* Измените этот пароль, подключившись к pi через ssh и выполнив passwd.
+* Если вы предпочитаете использовать SSH-ключ, обязательно отключите доступ по паролю после включения доступа на основе ключей.
 
 RaspAP
 
-* The access point has an administrative interface that can be used to change its settings.
-* Defaults: user: admin, password: secret (ironically, this is not secret).
-* Change this by logging in at[ http://butterbox.lan/admin](http://butterbox.lan/admin) (or[ http://comolamantequilla.lan/admin](http://comolamantequilla.lan/admin) for a Spanish language box) and using the Web UI.
+* Точка доступа имеет административный интерфейс, который можно использовать для изменения её настроек.
+* По умолчанию: пользователь: admin, пароль: secret (по иронии, это не секрет).
+* Измените это, войдя на[ http://butterbox.lan/admin](http://butterbox.lan/admin) (или[ http://comolamantequilla.lan/admin](http://comolamantequilla.lan/admin) для Box на испанском языке) и используя веб-интерфейс.
 
-Chat
+Чат
 
-* The local chat was created by an administrative user called butterbox-admin. The password for this user is also butterbox-admin.
-* Change this password by logging into the Butter Box, going to the public chatroom, then visiting your user profile and updating the password. At your discretion, you may also wish to change the name from butterbox-admin so that other users will recognize you.
+* Локальный чат был создан административным пользователем butterbox-admin. Пароль для этого пользователя также butterbox-admin.
+* Измените этот пароль, войдя в Butter Box, перейдя в публичную комнату чата, затем посетив свой профиль пользователя и обновив пароль. По вашему усмотрению вы также можете изменить имя с butterbox-admin, чтобы другие пользователи вас узнавали.
 
-Best practices:
+Лучшие практики:
 
-* Use unique passwords per deployment
-* Store credentials offline in secure documentation
-* Never reuse credentials across regions
+* Используйте уникальные пароли для каждого развёртывания
+* Храните учётные данные офлайн в защищённой документации
+* Никогда не используйте учётные данные повторно в разных регионах
 
-#### Service Hardening
+#### Укрепление сервисов
 
-Recommendations:
+Рекомендации:
 
-* Disable services not strictly required:
-* SSH (or restrict to key-based auth)
+* Отключите сервисы, которые не являются строго необходимыми:
+* SSH (или ограничьте доступ по ключам)
 * Bluetooth
-* USB ports
+* USB-порты
 
-#### Content Integrity & Authenticity
+#### Целостность и подлинность контента
 
-Recommendations:
+Рекомендации:
 
-* Keep firmware immutable during normal operation
-* Maintain a known-good baseline image
-* Re-flash devices periodically in long deployments
+* Поддерживайте неизменность прошивки во время нормальной работы
+* Поддерживайте эталонный образ в заведомо исправном состоянии
+* Периодически перепрошивайте устройства при длительном развёртывании
 
-Operational control:
+Операционный контроль:
 
-* Only trusted operators should install or update content
-* Document update sources and dates
-
-
-
-### Section 3: Misuse & Abuse Mitigation
-
-#### Local Chat & Content Abuse
-
-Risks:
-
-* Harassment or hate speech
-* Impersonation
-* Disinformation spread
-
-Mitigations:
-
-* Clear usage guidelines displayed locally
-* Community moderation roles (if appropriate)
-* Ability to reset or wipe chat data quickly
-* Limit who can upload or replace content
-* Keep a read-only mode for most users
+* Только доверенные операторы должны устанавливать или обновлять контент
+* Документируйте источники обновлений и даты
 
 
 
-### Section 4: Incident Response & Recovery
+### Раздел 3: Предотвращение злоупотреблений
 
-Prepare for compromise:
+#### Злоупотребления в локальном чате и контенте
 
-* Assume some devices will be tampered with
-* Maintain a simple wipe and re-flash procedure
-* Track deployments
+Риски:
+
+* Преследование или язык ненависти
+* Выдача себя за другого
+* Распространение дезинформации
+
+Меры противодействия:
+
+* Чёткие правила использования, отображаемые локально
+* Роли модераторов сообщества (при необходимости)
+* Возможность быстрого сброса или очистки данных чата
+* Ограничение того, кто может загружать или заменять контент
+* Режим только для чтения для большинства пользователей
+
+
+
+### Раздел 4: Реагирование на инциденты и восстановление
+
+Подготовка к компрометации:
+
+* Предполагайте, что некоторые устройства будут взломаны
+* Поддерживайте простую процедуру очистки и перепрошивки
+* Отслеживайте развёртывания
 
 <br>

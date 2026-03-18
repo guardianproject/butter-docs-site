@@ -1,60 +1,60 @@
 ---
-description: How To Add a Router To Your Box Setup
+description: Как добавить маршрутизатор к вашей установке
 ---
 
-# Extend Your Box
+# Расширение вашей коробки
 
-An extended Butter Box pairs the Raspberry Pi with a standalone Wi-Fi router, giving stronger signal and more simultaneous connections.&#x20;
+Расширенная Butter Box объединяет Raspberry Pi с отдельным Wi-Fi маршрутизатором, обеспечивая более сильный сигнал и большее количество одновременных подключений.&#x20;
 
-With the router, the network can reach 10-30 m (32-98 feet),and can comfortably support 10–20 connected devices at the same time. This setup is ideal for a medium group of people in a medium room, like classrooms, events, or community spaces.
+С маршрутизатором сеть может охватывать 10-30 м (32-98 футов) и комфортно поддерживать 10–20 подключённых устройств одновременно. Эта конфигурация идеально подходит для средней группы людей в помещении среднего размера, например, в учебных классах, на мероприятиях или в общественных пространствах.
 
-## Supplies
+## Необходимые материалы
 
-* [ ] Raspberry Pi 4, 5 or Raspberry Pi Zero 2W
-* [ ] Router ([Opal (GL-SFT1200) Wireless Travel Router](https://store-us.gl-inet.com/products/united-states-opal-gl-sft1200-gigabit-wireless-router-dual-band-openwrt-ipv6-tor) or equivilent)
-* [ ] Power outlet and power cords that accompany the Raspberry Pi and the Router or an [alternative power supply](../power-supply.md)
-* [ ] Micro SD Card: Images with the Butter software are usually under 16 GB (we suggest 256 GB). Media that people upload to the chat ends up on the card; it never gets cleared.
-* [ ] USB Drive (min 32 GB)
-* [ ] Adapters (as needed)
+* [ ] Raspberry Pi 4, 5 или Raspberry Pi Zero 2W
+* [ ] Маршрутизатор ([Opal (GL-SFT1200) Wireless Travel Router](https://store-us.gl-inet.com/products/united-states-opal-gl-sft1200-gigabit-wireless-router-dual-band-openwrt-ipv6-tor) или аналог)
+* [ ] Розетка питания и кабели питания для Raspberry Pi и маршрутизатора или [альтернативный источник питания](../power-supply.md)
+* [ ] Карта Micro SD: образы с программным обеспечением Butter обычно занимают менее 16 ГБ (мы рекомендуем 256 ГБ). Медиафайлы, которые пользователи загружают в чат, сохраняются на карте и никогда не удаляются.
+* [ ] USB-накопитель (минимум 32 ГБ)
+* [ ] Адаптеры (при необходимости)
 
-_No internet connection is required._
+_Подключение к интернету не требуется._
 
 <figure><img src="../../.gitbook/assets/20250815_142438.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-## Steps
+## Шаги
 
-To extend your box, you simply connect a GLi-Net router to the Butter Box with an ethernet cable. Instead of accessing the box from the portal Wi-Fi hotspot (eg. 'butter box' or whichever name you set in the admin settings), users will join the Wi-Fi network of the router.&#x20;
+Чтобы расширить вашу коробку, просто подключите маршрутизатор GLi-Net к Butter Box с помощью кабеля Ethernet. Вместо доступа к коробке через портальную точку доступа Wi-Fi (например, ‘butter box’ или любое имя, которое вы задали в настройках администратора), пользователи будут подключаться к сети Wi-Fi маршрутизатора.&#x20;
 
 {% stepper %}
 {% step %}
-### Connect the Butter Box to its power supply.&#x20;
+### Подключите Butter Box к источнику питания.&#x20;
 
-Connect the Butter Box to power.
+Подключите Butter Box к питанию.
 {% endstep %}
 
 {% step %}
-### Connect Router
+### Подключите маршрутизатор
 
-Connect the router to power. Then use the ethernet cable to connect to the Butter Box. Make sure to plug the Ethernet cable into the LAN port on your router.&#x20;
+Подключите маршрутизатор к питанию. Затем используйте кабель Ethernet для подключения к Butter Box. Убедитесь, что кабель Ethernet подключён к порту LAN на вашем маршрутизаторе.&#x20;
 {% endstep %}
 
 {% step %}
-### Test Your Connection
+### Проверьте подключение
 
-Join the router Wi-Fi. If you have not setup or used this router before, enter the default password found in the user guide included in the package. After 30 seconds, open http://butterbox.local in a browser.
+Подключитесь к Wi-Fi маршрутизатора. Если вы ещё не настраивали и не использовали этот маршрутизатор, введите пароль по умолчанию, указанный в руководстве пользователя, входящем в комплект. Через 30 секунд откройте http://butterbox.local в браузере.
 {% endstep %}
 
 {% step %}
-### Disable Butter Box Wi-Fi Access Point
+### Отключите точку доступа Wi-Fi Butter Box
 
-Open the admin settings from the Butter Box portal. Navigate to **Secure Portal**. Turn off the Wi-Fi access point. This will hide the Wi-Fi network that broadcasts from the raspberry pi, so that users don’t get confused about which network to join.
+Откройте настройки администратора на портале Butter Box. Перейдите в раздел **Безопасный портал**. Отключите точку доступа Wi-Fi. Это скроет сеть Wi-Fi, транслируемую Raspberry Pi, чтобы пользователи не путались, к какой сети подключаться.
 {% endstep %}
 
 {% step %}
-### Invite Users to Join the Router Wi-Fi
+### Пригласите пользователей подключиться к Wi-Fi маршрутизатора
 
-Users will now join the Wi-Fi network of the router when they want to connect to the Butter Box.
+Теперь пользователи будут подключаться к сети Wi-Fi маршрутизатора, когда захотят подключиться к Butter Box.
 {% endstep %}
 {% endstepper %}

@@ -1,86 +1,86 @@
-# Quick Start
+# Быстрый старт
 
-If you have a Butter Box with the latest version of the Butter software loaded on the SD card, take these quick steps to get set up.
+Если у вас есть Butter Box с последней версией программного обеспечения Butter, загруженной на SD-карту, выполните эти быстрые шаги для настройки.
 
 {% stepper %}
 {% step %}
-### Check supplies
+### Проверьте комплектующие
 
-Make sure you have the supplies for a basic box:
+Убедитесь, что у вас есть всё необходимое для базового Box:
 
-* [ ] Power source
-* [ ] USB drive
-* [ ] USB Adapters (as needed)
-* [ ] Butter Box Device (with micro SD card inserted)
-* [ ] Case
+* [ ] Источник питания
+* [ ] USB-накопитель
+* [ ] USB-адаптеры (при необходимости)
+* [ ] Устройство Butter Box (с вставленной micro SD-картой)
+* [ ] Корпус
 
 <figure><img src=".gitbook/assets/signal-2025-08-21-140334_003.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Make sure the micro SD card is inserted into the device
+### Убедитесь, что micro SD-карта вставлена в устройство
 
-The micro SD card should have the latest version of Butter OS running on it.
+На micro SD-карте должна быть загружена последняя версия Butter OS.
 {% endstep %}
 
 {% step %}
-### Plug it in to power on
+### Подключите к питанию для включения
 
-Connect the power supply to the first micro USB port and correct wall outlet.
+Подключите блок питания к первому порту micro USB и к соответствующей розетке.
 
 <figure><img src=".gitbook/assets/1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You will know the box is working if ‘butterbox’ wifi appears in the wifi list on your phone or computer. If it doesn’t, unplug the box and plug it back in.
+Вы узнаете, что Box работает, если Wi-Fi 'butterbox' появится в списке Wi-Fi на вашем телефоне или компьютере. Если он не появляется, отключите Box и подключите его снова.
 
 
 
-_If using a solar battery or other means of power, use one with the correct specs to ensure adequate power and avoid damage to the unit. For a Pi Zero 2 W use Micro USB power supply with at least 2.0A._
+_Если вы используете солнечную батарею или другой источник питания, используйте устройство с правильными характеристиками, чтобы обеспечить достаточную мощность и избежать повреждения устройства. Для Pi Zero 2 W используйте блок питания Micro USB мощностью не менее 2.0A._
 
-[Link to Power Supply Options](build-a-box/power-supply.md)
+[Ссылка на варианты блоков питания](build-a-box/power-supply.md)
 
 
 {% endstep %}
 
 {% step %}
-### Insert USB drive
+### Вставьте USB-накопитель
 
-Connect the USB adapter to the open port. Then plug in the USB drive. Learn more about loading the USB drive with treasures in the [File Sharing](services/file-sharing.md) section.
+Подключите USB-адаптер к свободному порту. Затем подключите USB-накопитель. Узнайте больше о загрузке USB-накопителя контентом в разделе [Обмен файлами](services/file-sharing.md).
 
 <figure><img src=".gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Access the Butter Box Portal
+### Доступ к порталу Butter Box
 
-Join the ‘butterbox’ Wi-Fi. After 30 seconds, scan the QR code on the box. This connects you to **http://butterbox.local** in a browser.
+Подключитесь к Wi-Fi 'butterbox'. Через 30 секунд отсканируйте QR-код на Box. Это подключит вас к **http://butterbox.local** в браузере.
 
 {% embed url="https://youtu.be/KB5O9MSoaAg" %}
 
 <div align="center"><figure><img src=".gitbook/assets/qr code.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-_If this page does not load, wait a few minutes to ensure connectivity. Refresh the page. If you’re connecting from a smartphone, turn off your mobile data or turn on airplane mode. Then try again._
+_Если эта страница не загружается, подождите несколько минут для установления соединения. Обновите страницу. Если вы подключаетесь со смартфона, отключите мобильные данные или включите режим полёта. Затем попробуйте снова._
 
 {% hint style="info" %}
-This is an HTTP page, not HTTPS, because it's served from a local device with no internet connection. Your data never leaves the network, so it's still private and secure.
+Это HTTP-страница, а не HTTPS, потому что она обслуживается локальным устройством без подключения к интернету. Ваши данные никогда не покидают сеть, поэтому они по-прежнему конфиденциальны и безопасны.
 {% endhint %}
 
-The Wi-Fi does not have a password by default. Though, you can easily add one in the Admin Settings.
+Wi-Fi по умолчанию не имеет пароля. Однако вы можете легко добавить его в настройках администратора.
 {% endstep %}
 
 {% step %}
-### Once connected, use Admin Settings to set up your box.
+### После подключения используйте настройки администратора для настройки вашего Box.
 
-The admin setup wizard is designed to give you choice over which services are offered on the box and to increase its security. You will be prompted to go to Admin Settings if this is the first time you've used the box.
+Мастер настройки администратора предназначен для того, чтобы предоставить вам выбор, какие сервисы предлагаются на Box, и повысить его безопасность. Вам будет предложено перейти в настройки администратора, если вы используете Box впервые.
 {% endstep %}
 
 {% step %}
-### Share access to the portal
+### Поделитесь доступом к порталу
 
-Once you share with others, they will connect to it in the same way you just did.
+Когда вы поделитесь с другими, они подключатся к нему так же, как вы только что сделали.
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-For a Pi Zero 2 W: Up to 5 people can connect to the box at any time. After people connect and get what they need, encourage them to leave the box to give others a turn.\
-The physical reach of the Box varies. But as a rule of thumb, people in the same room as the box (or in talking distance) will be able to access it.
+Для Pi Zero 2 W: к Box одновременно могут подключиться до 5 человек. После того как люди подключатся и получат то, что им нужно, попросите их отключиться, чтобы дать возможность другим.\
+Физическая зона действия Box варьируется. Но как правило, люди, находящиеся в одном помещении с Box (или на расстоянии слышимости), смогут получить к нему доступ.
 {% endhint %}

@@ -1,45 +1,45 @@
-# File Sharing
+# Обмен файлами
 
 <figure><img src="../.gitbook/assets/default portal.png" alt=""><figcaption></figcaption></figure>
 
-## Share Media, Files and Digital Books
+## Делитесь медиа, файлами и электронными книгами
 
-You can use your Butter Box to share media, files, and digital books. To display additional content in your portal, connect a USB drive containing the information you want to share.
+Вы можете использовать свой Butter Box для обмена медиафайлами, файлами и электронными книгами. Чтобы отобразить дополнительный контент на вашем портале, подключите USB-накопитель с информацией, которой вы хотите поделиться.
 
-If you’d like more control over how your content is displayed, you can build a **static website** and share it through the Butter Box. Learn more in the [Content Packs](../content-packs/) section.
+Если вы хотите больше контроля над тем, как отображается ваш контент, вы можете создать **статический сайт** и распространять его через Butter Box. Узнайте больше в разделе [Наборы контента](../content-packs/).
 
 
 
 {% stepper %}
 {% step %}
-### Add files to your USB Drive
+### Добавьте файлы на USB-накопитель
 
-Place individual files directly in the **main directory** (root) of your USB drive. Or, create folders to organize your files (eg. "Books", "Music", "Reports)
+Разместите отдельные файлы непосредственно в **главной директории** (корне) вашего USB-накопителя. Или создайте папки для организации файлов (например, «Книги», «Музыка», «Отчёты»)
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>USB directory when viewed in Finder on desktop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Директория USB при просмотре в Finder на компьютере</p></figcaption></figure>
 
-**Things to Know**
+**Полезная информация**
 
-* The **folder names you use** on your USB drive will be shown in the Butter Box portal.
-* Organizing content into folders makes it easier for others to browse and download.
+* **Имена папок**, которые вы используете на USB-накопителе, будут отображаться на портале Butter Box.
+* Организация контента в папки облегчает другим пользователям просмотр и скачивание.
 {% endstep %}
 {% endstepper %}
 
-### Connect to your Butter Box to view
+### Подключитесь к Butter Box для просмотра
 
-Insert the USB drive into your Butter Box. After connecting your USB drive to the Raspberry Pi you will see the **Files** tile displayed when you open the Butter Box portal.
+Вставьте USB-накопитель в Butter Box. После подключения USB-накопителя к Raspberry Pi вы увидите плитку **Файлы** при открытии портала Butter Box.
 
 <figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 
-**Troubleshooting**
+**Устранение неполадок**
 
-If you don’t see the **Files** tile, try the following actions:
+Если вы не видите плитку **Файлы**, попробуйте следующие действия:
 
-* Remove the USB drive from the Butter Box. Then re-insert the USB drive.
-* Turn on/off airplane mode. Reconnect Butter Box wifi.
-* Refresh the browser page.
+* Извлеките USB-накопитель из Butter Box. Затем снова вставьте USB-накопитель.
+* Включите/выключите режим полёта. Повторно подключитесь к Wi-Fi Butter Box.
+* Обновите страницу браузера.
 
-If you are still having trouble you may need to [Reformat Your USB Drive](../faq/how-to-reformat-your-usb-drive.md).
+Если у вас всё ещё возникают проблемы, возможно, вам нужно [переформатировать USB-накопитель](../faq/how-to-reformat-your-usb-drive.md).
 
 
 

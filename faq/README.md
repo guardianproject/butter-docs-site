@@ -2,54 +2,54 @@
 icon: circle-question
 ---
 
-# FAQ
+# Часто задаваемые вопросы
 
-### Does the Butter Box give me the internet?
+### Предоставляет ли Butter Box доступ к интернету?
 
-Not quite. The Butter Box doesn’t provide internet access. Instead, it creates its own local Wi-Fi network that lets you access apps, content (previously set up), and message board features offline . Everything is stored and shared locally — no internet or data connection needed.
-
-***
-
-### How do you power a Butter Box?
-
-The Butter Box is super flexible! You can power it using a USB power bank, a wall adapter, or even a small solar panel. As long as it provides power to the Raspberry Pi, you’re good to go. Go to the [Power Supply](../build-a-box/power-supply.md) section to learn more.
+Не совсем. Butter Box не обеспечивает доступ к интернету. Вместо этого он создаёт собственную локальную сеть Wi-Fi, которая позволяет получить доступ к приложениям, контенту (предварительно настроенному) и функциям доски сообщений в офлайн-режиме. Всё хранится и передаётся локально — подключение к интернету или передача данных не требуется.
 
 ***
 
-### If I’m powering the Butter Box with a solar panel, do I need a power bank?
+### Как запитать Butter Box?
 
-A power bank isn’t strictly required, but it’s highly recommended. Solar panels can be inconsistent — clouds, shade, or changing sunlight can interrupt power. A power bank helps smooth that out by storing energy and keeping the Butter Box running steadily, even when sunlight dips. Check it out this use case to know more: (insert use case URL)
-
-***
-
-### What are the security features of the Butter Box? Can I put a password on it?
-
-Currently, the Butter Box broadcasts an open Wi-Fi network — that means no password is required to connect. This makes it easy for people nearby to join, especially in offline or community settings.
-
-However, users must either enter the Butter Box’s local IP address manually, or scan a QR code that takes them directly to the content. Since it’s all offline, there’s no exposure to the internet or external threats.
-
-You can configure the Raspberry Pi to require a Wi-Fi password in the admin settings. Refer to the [Security](../security.md) section for more security features.
+Butter Box очень гибок в плане питания! Вы можете запитать его от USB-повербанка, сетевого адаптера или даже небольшой солнечной панели. Главное, чтобы источник обеспечивал питание Raspberry Pi. Перейдите в раздел [Блок питания](../build-a-box/power-supply.md), чтобы узнать больше.
 
 ***
 
-### How much storage does a Butter Box have?
+### Если я питаю Butter Box от солнечной панели, нужен ли мне повербанк?
 
-The Butter Box storage capacity is defined by the microSD card you install — it doesn’t have fixed built-in memory. You can choose anything from a 16 GB card up to 1 TB (the Raspberry Pi Zero 2 W supports microSD sizes up to that). We recommend 256 GB.
-
-| Use Case                              | Suggested micro SD Size    |
-| ------------------------------------- | -------------------------- |
-| Basic setup (apps + message board)    | 16 GB – 32 GB              |
-| Additional content or media storage   | 64 GB – 128 GB             |
-| Handling large content packs or files | 256 GB or more, up to 1 TB |
+Повербанк не обязателен, но настоятельно рекомендуется. Солнечные панели могут работать нестабильно — облака, тень или изменение освещённости могут прервать питание. Повербанк помогает сгладить это, накапливая энергию и обеспечивая стабильную работу Butter Box, даже когда солнечный свет ослабевает. Ознакомьтесь с этим примером использования, чтобы узнать больше: (вставьте URL примера использования)
 
 ***
 
-### Can I customize it?
+### Какие функции безопасности есть у Butter Box? Можно ли установить на него пароль?
 
-Absolutely! You can add, for example, your own content - dropping in PDFs, videos, images, and HTML pages to build a local library, or add your own apps - including Android APKs (even if they’re not on F-Droid).
+В настоящее время Butter Box транслирует открытую сеть Wi-Fi — это означает, что для подключения пароль не требуется. Это упрощает подключение для находящихся рядом людей, особенно в офлайн-средах или в условиях сообщества.
+
+Однако пользователи должны либо ввести локальный IP-адрес Butter Box вручную, либо отсканировать QR-код, который направляет их к контенту. Поскольку всё работает офлайн, нет риска воздействия интернета или внешних угроз.
+
+Вы можете настроить Raspberry Pi на требование пароля Wi-Fi в настройках администратора. Обратитесь к разделу [Безопасность](../security.md) для получения информации о дополнительных функциях безопасности.
 
 ***
 
-### My USB drive is plugged into the Butter Box, but the content is not displayed on the portal. Why?
+### Какой объём хранилища у Butter Box?
 
-Yout USB drive is probably in the wrong format. Your USB needs to be formatted to ExFat, Fat32, MS-DOS (FAT). Refer to [Reformatting Your USB](how-to-reformat-your-usb-drive.md) for help.
+Объём хранилища Butter Box определяется установленной картой microSD — у него нет фиксированной встроенной памяти. Вы можете выбрать карту от 16 ГБ до 1 ТБ (Raspberry Pi Zero 2 W поддерживает карты microSD такого размера). Мы рекомендуем 256 ГБ.
+
+| Сценарий использования                     | Рекомендуемый размер micro SD |
+| ------------------------------------------- | ----------------------------- |
+| Базовая настройка (приложения + доска сообщений) | 16 ГБ – 32 ГБ                |
+| Дополнительный контент или хранение медиа   | 64 ГБ – 128 ГБ               |
+| Работа с большими контент-пакетами или файлами | 256 ГБ и более, до 1 ТБ      |
+
+***
+
+### Можно ли его настроить?
+
+Безусловно! Вы можете добавить, например, свой собственный контент — поместить PDF-файлы, видео, изображения и HTML-страницы для создания локальной библиотеки, или добавить свои приложения — включая APK-файлы для Android (даже если их нет на F-Droid).
+
+***
+
+### Мой USB-накопитель подключён к Butter Box, но контент не отображается на портале. Почему?
+
+Вероятно, ваш USB-накопитель имеет неправильный формат. USB-накопитель должен быть отформатирован в ExFat, Fat32, MS-DOS (FAT). Обратитесь к разделу [Переформатирование USB-накопителя](how-to-reformat-your-usb-drive.md) для помощи.

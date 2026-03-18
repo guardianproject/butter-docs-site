@@ -1,13 +1,13 @@
-# Update Butter
+# Обновление Butter
 
-### Check out new releases from the Butter Box team
+### Ознакомьтесь с новыми релизами от команды Butter Box
 
 {% embed url="https://www.dropbox.com/scl/fo/helpqh3q2oj7ti2ia038m/h?dl=0.&rlkey=cswt4w4zksiuj3eb1oca48yw0" %}
 
 {% hint style="info" %}
-Always choose the Latest Version of the file
+Всегда выбирайте последнюю версию файла
 {% endhint %}
 
-### Update your Butter Box
+### Обновите ваш Butter Box
 
-Update your Butter Box using the same guide with the steps you take when you are setting a Butter Box up for the first time. You can find it here: [Raspberry Pi Install](build-a-box/raspberry-pi/install-butter.md)
+Обновите ваш Butter Box, используя то же руководство с шагами, которые вы выполняете при первоначальной настройке Butter Box. Вы можете найти его здесь: [Установка на Raspberry Pi](build-a-box/raspberry-pi/install-butter.md)

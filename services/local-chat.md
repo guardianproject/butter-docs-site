@@ -1,113 +1,112 @@
 ---
-description: A place for anyone connected to the box to share
+description: Место для общения всех, кто подключён к устройству
 ---
 
-# Local Chat
+# Локальный чат
 
-There is one local chat on your Butter Box that is open to anyone who is able to join the box. If they can open the portal, they can open the chat and say or post anything they want. Depending on your use case, moderation capabilities may be important.&#x20;
+На вашем Butter Box есть один локальный чат, доступный всем, кто может подключиться к устройству. Если они могут открыть портал, они могут открыть чат и написать или опубликовать что угодно. В зависимости от вашего сценария использования, возможности модерации могут быть важны.&#x20;
 
-First, let's look at what you can and can't do with this local chat.
+Для начала давайте рассмотрим, что можно и чего нельзя делать с этим локальным чатом.
 
 {% columns %}
 {% column %}
 
 
-✅  **You Can**<br>
+✅  **Вы можете**<br>
 
-* Host videos up to 5 GB PDFs, images, record, audio messages, share pre-recorded audio messages or music&#x20;
-* Download the full chat or any individual piece of content or media that people have shared
+* Размещать видео до 5 ГБ, PDF-файлы, изображения, записывать аудиосообщения, делиться заранее записанными аудиосообщениями или музыкой&#x20;
+* Скачивать весь чат или любой отдельный элемент контента или медиафайл, которым поделились пользователи
 {% endcolumn %}
 
 {% column %}
 
 
-❌  **You Cannot**<br>
+❌  **Вы не можете**<br>
 
-* Use the chat to talk with people who are not connected to the Butter Box
-* Get notifications when there are new posts or messages&#x20;
-* See the messages unless you are connected to the Butter Box
+* Использовать чат для общения с людьми, не подключёнными к Butter Box
+* Получать уведомления о новых публикациях или сообщениях&#x20;
+* Видеть сообщения, если вы не подключены к Butter Box
 {% endcolumn %}
 {% endcolumns %}
 
 
 
-## Moderation
+## Модерация
 
-A Butter Box offers moderation features for the local chat. In order to access these features, you need to login as the admin of the room.
+Butter Box предлагает функции модерации для локального чата. Чтобы получить доступ к этим функциям, необходимо войти как администратор комнаты.
 
-### Become the Admin
-
-{% stepper %}
-{% step %}
-### Logout as Guest
-
-When you open the local chat, you are assigned a guest identity. First logout of the account that was created for you.
-{% endstep %}
-
-{% step %}
-### Login as Admin
-
-Login to the `butterbox-admin` account. Username and password are both  `butterbox-admin`.
-{% endstep %}
-
-{% step %}
-### Change Admin Password
-
-Visit your user profile to change the password. At your discretion, you may also wish to change your display name so that other users will recognize you.
-{% endstep %}
-{% endstepper %}
-
-### Moderation Features
-
-Once you are an admin, you have access to the following features:
-
-* **Set a message timer**
-* **Delete messages**
-* **Promote members to moderator or admin**
-* **Kick members out.**&#x20;
-  * Keep in mind that someone can simply rejoin as a new guest if they reconnect to the box
-* **Delete the room.**&#x20;
-  * Warning: If you delete the room, you will no longer have a local chat on your Butter Box. To get one back, you will have to flash a new image of the Butter Box software to your SD card.
-
-
-
-## Say Even More—Direct Messages and Private Rooms
-
-In addition to the local chat, you can create any number of private rooms from the same interface.
-
-### Things To Know
-
-* Each room will have it's own QR code.&#x20;
-* Private rooms are not discoverable from the Butter Box portal.
-* If you create a private room, you have to share the QR code physically to whomever you want to join **who is also connected to the box.**
-* Every private chat that you are part of, will be easy for **you** to find. They will all show up in your room list.
-
-### Instructions
-
-You can create a private room from two different places in the message board interface.
+### Станьте администратором
 
 {% stepper %}
 {% step %}
-### Open from Avatar Modal
+### Выйдите из гостевого аккаунта
 
-Tap on your avatar in the top bar. Select **new room.**
+Когда вы открываете локальный чат, вам присваивается гостевая учётная запись. Сначала выйдите из аккаунта, который был для вас создан.
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.40.27 PM.png" alt=""><figcaption></figcaption></figure>
+{% step %}
+### Войдите как администратор
+
+Войдите в аккаунт `butterbox-admin`. Имя пользователя и пароль — `butterbox-admin`.
+{% endstep %}
+
+{% step %}
+### Измените пароль администратора
+
+Перейдите в профиль пользователя, чтобы изменить пароль. По вашему усмотрению вы также можете изменить отображаемое имя, чтобы другие пользователи могли вас узнать.
+{% endstep %}
+{% endstepper %}
+
+### Функции модерации
+
+Будучи администратором, вы имеете доступ к следующим функциям:
+
+* **Установить таймер сообщений**
+* **Удалять сообщения**
+* **Повышать участников до модератора или администратора**
+* **Исключать участников.**&#x20;
+  * Имейте в виду, что пользователь может просто повторно присоединиться как новый гость, если переподключится к устройству
+* **Удалить комнату.**&#x20;
+  * Предупреждение: Если вы удалите комнату, локальный чат на вашем Butter Box больше не будет доступен. Чтобы восстановить его, потребуется записать новый образ программного обеспечения Butter Box на SD-карту.
+
+
+
+## Расширенные возможности — Личные сообщения и приватные комнаты
+
+Помимо локального чата, вы можете создать любое количество приватных комнат из того же интерфейса.
+
+### Полезная информация
+
+* Каждая комната будет иметь свой QR-код.&#x20;
+* Приватные комнаты не обнаруживаются через портал Butter Box.
+* Если вы создаёте приватную комнату, вам нужно физически передать QR-код тому, кого вы хотите пригласить, **при условии, что он также подключён к устройству.**
+* Все приватные чаты, в которых вы участвуете, будет легко найти. Они все отобразятся в вашем списке комнат.
+
+### Инструкции
+
+Вы можете создать приватную комнату из двух мест в интерфейсе доски сообщений.
+
+{% stepper %}
+{% step %}
+### Откройте через модальное окно аватара
+
+Нажмите на свой аватар в верхней панели. Выберите **новая комната.**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.40.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 
 {% step %}
-### Open from Room List
+### Откройте из списка комнат
 
-Your room list is accessible from your profile page. Once here, select **new room.**
+Список комнат доступен на странице вашего профиля. Оттуда выберите **новая комната.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.42.17 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.42.17 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 {% endstepper %}
-
 
 
 

@@ -2,18 +2,18 @@
 icon: stars
 ---
 
-# Use Cases
+# Примеры использования
 
-### 1. Digital Security training to distribute apps and materials
+### 1. Тренинги по цифровой безопасности для распространения приложений и материалов
 
-> Leaders from Southern Africa countries travel to provide training, audits, and consultations to organizations about digital security, physical safety, risk assessments, and to equip journalists, activists and human rights defenders with the tools and knowledge to do their job safer. In order to do their work effectively, these leaders need to be able to curate specific types of content to fit various use cases, in different contexts and languages and different formats. In offline situations (load shedding, no access to the internet or in times of internet shutdowns) the ability to successfully deliver trainings and content becomes almost impossible. \
+> Лидеры из стран Южной Африки путешествуют для проведения тренингов, аудитов и консультаций для организаций по вопросам цифровой безопасности, физической безопасности, оценки рисков, а также для оснащения журналистов, активистов и правозащитников инструментами и знаниями для более безопасного выполнения их работы. Для эффективной работы этим лидерам необходима возможность подбирать определённые типы контента для различных сценариев использования, в разных контекстах и на разных языках и в разных форматах. В офлайн-ситуациях (отключения электричества, отсутствие доступа к интернету или во время отключений интернета) возможность успешно проводить тренинги и доставлять контент становится практически невозможной. \
 > \
-> They shared more than a few times that if they did not have the Butter Box, some sessions would have been canceled.
+> Они неоднократно отмечали, что если бы у них не было Butter Box, некоторые сессии пришлось бы отменить.
 
-### 2. Sharing & Media Backup
+### 2. Обмен файлами и резервное копирование медиа
 
-> Often M. wants to share music and movie files that they’ve downloaded on their computer with their friends — but transferring with cables or Bluetooth is a pain. So they've set up a Butter Box with their media collection — music files, films and photos. They plugged it in near the kitchen, and now anyone in their apartment can connect to the Butter Wi‑Fi and browse a shared media library. No internet needed, and no more file-by-file transfers.
+> Часто М. хочет поделиться музыкальными и видеофайлами, которые они загрузили на свой компьютер, с друзьями — но передача через кабели или Bluetooth — это мучение. Поэтому они настроили Butter Box со своей медиаколлекцией — музыкальные файлы, фильмы и фотографии. Они подключили его рядом с кухней, и теперь любой в их квартире может подключиться к Wi-Fi Butter и просматривать общую медиатеку. Интернет не нужен, и больше никаких поштучных передач файлов.
 
-### 3. Temporary file storage
+### 3. Временное хранение файлов
 
-> On a remote site with no cell service, workers needed a way to temporarily offload large files — like site photos or documents — from their phones. Using Butter Box’s local encrypted message board, they sent files to themselves or coworkers for safekeeping. Files stayed on the device until retrieved later, even without power or signal.
+> На удалённом объекте без сотовой связи рабочим нужен был способ временно выгрузить большие файлы — например, фотографии объекта или документы — со своих телефонов. Используя локальную зашифрованную доску сообщений Butter Box, они отправляли файлы себе или коллегам на хранение. Файлы оставались на устройстве до их получения позже, даже без питания или сигнала.
