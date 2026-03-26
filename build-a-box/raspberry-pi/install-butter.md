@@ -68,9 +68,9 @@ grand_parent: "Собрать Butter Box"
 
 * На вкладке **Хранилище** выберите **карту Micro SD.**
 
-![Выберите карту Micro SD.](../../assets/images/Screenshot 2026-02-24 at 1.27.37 PM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.27.37 PM.png" alt=""><figcaption><p>Выберите карту Micro SD.</p></figcaption></figure>
 
-После всех выборов ваш экран будет выглядеть примерно так:
+После того как вы всё выбрали всех выборов ваш экран будет выглядеть примерно так:
 
 ![Финальный экран после выбора.](../../assets/images/Screenshot 2026-02-24 at 1.27.43 PM.png)
 
