@@ -10,7 +10,7 @@ Butter Box — это лёгкое портативное устройство, 
 
 Неважно, есть ли у вас Butter Box на руках или вам нужно его собрать, вы в нужном месте. Выберите вариант ниже.
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>У меня есть Box</td><td><a href="quick-start.md">quick-start.md</a></td></tr><tr><td>Мне нужен Box</td><td><a href="build-a-box/">build-a-box</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>У меня есть Butter Box</td><td><a href="quick-start.md">quick-start.md</a></td></tr><tr><td>Мне нужен Butter Box</td><td><a href="build-a-box/">build-a-box</a></td></tr></tbody></table>
 
 
 
