@@ -2,7 +2,7 @@
 title: "Апгрейд Butter Box"
 nav_order: 3
 parent: "Raspberry Pi"
-grand_parent: "Собрать Butter Box"
+grand_parent: "Сборка Butter Box"
 ---
 
 # Апгрейд Butter Box
