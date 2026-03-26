@@ -12,7 +12,7 @@
 * [Сервисы](services/README.md)
   * [Обмен файлами](services/file-sharing.md)
   * [Локальный чат](services/local-chat.md)
-  * [Защищённый мессенджер](services/secure-messenger.md)
+  * [Приватный мессенджер](services/secure-messenger.md)
 * [Контент-пакеты](content-packs/README.md)
   * [Карты](content-packs/maps.md)
   * [Приложения](content-packs/apps.md)
