@@ -2,7 +2,7 @@
 title: "Основные комплектующие"
 nav_order: 1
 parent: "Raspberry Pi"
-grand_parent: "Собрать Box"
+grand_parent: "Собрать Butter Box"
 ---
 
 # Комплектующие для базовой коробки
