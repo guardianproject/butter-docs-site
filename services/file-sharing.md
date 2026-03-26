@@ -6,7 +6,7 @@ parent: "Сервисы"
 
 # Обмен файлами
 
-![](../assets/images/default portal.png)
+<figure><img src="../.gitbook/assets/default portal.png" alt=""><figcaption></figcaption></figure>
 
 ## Делитесь медиа, файлами и электронными книгами
 
@@ -19,7 +19,7 @@ parent: "Сервисы"
 
 Разместите отдельные файлы непосредственно в **главной директории** (корне) вашего USB-накопителя. Или создайте папки для организации файлов (например, «Книги», «Музыка», «Отчёты»)
 
-![Директория USB при просмотре в Finder на компьютере](../assets/images/Screenshot 2025-08-16 at 9.50.15 PM.png)
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-16 at 9.50.15 PM.png" alt=""><figcaption><p>Директория USB при просмотре в Finder на компьютере</p></figcaption></figure>
 
 **Полезная информация**
 
@@ -33,7 +33,7 @@ parent: "Сервисы"
 
 Вставьте USB-накопитель в Butter Box. После подключения USB-накопителя к Raspberry Pi вы увидите плитку **Файлы** при открытии портала Butter Box.
 
-![](../assets/images/media-type-explore.png)
+<figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
 
 **Устранение неполадок**
 
