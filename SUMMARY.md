@@ -5,7 +5,7 @@
 * [Сборка Butter Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Основные комплектующие](build-a-box/raspberry-pi/basic-box-supplies.md)
-    * [Установить Butter](build-a-box/raspberry-pi/install-butter.md)
+    * [Установка Butter](build-a-box/raspberry-pi/install-butter.md)
     * [Апгрейд Butter Box](build-a-box/raspberry-pi/extend-your-box.md)
   * [ПК/Ноутбук](build-a-box/pc-laptop.md)
   * [Блок питания](build-a-box/power-supply.md)
