@@ -51,8 +51,7 @@ grand_parent: "Собрать Butter Box"
 
 После запуска Raspberry Pi Imager вам будет предложено выбрать устройство Raspberry Pi.
 
-![Выберите Raspberry Pi Zero 2 W (или другое устройство, если у вас не стандартная коробка от Butter HQ)](../../assets/images/Screenshot 2026-02-24 at 9.56.27 AM.png)
-
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 9.56.27 AM.png" alt=""><figcaption><p>Выберите Raspberry Pi Zero 2 W (или другое устройство, если у вас не стандартная коробка от Butter HQ)</p></figcaption></figure>
 ---
 
 
