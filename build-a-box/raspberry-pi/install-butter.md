@@ -57,9 +57,9 @@ grand_parent: "Собрать Butter Box"
 
 ### Выберите операционную систему > Use Custom
 
-* На вкладке ОС выберите **Use Custom** и загрузите пользовательский файл butter-******.img  Убедитесь, что вы **распаковали файл xz** перед использованием.
+* На вкладке ОС выберите **Use Custom** и загрузите файл butter-******.img  Убедитесь, что вы **распаковали файл xz** перед использованием.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 9.57.31 AM.png" alt=""><figcaption><p>Выберите «Использовать пользовательскую». Вы загрузите пользовательский файл .img, который скачали с Dropbox.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 9.57.31 AM.png" alt=""><figcaption><p>Выберите «Use Custom». Выберите файл .img, который скачали с Dropbox.</p></figcaption></figure>
 
 ---
 
