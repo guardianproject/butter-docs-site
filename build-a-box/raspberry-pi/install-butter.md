@@ -2,7 +2,7 @@
 title: "Установить Butter"
 nav_order: 2
 parent: "Raspberry Pi"
-grand_parent: "Собрать Box"
+grand_parent: "Собрать Butter Box"
 ---
 
 # Установка Butter
