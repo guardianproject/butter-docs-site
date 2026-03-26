@@ -1,5 +1,5 @@
 ---
-title: "Установить Butter"
+title: "Установка Butter"
 nav_order: 2
 parent: "Raspberry Pi"
 grand_parent: "Собрать Butter Box"
