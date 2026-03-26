@@ -13,7 +13,7 @@
   * [Обмен файлами](services/file-sharing.md)
   * [Локальный чат](services/local-chat.md)
   * [Приватный мессенджер](services/secure-messenger.md)
-* [Контент-пакеты](content-packs/README.md)
+* [Наборы контента](content-packs/README.md)
   * [Карты](content-packs/maps.md)
   * [Приложения](content-packs/apps.md)
 * [Обновление Butter](update-butter.md)
