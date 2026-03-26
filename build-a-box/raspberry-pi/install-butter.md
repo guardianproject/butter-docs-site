@@ -107,4 +107,5 @@ grand_parent: "Собрать Butter Box"
 
 Также убедитесь, что вы **распаковали файл** перед использованием.
 
-![](../../assets/images/Screenshot 2026-02-24 at 1.28.37 PM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.28.37 PM.png" alt=""><figcaption></figcaption></figure>
+
