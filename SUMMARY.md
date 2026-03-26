@@ -2,7 +2,7 @@
 
 * [Начало работы](README.md)
 * [Быстрый старт](quick-start.md)
-* [Собрать Box](build-a-box/README.md)
+* [Собрать Butter Box](build-a-box/README.md)
   * [Raspberry Pi](build-a-box/raspberry-pi/README.md)
     * [Основные комплектующие](build-a-box/raspberry-pi/basic-box-supplies.md)
     * [Установить Butter](build-a-box/raspberry-pi/install-butter.md)
