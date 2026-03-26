@@ -1,5 +1,5 @@
 ---
-title: "Контент-пакеты"
+title: "Наборы контента"
 nav_order: 5
 has_children: true
 permalink: /content-packs/
