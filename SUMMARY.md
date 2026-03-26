@@ -8,7 +8,7 @@
     * [Установка Butter](build-a-box/raspberry-pi/install-butter.md)
     * [Апгрейд Butter Box](build-a-box/raspberry-pi/extend-your-box.md)
   * [ПК/Ноутбук](build-a-box/pc-laptop.md)
-  * [Блок питания](build-a-box/power-supply.md)
+  * [Источник питания](build-a-box/power-supply.md)
 * [Сервисы](services/README.md)
   * [Обмен файлами](services/file-sharing.md)
   * [Локальный чат](services/local-chat.md)
