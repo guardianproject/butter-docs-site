@@ -17,8 +17,7 @@ grand_parent: "Собрать Butter Box"
 
 
 
-* [ ] Raspberry Pi Zero 2W (64 Bit) [ozon.ru/product/kompyuter-v-sborke-2136359684](https://ozon.ru/product/kompyuter-v-sborke-2136359684); Или вы можете купить комплект здесь: [\
-  https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
+* [ ] Raspberry Pi Zero 2W (64 Bit) [ozon.ru/product/raspberry-pi-zero-2-w-c-wifi-i-bluetooth-mikrokompyuter-rasberi-malina-1069765865]([https://ozon.ru/product/kompyuter-v-sborke-2136359684](https://www.ozon.ru/product/raspberry-pi-zero-2-w-c-wifi-i-bluetooth-mikrokompyuter-rasberi-malina-1069765865)); Или вы можете купить комплект здесь: [ozon.ru/product/kompyuter-v-sborke-2136359684](https://ozon.ru/product/kompyuter-v-sborke-2136359684)
 * [ ] Розетка и кабель питания, входящие в комплект Raspberry Pi Zero 2W, или [альтернативный источник питания](../power-supply.md)
 * [ ] Карта Micro SD: Образы с программным обеспечением Butter обычно занимают менее 16 ГБ (мы рекомендуем 256 ГБ). Медиафайлы, которые люди загружают в чат, сохраняются на карте; они никогда не удаляются.
 * [ ] USB-накопитель (минимум 32 ГБ)
