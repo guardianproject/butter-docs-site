@@ -5,5 +5,5 @@ has_children: true
 permalink: /services/
 ---
 
-# Функции
+# Сервисы
 
