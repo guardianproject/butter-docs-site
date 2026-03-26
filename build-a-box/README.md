@@ -1,11 +1,11 @@
 ---
-title: "Собрать Box"
+title: "Собрать Butter Box"
 nav_order: 3
 has_children: true
 permalink: /build-a-box/
 ---
 
-# Соберите свою коробку
+# Соберите свой Butter Box
 
 Ещё нет Butter Box? Вы можете легко собрать свою. Выберите конфигурацию, чтобы начать.
 
