@@ -70,13 +70,13 @@ grand_parent: "Собрать Butter Box"
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.27.37 PM.png" alt=""><figcaption><p>Выберите карту Micro SD.</p></figcaption></figure>
 
-После того как вы всё выбрали всех выборов ваш экран будет выглядеть примерно так:
+После того как вы всё выбрали, ваш экран будет выглядеть примерно так:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.27.43 PM.png" alt=""><figcaption><p>Финальный экран после выбора.</p></figcaption></figure>
 
-Вам может быть показано сообщение _«Это действие удалит все данные с выбранного внешнего хранилища»_ и _«Хотите ли вы применить настройки»_, нажмите _«нет, очистить настройки»_.
+Вам может быть показано сообщение _«Doing this will erase all data from selected external storage»_ и _«do you want to apply settings?»_, нажмите _«no, clear settings»_.
 
-После этого выберите _«записать»_ и начните процесс записи на карту Micro SD.
+После этого выберите _«write»_ и начните процесс записи на карту Micro SD.
 
 ---
 
