@@ -1,7 +1,7 @@
 ---
 title: "Источник питания"
 nav_order: 3
-parent: "Собрать Butter Box"
+parent: "Сборка Butter Box"
 ---
 
 # Источник питания
