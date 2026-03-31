@@ -17,13 +17,13 @@ Access to new images of ButterBox built for Intel/AMD64 devices are now availabl
 This image can be flashed to a bootable USB drives, using [balenaEtcher](https://etcher.balena.io/).
 
 1. Install balenaEtcher
-2. Download the AMD64 image
+2. Download the AMD64 image and unpack it (remove .tar and .gz with "unzip" tool)
 3. Select the image file in balenaEtcher
 4. Plugin the USB flash drive
 5. Select the drive in balenaEtcher
 6. Flash!
 
-## How to Use
+## How to Boot Up
 
 Once the USB drive is flashed, you can now use it to boot up ButterBox on your old PC. 
 
@@ -33,6 +33,12 @@ Once the USB drive is flashed, you can now use it to boot up ButterBox on your o
 4. Start the PC, and make sure it boots from the USB drive.
 5. Wait for the login terminal to appear!
 
+## How to Access
+
+Once the ButterBox PC is booted up, and plugged into a local router, it should be ready to access!
+
+Connect your personal device to the same network, and try to access [http://butterbox.local](http://butterbox.local)
+ 
 ## Differences from RaspberryPi edition
 
 There are some important differences between ButterBox on PC versus on RaspberryPi
