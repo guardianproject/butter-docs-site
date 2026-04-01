@@ -1,8 +1,8 @@
 ---
-title: "Установить Butter"
+title: "Установка Butter"
 nav_order: 2
 parent: "Raspberry Pi"
-grand_parent: "Собрать Box"
+grand_parent: "Сборка Butter Box"
 ---
 
 # Установка Butter
@@ -51,16 +51,15 @@ grand_parent: "Собрать Box"
 
 После запуска Raspberry Pi Imager вам будет предложено выбрать устройство Raspberry Pi.
 
-![Выберите Raspberry Pi Zero 2 W (или другое устройство, если у вас не стандартная коробка от Butter HQ)](../../assets/images/Screenshot 2026-02-24 at 9.56.27 AM.png)
-
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 9.56.27 AM.png" alt=""><figcaption><p>Выберите Raspberry Pi Zero 2 W (или другое устройство, если у вас не стандартная коробка от Butter HQ)</p></figcaption></figure>
 ---
 
 
-### Выберите операционную систему > Использовать пользовательскую
+### Выберите операционную систему > Use Custom
 
-* На вкладке ОС выберите **Использовать пользовательскую** и загрузите пользовательский файл Butter OS .img. Убедитесь, что вы **распаковали файл** перед использованием.
+* На вкладке ОС выберите **Use Custom** и загрузите файл butter-******.img  Убедитесь, что вы **распаковали файл xz** перед использованием.
 
-![Выберите «Использовать пользовательскую». Вы загрузите пользовательский файл .img, который скачали с Dropbox.](../../assets/images/Screenshot 2026-02-24 at 9.57.31 AM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 9.57.31 AM.png" alt=""><figcaption><p>Выберите «Use Custom». Выберите файл .img, который скачали с Dropbox.</p></figcaption></figure>
 
 ---
 
@@ -69,15 +68,15 @@ grand_parent: "Собрать Box"
 
 * На вкладке **Хранилище** выберите **карту Micro SD.**
 
-![Выберите карту Micro SD.](../../assets/images/Screenshot 2026-02-24 at 1.27.37 PM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.27.37 PM.png" alt=""><figcaption><p>Выберите карту Micro SD.</p></figcaption></figure>
 
-После всех выборов ваш экран будет выглядеть примерно так:
+После того как вы всё выбрали, ваш экран будет выглядеть примерно так:
 
-![Финальный экран после выбора.](../../assets/images/Screenshot 2026-02-24 at 1.27.43 PM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.27.43 PM.png" alt=""><figcaption><p>Финальный экран после выбора.</p></figcaption></figure>
 
-Вам может быть показано сообщение _«Это действие удалит все данные с выбранного внешнего хранилища»_ и _«Хотите ли вы применить настройки»_, нажмите _«нет, очистить настройки»_.
+Вам может быть показано сообщение _«Doing this will erase all data from selected external storage»_ и _«do you want to apply settings?»_, нажмите _«no, clear settings»_.
 
-После этого выберите _«записать»_ и начните процесс записи на карту Micro SD.
+После этого выберите _«write»_ и начните процесс записи на карту Micro SD.
 
 ---
 
@@ -95,8 +94,7 @@ grand_parent: "Собрать Box"
 
 ---
 
-
-**Если вы собираете расширенную коробку, перейдите к следующему разделу: Расширение вашей коробки.**
+**Если вы собираете улучшенный Butter Box (с увеличенным радиусом действия), перейдите к следующему разделу: Апгрейд Butter Box.**
 
 [extend-your-box.md](extend-your-box.md)
 
@@ -109,4 +107,5 @@ grand_parent: "Собрать Box"
 
 Также убедитесь, что вы **распаковали файл** перед использованием.
 
-![](../../assets/images/Screenshot 2026-02-24 at 1.28.37 PM.png)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-24 at 1.28.37 PM.png" alt=""><figcaption></figcaption></figure>
+

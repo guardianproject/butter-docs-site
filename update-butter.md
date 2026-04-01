@@ -14,4 +14,4 @@ nav_order: 6
 
 ### Обновите ваш Butter Box
 
-Обновите ваш Butter Box, используя то же руководство с шагами, которые вы выполняете при первоначальной настройке Butter Box. Вы можете найти его здесь: [Установка на Raspberry Pi](build-a-box/raspberry-pi/install-butter.md)
+Обновите ваш Butter Box, используя то же руководство, которому вы следуете при первоначальной настройке Butter Box. Вы можете найти его здесь: [Установка на Raspberry Pi](build-a-box/raspberry-pi/install-butter.md)

@@ -1,7 +1,7 @@
 ---
 title: "ПК/Ноутбук"
 nav_order: 2
-parent: "Собрать Box"
+parent: "Сборка Butter Box"
 ---
 
 # ПК/Ноутбук

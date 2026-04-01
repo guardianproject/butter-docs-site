@@ -2,12 +2,12 @@
 title: "Основные комплектующие"
 nav_order: 1
 parent: "Raspberry Pi"
-grand_parent: "Собрать Box"
+grand_parent: "Сборка Butter Box"
 ---
 
-# Комплектующие для базовой коробки
+# Основные комплектующие
 
-Базовая конфигурация Butter Box — это Raspberry Pi Zero 2 W с картой microSD, на которой установлено программное обеспечение Butter, USB-накопитель и питание от USB-источника, такого как кабель питания, power bank или солнечная панель.
+Базовая конфигурация Butter Box — это Raspberry Pi Zero 2 W с картой microSD, на которой установлено программное обеспечение Butter, USB-накопитель и питание от USB-источника, такого как блок питания, power bank или солнечная панель.
 
 В большинстве таких конфигураций Butter Box может комфортно обслуживать **от 4 до 10 подключённых устройств одновременно** без замедления. Возможно подключить и больше, но производительность может снизиться, если все одновременно загружают большие файлы или видео.
 
@@ -15,9 +15,10 @@ grand_parent: "Собрать Box"
 
 ## Комплектующие
 
-* [ ] Raspberry Pi Zero 2W (64 Bit) [https://www.adafruit.com/product/5291](https://www.adafruit.com/product/5291); Или вы можете купить комплект здесь: [\
-  https://www.canakit.com/raspberry-pi-zero-2-w.html](https://www.canakit.com/raspberry-pi-zero-2-w.html)
-* [ ] Розетка и кабель питания, входящие в комплект Raspberry Pi Zero 2W, или [альтернативный источник питания](../power-supply.md)
+
+
+* [ ] Raspberry Pi Zero 2W (64 Bit) [ozon.ru/product/raspberry-pi-zero-2-w-c-wifi-i-bluetooth-mikrokompyuter-rasberi-malina-1069765865](https://ozon.ru/product/raspberry-pi-zero-2-w-c-wifi-i-bluetooth-mikrokompyuter-rasberi-malina-1069765865); Или вы можете купить комплект здесь: [ozon.ru/product/kompyuter-v-sborke-2136359684](https://ozon.ru/product/kompyuter-v-sborke-2136359684)
+* [ ] Блок питания с кабелем, входящие в комплект Raspberry Pi Zero 2W, или [альтернативный источник питания](../power-supply.md)
 * [ ] Карта Micro SD: Образы с программным обеспечением Butter обычно занимают менее 16 ГБ (мы рекомендуем 256 ГБ). Медиафайлы, которые люди загружают в чат, сохраняются на карте; они никогда не удаляются.
 * [ ] USB-накопитель (минимум 32 ГБ)
 *   [ ] Адаптеры (по необходимости)
