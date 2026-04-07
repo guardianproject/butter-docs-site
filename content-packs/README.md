@@ -29,7 +29,7 @@ The best way to get started with creating your own content pack is to have an id
 
 It can be very simple like an audio player for music. Or, a simple list of the five top VPN apps that you recommend. Or it can be more complex like a library or knowledge base of cultural artifacts.&#x20;
 
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
+
 
 {% stepper %}
 {% step %}
@@ -44,8 +44,6 @@ Place a folder with your website files in the **root directory** of a USB drive.
 ### Connect to your Butter Box to view
 
 Insert the USB drive into your Butter Box. When you open the Butter Box portal, tap **Files**. Navigate to the website folder. Tap to view.
-
-<figure><img src="../.gitbook/assets/media-type-placeholder.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
