@@ -22,6 +22,3 @@
 * [FAQ](faq/README.md)
   * [How to Reformat Your USB Drive](faq/how-to-reformat-your-usb-drive.md)
 * [Use Cases](case-studies.md)
-* [Archive](archive/README.md)
-  * [Apps (archive)](archive/apps-archive.md)
-  * [Add Wifi Password](archive/add-wifi-password.md)
