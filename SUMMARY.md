@@ -25,4 +25,3 @@
 * [Archive](archive/README.md)
   * [Apps (archive)](archive/apps-archive.md)
   * [Add Wifi Password](archive/add-wifi-password.md)
-  * [Documentation](archive/documentation.md)
