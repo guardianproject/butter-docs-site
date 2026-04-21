@@ -92,7 +92,8 @@ You can create a private room from two different places in the message board int
 
 Tap on your avatar in the top bar. Select **new room.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.40.27 PM.png" alt=""><figcaption></figcaption></figure>
+| <img src="../.gitbook/assets/image.png" alt="" data-size="original"> |   |
+| -------------------------------------------------------------------- | - |
 
 
 {% endstep %}

@@ -28,7 +28,7 @@ Always choose the Latest Version of the file.&#x20;
 
 To plug the micro SD card into your computer, you may need an adapter to do this:
 
-<div align="center"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Example adapter (USB-C to Micro SD)</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Example adapter (USB-C to Micro SD)</p></figcaption></figure></div>
 
 {% hint style="info" %}
 You don't need to connect the box to the computer.
