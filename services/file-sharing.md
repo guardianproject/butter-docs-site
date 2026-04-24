@@ -1,7 +1,5 @@
 # File Sharing
 
-<figure><img src="../.gitbook/assets/media-type-explore.png" alt=""><figcaption></figcaption></figure>
-
 ## Share Media, Files and Digital Books
 
 You can use your Butter Box to share media, files, and digital books. To display additional content in your portal, connect a USB drive containing the information you want to share.
