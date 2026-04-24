@@ -2,10 +2,6 @@
 
 After connecting your USB drive to the Raspberry Pi you will see the “Explore USB” title displayed on the portal. If you’ve tried refreshing your portal page and still do not see the “Explore USB” tile then you may need to erase your USB stick and reformat it.&#x20;
 
-![](../.gitbook/assets/unknown.png)<br>
-
-
-
 When you format a USB drive, all files and folders on the drive are removed and replaced with a new file system. This can help repair any issues with the flash drive itself or make it compatible with new files you want to transfer. Be sure to back up your files before formatting your drive. <br>
 
 **Check the Format of the USB**

@@ -1,7 +1,5 @@
 ---
 description: DIY instructions
-cover: ../.gitbook/assets/20250815_142438.jpg
-coverY: 0
 ---
 
 # Build A Box

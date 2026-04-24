@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/media-type-maps.png
-coverY: 0
----
-
 # Maps
 
 You can make offline maps available from your Butter Box. These maps are powered by **OpenStreetMap (OSM)** and the **OsmAnd app** for Android.&#x20;
