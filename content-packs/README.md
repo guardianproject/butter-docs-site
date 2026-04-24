@@ -44,6 +44,9 @@ Place a folder with your website files in the **root directory** of a USB drive.
 ### Connect to your Butter Box to view
 
 Insert the USB drive into your Butter Box. When you open the Butter Box portal, tap **Files**. Navigate to the website folder. Tap to view.
+
+| <img src="../.gitbook/assets/Screenshot_20260414-121919.png" alt="" data-size="original"> | <p></p><p><img src="../.gitbook/assets/Screenshot_20260414-122810.png" alt="" data-size="original"></p> |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 {% endstep %}
 {% endstepper %}
 
