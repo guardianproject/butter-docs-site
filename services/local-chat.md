@@ -29,7 +29,8 @@ First, let's look at what you can and can't do with this local chat.
 {% endcolumn %}
 {% endcolumns %}
 
-
+| <p></p><p><img src="../.gitbook/assets/Screenshot_20260421-090014.png" alt="" data-size="original"></p> | <p></p><p><img src="../.gitbook/assets/Screenshot_20260421-090815.png" alt="" data-size="original"></p> |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 
 ## Moderation
 
@@ -103,9 +104,10 @@ Tap on your avatar in the top bar. Select **new room.**
 
 Your room list is accessible from your profile page. Once here, select **new room.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.42.17 PM.png" alt=""><figcaption></figcaption></figure>
 
 
+| <p></p><p><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.42.17 PM.png" alt="" data-size="original"></p><p><img src="../.gitbook/assets/Screenshot_20260421-090201.png" alt="" data-size="original"></p> |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 {% endstep %}
 {% endstepper %}
 
