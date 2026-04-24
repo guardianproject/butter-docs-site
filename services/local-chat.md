@@ -93,8 +93,8 @@ You can create a private room from two different places in the message board int
 
 Tap on your avatar in the top bar. Select **new room.**
 
-| <img src="../.gitbook/assets/image.png" alt="" data-size="original"> |   |
-| -------------------------------------------------------------------- | - |
+| <img src="../.gitbook/assets/Screenshot_20260424-120036.png" alt="" data-size="original"> | <p></p><p><img src="../.gitbook/assets/Screenshot_20260424-120041 (1).png" alt="" data-size="original"></p> |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 
 
 {% endstep %}
@@ -102,16 +102,19 @@ Tap on your avatar in the top bar. Select **new room.**
 {% step %}
 ### Open from Room List
 
-Your room list is accessible from your profile page. Once here, select **new room.**
+Your room list is accessible from your profile page. Once here, select **My Rooms.**
 
+| <img src="../.gitbook/assets/Screenshot_20260421-090201.png" alt="" data-size="original"> | <p></p><p><img src="../.gitbook/assets/Screenshot_20260424-120056.png" alt="" data-size="original"></p> |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+{% endstep %}
 
+{% step %}
+### Open from Drop-down
 
-| <p></p><p><img src="../.gitbook/assets/Screenshot 2026-01-20 at 1.42.17 PM.png" alt="" data-size="original"></p><p><img src="../.gitbook/assets/Screenshot_20260421-090201.png" alt="" data-size="original"></p> |   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+Your room list is accessible from the drop-down arrow next to the room name.
+
+| <p></p><p><img src="../.gitbook/assets/Screenshot_20260421-090754.png" alt="" data-size="original"></p> | <p></p><p><img src="../.gitbook/assets/Screenshot_20260424-120142.png" alt="" data-size="original"></p><p></p> |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 {% endstep %}
 {% endstepper %}
-
-
-
-
 
